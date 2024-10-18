@@ -98,7 +98,7 @@
   "course-authoring.export.title-under-button": "Exportar el contenido de mi curso",
   "course-authoring.export.button.title": "Exportar contenido del curso",
   "authoring.loading": "Cargando...",
-  "authoring.alert.error.notfound": "Extraviado.",
+  "authoring.alert.error.notfound": "Su curso se está creando, por favor recargue la página en 15 segundos.",
   "authoring.alert.error.permission": "No estás autorizado para visualizar esta página. Si crees que deberías tener acceso, por favor contacta con el equipo de administración del curso para solicitar acceso.",
   "authoring.alert.save.error.connection": "Hemos detectado un error técnico al guardar los cambios. Esto puede ser un problema temporal, así que por favor intente nuevamente en unos minutos. Si el problema persiste, por favor solicite ayuda en {supportLink}.",
   "course-authoring.grading-settings.heading.title": "Calificaciones",
