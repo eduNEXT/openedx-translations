@@ -4432,7 +4432,7 @@ msgstr "Lehrplan"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "Daten"
+msgstr "Datennnnnn"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
