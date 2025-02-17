@@ -8856,83 +8856,6 @@ msgstr "Benachrichtigungs-App"
 msgid "Notification Type"
 msgstr "Benachrichtigungstyp"
 
-#: openedx/core/djangoapps/notifications/base_notification.py:19
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{replier_name}</{strong}> commented on your response to the "
-"post <{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat Ihre "
-"Antwort auf den Beitrag kommentiert &lt; <span class='notranslate'>{strong} "
-"&gt; {post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:32
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{replier_name}</{strong}> commented on "
-"<{strong}>{author_name}</{strong}> response to your post "
-"<{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; kommentierte"
-" &lt; <span class='notranslate'>{strong} &gt; {author_name} </ {strong} &gt;"
-" Antwort auf Ihren Beitrag &lt; <span class='notranslate'>{strong} &gt; "
-"{post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:46
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{replier_name}</{strong}> responded to your post "
-"<{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat auf "
-"Ihren Beitrag geantwortet &lt; <span class='notranslate'>{strong} &gt; "
-"{post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:65
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{username}</{strong}> posted "
-"<{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {username} </ {strong} &gt; gepostet &lt; "
-"<span class='notranslate'>{strong} &gt; {post_title} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:83
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{username}</{strong}> asked "
-"<{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {username} </ {strong} &gt; gefragt &lt; "
-"<span class='notranslate'>{strong} &gt; {post_title} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:97
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{replier_name}</{strong}> responded to a post you’re "
-"following: <{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat auf "
-"einen Beitrag geantwortet, den Sie verfolgen: &lt; <span "
-"class='notranslate'>{strong} &gt; {post_title} </<span class='notranslate'> "
-"{strong} &gt; </<span class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:112
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{replier_name}</{strong}> commented on {author_name}'s "
-"response in a post you’re following <{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat die "
-"Antwort von <span class='notranslate'>{author_name} in einem Beitrag "
-"kommentiert, den Sie verfolgen &lt; {strong} &gt; {post_title} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
-
 #: openedx/core/djangoapps/notifications/base_notification.py:132
 #, python-brace-format
 msgid ""
@@ -8941,47 +8864,6 @@ msgid ""
 msgstr ""
 "<p><strong>{username} &#39;s</strong> {content_type} wurde gemeldet "
 "<strong>{content}</strong></p>"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:149
-#, python-brace-format
-msgid ""
-"<{p}><{strong}>{replier_name}</{strong}> response has been endorsed in your "
-"post <{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; Antwort "
-"wurde in Ihrem Beitrag bestätigt &lt; <span class='notranslate'>{strong} "
-"&gt; {post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:164
-#, python-brace-format
-msgid ""
-"<{p}><Your response has been endorsed "
-"<{strong}>{post_title}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt; <Your response has been endorsed < {strong} &gt; <span "
-"class='notranslate'>{post_title} </<span class='notranslate'> {strong} &gt; "
-"</<span class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:181
-#, python-brace-format
-msgid ""
-"<{p}>You have a new course update: "
-"<{strong}>{course_update_content}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;Sie haben ein neues Kursupdate: &lt; {strong} &gt; "
-"{course_update_content} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
-
-#: openedx/core/djangoapps/notifications/base_notification.py:199
-#, python-brace-format
-msgid ""
-"<{p}>You have a new open response submission awaiting for review for : "
-"<{strong}>{ora_name}</{strong}></{p}>"
-msgstr ""
-"&lt; {p} &gt;Sie haben eine neue offene Antworteinreichung, die auf "
-"Überprüfung wartet für: &lt; {strong} &gt; {ora_name} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:213
 msgid ""
@@ -10263,11 +10145,6 @@ msgstr ""
 #: openedx/core/djangoapps/user_authn/views/register.py:340
 msgid "The provided access_token is not valid."
 msgstr "Das angegebene Zugriffstoken ist ungültig."
-
-#: openedx/core/djangoapps/user_authn/views/registration_form.py:108
-msgid "Full Name cannot contain the following characters: < >"
-msgstr ""
-"Der vollständige Name darf die folgenden Zeichen nicht enthalten: &lt; &gt;"
 
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:148
 msgid "A properly formatted e-mail is required"
@@ -12157,28 +12034,6 @@ msgstr ""
 msgid "Discussion Topic Mapping"
 msgstr "Diskussionsthema-Mapping"
 
-#: xmodule/course_block.py:419
-msgid ""
-"Enter discussion categories in the following format: \"CategoryName\": "
-"{\"id\": \"i4x-InstitutionName-CourseNumber-course-CourseRun\"}. For "
-"example, one discussion category may be \"Lydian Mode\": {\"id\": "
-"\"i4x-UniversityX-MUS101-course-2015_T1\"}. The \"id\" value for each "
-"category must be unique. In \"id\" values, the only special characters that "
-"are supported are underscore, hyphen, and period. You can also specify a "
-"category as the default for new posts in the Discussion page by setting its "
-"\"default\" attribute to true. For example, \"Lydian Mode\": {\"id\": "
-"\"i4x-UniversityX-MUS101-course-2015_T1\", \"default\": true}."
-msgstr ""
-"Geben Sie Diskussionskategorien im folgenden Format ein: „Kategoriename“: "
-"{„id“: „i4x-Institutionsname-Kursnummer-Kurs-Kursdurchführung“}. Eine "
-"Diskussionskategorie könnte beispielsweise „Lydianischer Modus“ sein: {„id“:"
-" „i4x-UniversityX-MUS101-Kurs-2015_T1“}. Der „id“-Wert für jede Kategorie "
-"muss eindeutig sein. In „id“-Werten werden als Sonderzeichen nur "
-"Unterstrich, Bindestrich und Punkt unterstützt. Sie können eine Kategorie "
-"auch als Standard für neue Beiträge auf der Diskussionsseite festlegen, "
-"indem Sie ihr „default“-Attribut auf „true“ setzen. Beispiel: „Lydianischer "
-"Modus“: {„id“: „i4x-UniversityX-MUS101-Kurs-2015_T1“, „default“: true}."
-
 #: xmodule/course_block.py:431
 msgid "Discussions Plugin Settings"
 msgstr "Diskussionen-Plugin-Einstellungen"
@@ -13024,19 +12879,6 @@ msgstr ""
 #: cms/templates/settings_graders.html:166
 msgid "Other Course Settings"
 msgstr "Andere Kurseinstellungen"
-
-#: xmodule/course_block.py:1055
-msgid ""
-"Any additional information about the course that the platform needs or that "
-"allows integration with external systems such as CRM software. Enter a "
-"dictionary of values in JSON format, such as { \"my_custom_setting\": "
-"\"value\", \"other_setting\": \"value\" }"
-msgstr ""
-"Alle zusätzlichen Informationen zum Kurs, die die Plattform benötigt oder "
-"die eine Integration mit externen Systemen wie CRM-Software ermöglichen. "
-"Geben Sie ein Wörterbuch mit Werten im JSON-Format ein, z. B. { "
-"&quot;my_custom_setting&quot;: &quot;value&quot;, &quot;other_setting&quot;:"
-" &quot;value&quot; }"
 
 #: xmodule/course_block.py:1107
 msgid "General"
