@@ -160,7 +160,7 @@
   "discussions.post.unfollow.description": "No estás siguiendo esta publicación",
   "discussions.app.title": "Debates",
   "discussions.posts.actionBar.searchAllPosts": "Buscar en todas las publicaciones",
-  "discussions.posts.actionBar.search": "{página, Seleccionar , temas {Buscar temas} publicaciones {Buscar todas las publicaciones} alumnos {Buscar alumnos} myPosts {Buscar todas las publicaciones} otros {{page}} }",
+  "discussions.posts.actionBar.search": "{page, select, topics {Buscar temas} posts {Buscar todas las publicaciones} learners {Buscar alumnos} myPosts {Buscar todas las publicaciones} other {{page}} }",
   "discussions.actionBar.searchInfo": "Mostrando resultados de {count} para &quot;{text}&quot;",
   "discussions.actionBar.searchRewriteInfo": "No results found for \"{searchString}\". Showing {count} results for \"{textSearchRewrite}\".",
   "discussions.actionBar.searchInfoSearching": "Buscando..",
