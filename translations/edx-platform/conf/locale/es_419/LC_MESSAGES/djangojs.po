@@ -1339,7 +1339,7 @@ msgstr "Esta {parentCategory} no tiene {childCategory}"
 #: cms/templates/js/group-configuration-details.underscore:88
 #: cms/templates/js/partition-group-details.underscore:63
 msgid "Course Outline"
-msgstr "Estructura del curso"
+msgstr "Módulos del curso"
 
 #: cms/static/js/views/paged_container.js:260
 msgid "Date added"
@@ -11994,3 +11994,11 @@ msgstr "Actualmente está compartiendo un perfil limitado."
 #: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:7
 msgid "This learner is currently sharing a limited profile."
 msgstr "Este usuario está compartiendo un perfil limitado."
+
+#: lms/templates/preview_menu.html:59
+msgid "View this course as:"
+msgstr "Ver este curso como:"
+
+#: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:120
+msgid "View Course in Studio"
+msgstr "Ver el curso en Studio"
