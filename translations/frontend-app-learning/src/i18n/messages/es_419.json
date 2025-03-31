@@ -467,5 +467,6 @@
   "learn.sequence.navigation.next.button": "Siguiente",
   "learn.sequence.navigation.next.up.button": "Siguiente: {title}",
   "learn.sequence.navigation.previous.button": "Anterior",
-  "discussions.sidebar.open.button": "Mostrar bandeja de discusiones"
+  "discussions.sidebar.open.button": "Mostrar bandeja de discusiones",
+  "instructor.toolbar.view.as": "Ver este curso como:"
 }
