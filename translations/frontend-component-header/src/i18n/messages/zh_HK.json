@@ -31,5 +31,6 @@
   "header.menu.signOut.label": "登出",
   "header.user.menu.studio": "工作室主頁",
   "header.label.courseOutline": "返回工作室中的課程大綱",
-  "header.label.search.nav": "搜尋內容"
+  "header.label.search.nav": "搜尋內容",
+  "header.links.aboutUs": "關於 EDU"
 }

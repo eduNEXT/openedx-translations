@@ -31,5 +31,6 @@
   "header.menu.signOut.label": "Tizimdan chiqish",
   "header.user.menu.studio": "Studio uyi",
   "header.label.courseOutline": "Studiyadagi kurs rejasiga qaytish",
-  "header.label.search.nav": "Kontentni qidirish"
+  "header.label.search.nav": "Kontentni qidirish",
+  "header.links.aboutUs": "EDU haqida"
 }

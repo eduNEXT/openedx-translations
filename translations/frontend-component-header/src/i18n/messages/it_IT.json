@@ -32,5 +32,6 @@
   "header.menu.signOut.label": "Esci",
   "header.user.menu.studio": "Home di Studio",
   "header.user.menu.maintenance": "Manutenzione",
-  "header.label.courseOutline": "Torna alla struttura del corso in Studio"
+  "header.label.courseOutline": "Torna alla struttura del corso in Studio",
+  "header.links.aboutUs": "Informazioni su EDU"
 }

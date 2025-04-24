@@ -32,5 +32,6 @@
   "header.menu.signOut.label": "Log ud",
   "header.user.menu.studio": "Studio hjem",
   "header.user.menu.maintenance": "Vedligeholdelse",
-  "header.label.courseOutline": "Tilbage til kursusoversigt i Studio"
+  "header.label.courseOutline": "Tilbage til kursusoversigt i Studio",
+  "header.links.aboutUs": "Om EDU"
 }

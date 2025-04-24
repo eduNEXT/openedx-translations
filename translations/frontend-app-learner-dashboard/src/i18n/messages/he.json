@@ -152,5 +152,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} לא אישר את בקשתך לזיכוי הקורס. למידע נוסף, צור קשר ישירות עם {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "בקש נקודות זכות",
   "learner-dash.courseCard.banners.credit.viewCredit": "צפה בנקודות זכות",
-  "learner-dash.courseCard.banners.credit.viewDetails": "צפה בפרטים"
+  "learner-dash.courseCard.banners.credit.viewDetails": "צפה בפרטים",
+  "learnerVariantDashboard.aboutUs": "על EDU"
 }

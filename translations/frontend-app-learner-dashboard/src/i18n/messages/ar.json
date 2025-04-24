@@ -152,5 +152,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "لم يوافق {providerName} على طلبك للحصول على رصيد الدورة التدريبية. لمزيد من المعلومات اتصل مباشرة {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "اطلب مادّة دراسية",
   "learner-dash.courseCard.banners.credit.viewCredit": "استعرض المواد الدراسية",
-  "learner-dash.courseCard.banners.credit.viewDetails": "استعرض التفاصيل"
+  "learner-dash.courseCard.banners.credit.viewDetails": "استعرض التفاصيل",
+  "learnerVariantDashboard.aboutUs": "حول EDU"
 }

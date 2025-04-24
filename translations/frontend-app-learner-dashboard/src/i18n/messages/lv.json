@@ -142,5 +142,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} neapstiprināja jūsu pieprasījumu pēc kursa kredīta. Lai iegūtu papildinformāciju, tieši sazinieties ar {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Pieprasīt kredītu",
   "learner-dash.courseCard.banners.credit.viewCredit": "Skatīt kredītu",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Skatīt detaļas"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Skatīt detaļas",
+  "learnerVariantDashboard.aboutUs": "Par EDU"
 }

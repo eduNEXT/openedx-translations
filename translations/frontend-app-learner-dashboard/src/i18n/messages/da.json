@@ -152,5 +152,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} godkendte ikke din anmodning om kursuskredit. For mere information, kontakt {linkToProviderSite} direkte.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Anmod om kredit",
   "learner-dash.courseCard.banners.credit.viewCredit": "Se Rabat",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Se Detaljer"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Se Detaljer",
+  "learnerVariantDashboard.aboutUs": "Om EDU"
 }

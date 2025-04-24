@@ -1,7 +1,7 @@
 {
-  "header.links.courses": "Cursos",
+  "header.links.courses": "Mis cursos",
   "header.links.programs": "Programas",
-  "header.links.content.search": "Encontrar nuevo",
+  "header.links.content.search": "Catálogo",
   "header.links.schools": "Escuelas y Socios",
   "header.user.menu.dashboard": "Panel de Control",
   "header.user.menu.profile": "Perfil",
@@ -31,5 +31,6 @@
   "header.menu.signOut.label": "Cerrar sesión",
   "header.user.menu.studio": "Inicio Studio",
   "header.label.courseOutline": "Volver al esquema del curso en Studio",
-  "header.label.search.nav": "Buscar contenido"
+  "header.label.search.nav": "Buscar contenido",
+  "header.links.aboutUs": "Acerca de EDU"
 }

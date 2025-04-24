@@ -31,5 +31,6 @@
   "header.menu.signOut.label": "साइन आउट करें",
   "header.user.menu.studio": "स्टूडियो होम",
   "header.label.courseOutline": "स्टूडियो में पाठ्यक्रम की रूपरेखा पर वापस जाएँ",
-  "header.label.search.nav": "खोज सामग्री"
+  "header.label.search.nav": "खोज सामग्री",
+  "header.links.aboutUs": "EDU के बारे में"
 }
