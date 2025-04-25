@@ -32,5 +32,6 @@
   "header.menu.signOut.label": "Ausloggen",
   "header.user.menu.studio": "Studioheim",
   "header.user.menu.maintenance": "Wartung",
-  "header.label.courseOutline": "Zurück zur Kursübersicht im Studio"
+  "header.label.courseOutline": "Zurück zur Kursübersicht im Studio",
+  "header.links.aboutUs": "Über EDU"
 }

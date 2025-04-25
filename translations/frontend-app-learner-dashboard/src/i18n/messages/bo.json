@@ -142,5 +142,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} ཡིས་ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་credit ཡི་རེ་ཞུ་དེ་ངོས་ལེན་བྱས་མ་སོང་། འདིའི་སྐོར་གྱི་གནས་ཚུལ་རྒྱས་པ་དགོས་ན་ཐད་ཀར་ {linkToProviderSite} འདིར་འབྲེལ་བ་གནང་རོགས།",
   "learner-dash.courseCard.banners.credit.requestCredit": "Credit ཡི་རེ་ཞུ།",
   "learner-dash.courseCard.banners.credit.viewCredit": "Credit སྟོན།",
-  "learner-dash.courseCard.banners.credit.viewDetails": "ཞིབ་ཕྲར་གཟིགས།"
+  "learner-dash.courseCard.banners.credit.viewDetails": "ཞིབ་ཕྲར་གཟིགས།",
+  "learnerVariantDashboard.aboutUs": "EDU སྐོར་ལ་"
 }

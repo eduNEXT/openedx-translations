@@ -152,5 +152,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} hat Ihren Antrag auf Kursgutschrift nicht genehmigt. Für weitere Informationen wenden Sie sich direkt an {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Credits anfordern",
   "learner-dash.courseCard.banners.credit.viewCredit": "Credit anzeigen",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Details anzeigen"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Details anzeigen",
+  "learnerVariantDashboard.aboutUs": "Über EDU"
 }

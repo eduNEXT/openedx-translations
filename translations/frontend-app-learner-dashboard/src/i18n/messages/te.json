@@ -152,5 +152,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} కోర్సు క్రెడిట్ కోసం మీ అభ్యర్థనను ఆమోదించలేదు. మరింత సమాచారం కోసం, నేరుగా {linkToProviderSite} ని సంప్రదించండి.",
   "learner-dash.courseCard.banners.credit.requestCredit": "క్రెడిట్ అభ్యర్థించండి",
   "learner-dash.courseCard.banners.credit.viewCredit": "క్రెడిట్‌ని వీక్షించండి",
-  "learner-dash.courseCard.banners.credit.viewDetails": "వివరాలను వీక్షించండి"
+  "learner-dash.courseCard.banners.credit.viewDetails": "వివరాలను వీక్షించండి",
+  "learnerVariantDashboard.aboutUs": "EDU గురించి"
 }

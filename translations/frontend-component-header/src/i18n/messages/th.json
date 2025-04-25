@@ -32,5 +32,6 @@
   "header.menu.signOut.label": "Sign Out",
   "header.user.menu.studio": "สตูดิโอโฮม",
   "header.user.menu.maintenance": "บำรุงรักษา",
-  "header.label.courseOutline": "กลับไปที่โครงร่างหลักสูตรใน Studio"
+  "header.label.courseOutline": "กลับไปที่โครงร่างหลักสูตรใน Studio",
+  "header.links.aboutUs": "เกี่ยวกับ EDU"
 }

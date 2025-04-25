@@ -152,5 +152,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} не одобрил ваш запрос на получение кредита за курс. Для получения дополнительной информации свяжитесь напрямую с {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Запросить зачётные единицы",
   "learner-dash.courseCard.banners.credit.viewCredit": "Посмотреть баллы",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Подробнее"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Подробнее",
+  "learnerVariantDashboard.aboutUs": "О EDU"
 }
