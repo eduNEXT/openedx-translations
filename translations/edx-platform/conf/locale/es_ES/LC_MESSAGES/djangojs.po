@@ -3,17 +3,17 @@
 # Copyright (C) 2024 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2024.
-# 
+#
 # #-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
-# 
+#
 # Translators:
 # Brian Smith, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2024
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -12150,3 +12150,15 @@ msgstr "Estás compartiendo un perfil limitado en este momento."
 #: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:7
 msgid "This learner is currently sharing a limited profile."
 msgstr "Este estudiante está compartiendo un perfil limitado en este momento."
+
+#: lms/templates/preview_menu.html:59
+msgid "View this course as:"
+msgstr "Ver este curso como:"
+
+#: lms/templates/preview_menu.html:63
+msgid "Specific learner"
+msgstr "Estudiante específico"
+
+#: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:120
+msgid "View Course in Studio"
+msgstr "Ver Curso en Studio"
