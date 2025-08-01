@@ -11,17 +11,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 # Translators:
-# Omar Al-Ithawi <i@omardo.com>, 2024
-# Eden Huthmacher, 2024
+# Brian Smith, 2024
+# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2024
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-29 00:34+0000\n"
-"PO-Revision-Date: 2024-05-09 18:48+0000\n"
-"Last-Translator: Eden Huthmacher, 2024\n"
+"POT-Creation-Date: 2024-03-08 00:31+0000\n"
+"PO-Revision-Date: 2023-11-20 11:35+0000\n"
+"Last-Translator: edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2024\n"
 "Language-Team: Spanish (Spain) (https://app.transifex.com/open-edx/teams/6205/es_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -283,41 +283,41 @@ msgstr "Mostrar opciones obsoletas"
 msgid "You have unsaved changes. Do you really want to leave this page?"
 msgstr "No has guardado los cambios. ¿Seguro que quieres abandonar la página?"
 
-#: cms/static/js/features/import/factories/import.js:22
+#: cms/static/js/features/import/factories/import.js:20
 msgid "There was an error during the upload process."
 msgstr "Ha ocurrido un error durante el proceso de carga."
 
-#: cms/static/js/features/import/factories/import.js:23
+#: cms/static/js/features/import/factories/import.js:21
 msgid "There was an error while unpacking the file."
 msgstr "Ha ocurrido un error desempaquetando el archivo."
 
-#: cms/static/js/features/import/factories/import.js:24
+#: cms/static/js/features/import/factories/import.js:22
 msgid "There was an error while verifying the file you submitted."
 msgstr "Ha ocurrido un error verificando el archivo que has enviado."
 
-#: cms/static/js/features/import/factories/import.js:33
+#: cms/static/js/features/import/factories/import.js:31
 msgid "Choose new file"
 msgstr "Escoge un nuevo archivo"
 
-#: cms/static/js/features/import/factories/import.js:48
+#: cms/static/js/features/import/factories/import.js:46
 msgid ""
 "File format not supported. Please upload a file with a {ext} extension."
 msgstr ""
 "Formato de archivo no admitido. Por favor, sube un archivo con la extensión "
 "{ext}."
 
-#: cms/static/js/features/import/factories/import.js:56
+#: cms/static/js/features/import/factories/import.js:54
 msgid "There was an error while importing the new library to our database."
 msgstr ""
 "Ha ocurrido un error al importar la nueva biblioteca a nuestra base de "
 "datos."
 
-#: cms/static/js/features/import/factories/import.js:58
+#: cms/static/js/features/import/factories/import.js:56
 msgid "There was an error while importing the new course to our database."
 msgstr ""
 "Ha ocurrido un error importando el nuevo curso a nuestra base de datos."
 
-#: cms/static/js/features/import/factories/import.js:121
+#: cms/static/js/features/import/factories/import.js:119
 msgid "Your import has failed."
 msgstr "Tu importación ha fallado."
 
@@ -3991,12 +3991,12 @@ msgid "Please enter a username or email."
 msgstr "Por favor, escribe un nombre de usuario o correo electrónico."
 
 #: lms/static/js/instructor_dashboard/membership.js:198
-#: lms/static/js/instructor_dashboard/membership.js:1049
+#: lms/static/js/instructor_dashboard/membership.js:1029
 msgid "This role requires a divided discussions scheme."
 msgstr "Este rol requiere un esquema de debates divididos."
 
 #: lms/static/js/instructor_dashboard/membership.js:262
-#: lms/static/js/instructor_dashboard/membership.js:984
+#: lms/static/js/instructor_dashboard/membership.js:964
 msgid "Error changing user's permissions."
 msgstr "Error al cambiar los permisos de usuario."
 
@@ -4049,18 +4049,12 @@ msgstr "Todas las cuentas se crearon satisfactoriamente."
 msgid "Error adding/removing users as beta testers."
 msgstr "Fallo al añadir/eliminar usuarios como probadores de beta"
 
-#. Translators: For cases when the input field is empty;
-#: lms/static/js/instructor_dashboard/membership.js:518
-#: lms/static/js/instructor_dashboard/membership.js:728
-msgid "This field must not be blank"
-msgstr "Éste campo no debe quedar en blanco"
-
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:534
+#: lms/static/js/instructor_dashboard/membership.js:528
 msgid "These users were successfully added as beta testers:"
 msgstr "Los usuarios fueron añadidos con éxito como probadores de beta"
 
-#: lms/static/js/instructor_dashboard/membership.js:539
+#: lms/static/js/instructor_dashboard/membership.js:533
 msgid ""
 "These users could not be added as beta testers because their accounts are "
 "not yet activated:"
@@ -4069,25 +4063,21 @@ msgstr ""
 "cuentas aún no están activadas:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:545
+#: lms/static/js/instructor_dashboard/membership.js:539
 msgid "These users were successfully removed as beta testers:"
 msgstr "Los usuarios fueron eliminados con éxito como probadores de beta:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:558
+#: lms/static/js/instructor_dashboard/membership.js:552
 msgid "These users were not added as beta testers:"
 msgstr "Los usuarios no fueron añadidos como probadores de beta:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:571
+#: lms/static/js/instructor_dashboard/membership.js:565
 msgid "These users were not removed as beta testers:"
 msgstr "Los usuarios no fueron eliminados como probadores de beta:"
 
-#: lms/static/js/instructor_dashboard/membership.js:583
-msgid "Could not find users associated with the following identifiers:"
-msgstr "No se encuentran usuarios asociados a los siguientes identificadores:"
-
-#: lms/static/js/instructor_dashboard/membership.js:592
+#: lms/static/js/instructor_dashboard/membership.js:578
 msgid ""
 "Users must create and activate their account before they can be promoted to "
 "beta tester."
@@ -4095,31 +4085,35 @@ msgstr ""
 "Los usuarios tienen que crear y activar sus cuentas antes de que se les "
 "pueda asignar el rol de probadores de beta."
 
-#: lms/static/js/instructor_dashboard/membership.js:617
+#: lms/static/js/instructor_dashboard/membership.js:580
+msgid "Could not find users associated with the following identifiers:"
+msgstr "No se encuentran usuarios asociados a los siguientes identificadores:"
+
+#: lms/static/js/instructor_dashboard/membership.js:611
 msgid "Reason field should not be left blank."
 msgstr "El campo del motivo no puede estar en blanco."
 
-#: lms/static/js/instructor_dashboard/membership.js:638
+#: lms/static/js/instructor_dashboard/membership.js:632
 msgid "Error enrolling/unenrolling users."
 msgstr "Error de inscripción/borrado de los usuarios."
 
-#: lms/static/js/instructor_dashboard/membership.js:731
+#: lms/static/js/instructor_dashboard/membership.js:711
 msgid "The following email addresses and/or usernames are invalid:"
 msgstr ""
 "Los siguientes correos electrónicos y/o nombres de usuarios no son válidos:"
 
-#: lms/static/js/instructor_dashboard/membership.js:768
+#: lms/static/js/instructor_dashboard/membership.js:748
 msgid "Successfully enrolled and sent email to the following users:"
 msgstr ""
 "Alumnos inscritos correctamente y correo enviado a los siguientes usuarios:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:780
+#: lms/static/js/instructor_dashboard/membership.js:760
 msgid "Successfully enrolled the following users:"
 msgstr "Alumnos inscritos correctamente:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:792
+#: lms/static/js/instructor_dashboard/membership.js:772
 msgid ""
 "Email cannot be sent to the following users via batch enrollment. They will "
 "be allowed to enroll once they register:"
@@ -4129,12 +4123,12 @@ msgstr ""
 "registren:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:804
+#: lms/static/js/instructor_dashboard/membership.js:784
 msgid "These users will be allowed to enroll once they register:"
 msgstr "Estos alumnos serán inscritos una vez se hayan registrado:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:816
+#: lms/static/js/instructor_dashboard/membership.js:796
 msgid ""
 "Email cannot be sent to the following users via batch enrollment. They will "
 "be enrolled once they register:"
@@ -4143,12 +4137,12 @@ msgstr ""
 "de la inscripción por lotes. Se inscribirán una vez que se registren:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:828
+#: lms/static/js/instructor_dashboard/membership.js:808
 msgid "These users will be enrolled once they register:"
 msgstr "Estos alumnos serán inscritos una vez se hayan registrado:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:840
+#: lms/static/js/instructor_dashboard/membership.js:820
 msgid ""
 "Emails successfully sent. The following users are no longer enrolled in the "
 "course:"
@@ -4157,11 +4151,11 @@ msgstr ""
 " en el curso:"
 
 #. Translators: A list of users appears after this sentence;
-#: lms/static/js/instructor_dashboard/membership.js:852
+#: lms/static/js/instructor_dashboard/membership.js:832
 msgid "The following users are no longer enrolled in the course:"
 msgstr " Los siguientes alumnos ya no están inscritos en el curso:"
 
-#: lms/static/js/instructor_dashboard/membership.js:863
+#: lms/static/js/instructor_dashboard/membership.js:843
 msgid ""
 "These users were not affiliated with the course so could not be unenrolled:"
 msgstr ""
@@ -8458,10 +8452,10 @@ msgstr "Editar el título"
 #: cms/templates/js/embed-link-share-link-editor.underscore:5
 msgid ""
 "Embed your subsection content directly on a page using an iframe, and view "
-"it without the LMS header and footer."
+"it withput the LMS header and footer."
 msgstr ""
 "Incruste el contenido de su subsección directamente en una página usando un "
-"iframe y véalo sin el encabezado y pie de página de LMS."
+"iframe y visualícelo sin el encabezado y pie de página del LMS."
 
 #: cms/templates/js/embed-link-share-link-editor.underscore:11
 #: cms/templates/js/full-page-share-link-editor.underscore:11
