@@ -735,7 +735,7 @@ msgid ""
 "\n"
 "{err}"
 msgstr ""
-"No se puede crear el curso &#39;{nombre}&#39;.\n"
+"No se puede crear el curso &#39;{name}&#39;.\n"
 "\n"
 " {err}"
 
@@ -831,7 +831,7 @@ msgid ""
 "\n"
 "{err}"
 msgstr ""
-"No se puede crear la biblioteca &#39;{nombre}&#39;.\n"
+"No se puede crear la biblioteca &#39;{name}&#39;.\n"
 "\n"
 " {err}"
 
@@ -1157,7 +1157,7 @@ msgstr "El curso ya está en estado publicado."
 #, python-brace-format
 msgid "Incorrect format for field '{name}'. {detailed_message}"
 msgstr ""
-"Formato incorrecto para el campo &#39;{nombre}&#39;. {detailed_message}"
+"Formato incorrecto para el campo &#39;{name}&#39;. {detailed_message}"
 
 #: cms/lib/xblock/tagging/tagging.py:21
 msgid "Dictionary with the available tags"
@@ -3476,7 +3476,7 @@ msgstr "El usuario no está dado."
 #: lms/djangoapps/certificates/views/support.py:100
 #, python-brace-format
 msgid "user '{user}' does not exist"
-msgstr "el usuario &#39;{usuario}&#39; no existe"
+msgstr "el usuario &#39;{user}&#39; no existe"
 
 #: lms/djangoapps/certificates/views/support.py:114
 #, python-brace-format
@@ -5942,7 +5942,7 @@ msgid ""
 "'{student}'"
 msgstr ""
 "No se puede encontrar que la presentación del examen de ingreso sea {action}"
-" para el estudiante &#39;{estudiante}&#39;"
+" para el estudiante &#39;{student}&#39;"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.
@@ -13045,7 +13045,7 @@ msgstr "Se eliminan las puntuaciones más bajas {drop_count} {section_type} ."
 #: xmodule/graders.py:433
 #, python-brace-format
 msgid "{section_type} Average = {percent:.0%}"
-msgstr "{section_type} Promedio = {porcentaje:.0%}"
+msgstr "{section_type} Promedio = {percent:.0%}"
 
 #. Translators: Avg is short for Average
 #: xmodule/graders.py:438
