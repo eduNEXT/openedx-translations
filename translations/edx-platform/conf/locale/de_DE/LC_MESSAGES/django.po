@@ -428,7 +428,7 @@ msgstr "Duplikat von {0}"
 #: cms/djangoapps/contentstore/utils.py:1229
 #, python-brace-format
 msgid "Duplicate of '{0}'"
-msgstr "Duplikat von &#39;{0}&#39;"
+msgstr "Duplikat von '{0}'"
 
 #: cms/djangoapps/contentstore/utils.py:1285
 msgid "Invalid prerequisite course key"
@@ -649,7 +649,7 @@ msgstr "muss den Namen des Zertifikats haben"
 #: cms/djangoapps/contentstore/views/certificates.py:250
 #, python-brace-format
 msgid "Certificate dict {0} missing value key '{1}'"
-msgstr "Zertifikat dict {0} fehlender Wertschlüssel &#39;{1}&#39;"
+msgstr "Zertifikat dict {0} fehlender Wertschlüssel '{1}'"
 
 #: cms/djangoapps/contentstore/views/certificates.py:355
 #: cms/djangoapps/contentstore/views/certificates.py:393
@@ -1042,7 +1042,7 @@ msgstr "%"
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:1562
 #, python-brace-format
 msgid "{section_or_subsection} \"{display_name}\""
-msgstr "{section_or_subsection} &quot; {display_name} &quot;"
+msgstr "{section_or_subsection} \"{display_name}\""
 
 #: cms/djangoapps/course_creators/models.py:40
 msgid "unrequested"
@@ -3083,13 +3083,13 @@ msgid ""
 "Completed the course \"{course_name}\" ({course_mode}, {start_date} - "
 "{end_date})"
 msgstr ""
-"Den Kurs &quot; {course_name} &quot; abgeschlossen ( {course_mode} , "
-"{start_date} - {end_date} )"
+"Den Kurs \"{course_name}\" abgeschlossen ({course_mode}, "
+"{start_date} - {end_date})"
 
 #: lms/djangoapps/badges/events/course_complete.py:50
 #, python-brace-format
 msgid "Completed the course \"{course_name}\" ({course_mode})"
-msgstr "Den Kurs &quot; {course_name} &quot; ( {course_mode} ) abgeschlossen"
+msgstr "Den Kurs \"{course_name}\" ({course_mode}) abgeschlossen"
 
 #: lms/djangoapps/badges/models.py:15
 msgid "The badge image must be square."
@@ -3281,7 +3281,7 @@ msgstr "Laden Sie die mobile App {platform_name} von Google Play herunter"
 #: lms/djangoapps/bulk_email/tasks.py:383
 #, python-brace-format
 msgid "\"{course_title}\" Course Staff"
-msgstr "&quot; {course_title} &quot; Kurspersonal"
+msgstr "\"{course_title}\" Kurspersonal"
 
 #: lms/djangoapps/ccx/plugins.py:22
 msgid "CCX Coach"
@@ -4036,7 +4036,7 @@ msgstr ""
 #: lms/djangoapps/course_wiki/views.py:80
 #, python-brace-format
 msgid "This is the wiki for **{organization}**'s _{course_name}_."
-msgstr "Dies ist das Wiki für ** {organization} **&#39;s _ {course_name} _."
+msgstr "Dies ist das Wiki für ** {organization} **'s _ {course_name} _."
 
 #: lms/djangoapps/course_wiki/views.py:90
 msgid "Course page automatically created."
@@ -4937,7 +4937,7 @@ msgid ""
 "Without the email student would not be able to login. Please contact support"
 " for further information."
 msgstr ""
-"Fehler &#39;{error}&#39; beim Senden der E-Mail an den neuen Benutzer "
+"Fehler '{error}' beim Senden der E-Mail an den neuen Benutzer "
 "(Benutzer-E-Mail = {email} ). Ohne die E-Mail können sich die Studenten "
 "nicht anmelden. Bitte wenden Sie sich für weitere Informationen an den "
 "Support."
@@ -5478,12 +5478,12 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:3334
 #, python-brace-format
 msgid "user \"{user}\" in row# {row}"
-msgstr "Benutzer &quot; {user} &quot; in Zeile Nr. {row}"
+msgstr "Benutzer \"{user}\" in Zeile Nr. {row}"
 
 #: lms/djangoapps/instructor/views/api.py:3385
 #, python-brace-format
 msgid "user \"{username}\" in row# {row}"
-msgstr "Benutzer &quot; {username} &quot; in Zeile Nr. {row}"
+msgstr "Benutzer \"{username}\" in Zeile Nr. {row}"
 
 #: lms/djangoapps/instructor/views/api.py:3426
 #, python-brace-format
@@ -5907,7 +5907,7 @@ msgstr ""
 #: lms/djangoapps/instructor_task/views.py:168
 #, python-brace-format
 msgid "Problem successfully {action} for student '{student}'"
-msgstr "Problem erfolgreich {action} für Student &#39;{student}&#39;"
+msgstr "Problem erfolgreich {action} für Student '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.
@@ -5925,7 +5925,7 @@ msgstr ""
 #: lms/djangoapps/instructor_task/views.py:179
 #, python-brace-format
 msgid "Entrance exam successfully {action} for student '{student}'"
-msgstr "Aufnahmeprüfung erfolgreich {action} für Student &#39;{student}&#39;"
+msgstr "Aufnahmeprüfung erfolgreich {action} für Student '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #: lms/djangoapps/instructor_task/views.py:184
@@ -8864,10 +8864,8 @@ msgid ""
 "<{p}><{strong}>{replier_name}</{strong}> commented on your response to the "
 "post <{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat Ihre "
-"Antwort auf den Beitrag kommentiert &lt; <span class='notranslate'>{strong} "
-"&gt; {post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{replier_name}</{strong}> hat Ihre Antwort auf den Beitrag "
+"kommentiert <{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:32
 #, python-brace-format
@@ -8876,11 +8874,9 @@ msgid ""
 "<{strong}>{author_name}</{strong}> response to your post "
 "<{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; kommentierte"
-" &lt; <span class='notranslate'>{strong} &gt; {author_name} </ {strong} &gt;"
-" Antwort auf Ihren Beitrag &lt; <span class='notranslate'>{strong} &gt; "
-"{post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{replier_name}</{strong}> kommentierte "
+"<{strong}>{author_name}</{strong}> Antwort auf Ihren Beitrag "
+"<{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:46
 #, python-brace-format
@@ -8888,10 +8884,8 @@ msgid ""
 "<{p}><{strong}>{replier_name}</{strong}> responded to your post "
 "<{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat auf "
-"Ihren Beitrag geantwortet &lt; <span class='notranslate'>{strong} &gt; "
-"{post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{replier_name}</{strong}> hat auf Ihren Beitrag geantwortet "
+"<{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:65
 #, python-brace-format
@@ -8899,9 +8893,8 @@ msgid ""
 "<{p}><{strong}>{username}</{strong}> posted "
 "<{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {username} </ {strong} &gt; gepostet &lt; "
-"<span class='notranslate'>{strong} &gt; {post_title} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{username}</{strong}> gepostet "
+"<{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:83
 #, python-brace-format
@@ -8909,9 +8902,8 @@ msgid ""
 "<{p}><{strong}>{username}</{strong}> asked "
 "<{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {username} </ {strong} &gt; gefragt &lt; "
-"<span class='notranslate'>{strong} &gt; {post_title} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{username}</{strong}> gefragt "
+"<{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:97
 #, python-brace-format
@@ -8919,10 +8911,8 @@ msgid ""
 "<{p}><{strong}>{replier_name}</{strong}> responded to a post you’re "
 "following: <{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat auf "
-"einen Beitrag geantwortet, den Sie verfolgen: &lt; <span "
-"class='notranslate'>{strong} &gt; {post_title} </<span class='notranslate'> "
-"{strong} &gt; </<span class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{replier_name}</{strong}> hat auf einen Beitrag geantwortet, "
+"den Sie verfolgen: <{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:112
 #, python-brace-format
@@ -8930,10 +8920,9 @@ msgid ""
 "<{p}><{strong}>{replier_name}</{strong}> commented on {author_name}'s "
 "response in a post you’re following <{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; hat die "
-"Antwort von <span class='notranslate'>{author_name} in einem Beitrag "
-"kommentiert, den Sie verfolgen &lt; {strong} &gt; {post_title} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{replier_name}</{strong}> hat die Antwort von "
+"<{strong}>{author_name}</{strong}> in einem Beitrag kommentiert, den Sie verfolgen "
+"<{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:132
 #, python-brace-format
@@ -8941,7 +8930,7 @@ msgid ""
 "<p><strong>{username}’s </strong> {content_type} has been reported <strong> "
 "{content}</strong></p>"
 msgstr ""
-"<p><strong>{username} &#39;s</strong> {content_type} wurde gemeldet "
+"<p><strong>{username} 's</strong> {content_type} wurde gemeldet "
 "<strong>{content}</strong></p>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:149
@@ -8950,20 +8939,16 @@ msgid ""
 "<{p}><{strong}>{replier_name}</{strong}> response has been endorsed in your "
 "post <{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;&lt; {strong} &gt; {replier_name} </ {strong} &gt; Antwort "
-"wurde in Ihrem Beitrag bestätigt &lt; <span class='notranslate'>{strong} "
-"&gt; {post_title} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
+"<{p}><{strong}>{replier_name}</{strong}> Antwort wurde in Ihrem Beitrag bestätigt "
+"<{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:164
 #, python-brace-format
 msgid ""
-"<{p}><Your response has been endorsed "
+"<{p}>Your response has been endorsed "
 "<{strong}>{post_title}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt; <Your response has been endorsed < {strong} &gt; <span "
-"class='notranslate'>{post_title} </<span class='notranslate'> {strong} &gt; "
-"</<span class='notranslate'> {p} &gt;"
+"<{p}>Ihre Antwort wurde bestätigt <{strong}>{post_title}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:181
 #, python-brace-format
@@ -8971,9 +8956,7 @@ msgid ""
 "<{p}>You have a new course update: "
 "<{strong}>{course_update_content}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;Sie haben ein neues Kursupdate: &lt; {strong} &gt; "
-"{course_update_content} </<span class='notranslate'> {strong} &gt; </<span "
-"class='notranslate'> {p} &gt;"
+"<{p}>Sie haben ein neues Kursupdate: <{strong}>{course_update_content}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:199
 #, python-brace-format
@@ -8981,9 +8964,7 @@ msgid ""
 "<{p}>You have a new open response submission awaiting for review for : "
 "<{strong}>{ora_name}</{strong}></{p}>"
 msgstr ""
-"&lt; {p} &gt;Sie haben eine neue offene Antworteinreichung, die auf "
-"Überprüfung wartet für: &lt; {strong} &gt; {ora_name} </<span "
-"class='notranslate'> {strong} &gt; </<span class='notranslate'> {p} &gt;"
+"<{p}>Sie haben eine neue offene Antworteinreichung, die auf Überprüfung wartet: <{strong}>{ora_name}</{strong}></{p}>"
 
 #: openedx/core/djangoapps/notifications/base_notification.py:213
 msgid ""
@@ -10269,7 +10250,7 @@ msgstr "Das angegebene Zugriffstoken ist ungültig."
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:108
 msgid "Full Name cannot contain the following characters: < >"
 msgstr ""
-"Der vollständige Name darf die folgenden Zeichen nicht enthalten: &lt; &gt;"
+"Der vollständige Name darf die folgenden Zeichen nicht enthalten: < >"
 
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:148
 msgid "A properly formatted e-mail is required"
@@ -11213,7 +11194,7 @@ msgstr "„{student_answer}“ konnte nicht als Zahl interpretiert werden."
 msgid "Factorial function evaluated outside its domain:'{student_answer}'"
 msgstr ""
 "Außerhalb ihres Definitionsbereichs ausgewertete Fakultätsfunktion: "
-"&#39;{student_answer}&#39;"
+"'{student_answer}'"
 
 #: xmodule/capa/responsetypes.py:1621
 #, python-brace-format
@@ -12146,14 +12127,14 @@ msgstr ""
 "Geben Sie Datumspaare ein, zwischen denen Studierende keine Beiträge in "
 "Diskussionsforen veröffentlichen dürfen. Geben Sie innerhalb der "
 "bereitgestellten Klammern zusätzlich eckige Klammern um jedes Datumspaar "
-"ein, das Sie hinzufügen. Formatieren Sie jedes Datumspaar als [&quot;JJJJ-"
-"MM-TT&quot;, &quot;JJJJ-MM-TT&quot;]. Um sowohl Uhrzeiten als auch Daten "
-"anzugeben, formatieren Sie jedes Paar als [&quot;JJJJ-MM-TTTHH:MM&quot;, "
-"&quot;JJJJ-MM-TTTHH:MM&quot;]. Achten Sie darauf, das &quot;T&quot; zwischen"
+"ein, das Sie hinzufügen. Formatieren Sie jedes Datumspaar als [\"JJJJ-"
+"MM-TT\", \"JJJJ-MM-TT\"]. Um sowohl Uhrzeiten als auch Daten "
+"anzugeben, formatieren Sie jedes Paar als [\"JJJJ-MM-TTTHH:MM\", "
+"\"JJJJ-MM-TTTHH:MM\"]. Achten Sie darauf, das \"T\" zwischen"
 " Datum und Uhrzeit einzuschließen. Ein Eintrag, der beispielsweise zwei "
 "Sperrfristen definiert, sieht einschließlich des äußeren Paars eckiger "
-"Klammern folgendermaßen aus: [[&quot;2015-09-15&quot;, "
-"&quot;2015-09-21&quot;], [&quot;2015-10-01&quot;, &quot;2015-10-08&quot;]] "
+"Klammern folgendermaßen aus: [[\"2015-09-15\", "
+"\"2015-09-21\"], [\"2015-10-01\", \"2015-10-08\"]] "
 
 #: xmodule/course_block.py:417
 msgid "Discussion Topic Mapping"
@@ -12171,15 +12152,15 @@ msgid ""
 "\"default\" attribute to true. For example, \"Lydian Mode\": {\"id\": "
 "\"i4x-UniversityX-MUS101-course-2015_T1\", \"default\": true}."
 msgstr ""
-"Geben Sie Diskussionskategorien im folgenden Format ein: „Kategoriename“: "
-"{„id“: „i4x-Institutionsname-Kursnummer-Kurs-Kursdurchführung“}. Eine "
-"Diskussionskategorie könnte beispielsweise „Lydianischer Modus“ sein: {„id“:"
-" „i4x-UniversityX-MUS101-Kurs-2015_T1“}. Der „id“-Wert für jede Kategorie "
-"muss eindeutig sein. In „id“-Werten werden als Sonderzeichen nur "
+"Geben Sie Diskussionskategorien im folgenden Format ein: \"CategoryName\": "
+"{\"id\": \"i4x-InstitutionName-CourseNumber-course-CourseRun\"}. Eine "
+"Diskussionskategorie könnte beispielsweise \"Lydian Mode\" sein: {\"id\": "
+"\"i4x-UniversityX-MUS101-course-2015_T1\"}. Der \"id\"-Wert für jede Kategorie "
+"muss eindeutig sein. In \"id\"-Werten werden als Sonderzeichen nur "
 "Unterstrich, Bindestrich und Punkt unterstützt. Sie können eine Kategorie "
 "auch als Standard für neue Beiträge auf der Diskussionsseite festlegen, "
-"indem Sie ihr „default“-Attribut auf „true“ setzen. Beispiel: „Lydianischer "
-"Modus“: {„id“: „i4x-UniversityX-MUS101-Kurs-2015_T1“, „default“: true}."
+"indem Sie ihr \"default\"-Attribut auf true setzen. Beispiel: \"Lydian Mode\": "
+"{\"id\": \"i4x-UniversityX-MUS101-course-2015_T1\", \"default\": true}."
 
 #: xmodule/course_block.py:431
 msgid "Discussions Plugin Settings"
@@ -12399,9 +12380,9 @@ msgid ""
 "YYYY-MM-DD, or \"%Y-%d-%m\" for YYYY-DD-MM."
 msgstr ""
 "Geben Sie das Format für Fälligkeitsdaten ein. Der Standardwert ist Mo TT, "
-"JJJJ. Geben Sie &quot;%m- %d -%Y&quot; für MM-TT-JJJJ, &quot; %d "
-"-%m-%Y&quot; für TT-MM-JJJJ, &quot;%Y-%m- %d &quot; für JJJJ-MM-TT oder "
-"&quot;%Y- %d -%m&quot; für JJJJ-TT-MM ein."
+"JJJJ. Geben Sie \"%m- %d -%Y\" für MM-TT-JJJJ, \" %d "
+"-%m-%Y\" für TT-MM-JJJJ, \"%Y-%m- %d \" für JJJJ-MM-TT oder "
+"\"%Y- %d -%m\" für JJJJ-TT-MM ein."
 
 #: xmodule/course_block.py:567
 msgid "External Login Domain"
@@ -13037,8 +13018,8 @@ msgstr ""
 "Alle zusätzlichen Informationen zum Kurs, die die Plattform benötigt oder "
 "die eine Integration mit externen Systemen wie CRM-Software ermöglichen. "
 "Geben Sie ein Wörterbuch mit Werten im JSON-Format ein, z. B. { "
-"&quot;my_custom_setting&quot;: &quot;value&quot;, &quot;other_setting&quot;:"
-" &quot;value&quot; }"
+"\"my_custom_setting\": \"value\", \"other_setting\":"
+" \"value\" }"
 
 #: xmodule/course_block.py:1107
 msgid "General"
@@ -15762,7 +15743,7 @@ msgstr "Du bist nun eingeloggt! Viel Spaß!"
 #: wiki/views/article.py:87
 #, python-format
 msgid "New article '%s' created."
-msgstr "Neuer Artikel &#39; %s &#39; erstellt."
+msgstr "Neuer Artikel ' %s ' erstellt."
 
 #: wiki/views/article.py:92
 #, python-format
@@ -19154,8 +19135,8 @@ msgid ""
 msgstr ""
 "{em_start} Hinweis: {em_end} Wenn Sie Zeichenfolgen als Richtlinienwerte "
 "eingeben, achten Sie darauf, dass Sie die Zeichenfolge in doppelte "
-"Anführungszeichen (&quot;) setzen. Verwenden Sie keine einfachen "
-"Anführungszeichen (&#39;)."
+"Anführungszeichen (\") setzen. Verwenden Sie keine einfachen "
+"Anführungszeichen (')."
 
 #: cms/templates/settings_graders.html:4
 msgid "Grading Settings"
@@ -23175,7 +23156,7 @@ msgstr "Grading im Studio ansehen"
 
 #: lms/templates/courseware/progress.html:67
 msgid "Course Progress for '{username}' ({email})"
-msgstr "Kursfortschritt für &#39;{username}&#39; ( {email} )"
+msgstr "Kursfortschritt für '{username}' ( {email} )"
 
 #: lms/templates/courseware/progress.html:85
 msgid "View Certificate"

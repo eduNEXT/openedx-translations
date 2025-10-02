@@ -3,18 +3,18 @@
 # Copyright (C) 2024 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2024.
-#
+# 
 # #-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
-#
+# 
 # Translators:
 # Omar Al-Ithawi <i@omardo.com>, 2024
 # Eden Huthmacher, 2024
 # Brian Smith, 2024
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
