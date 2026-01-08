@@ -27418,3 +27418,17 @@ msgstr "Escribe tu texto de Derechos de Autor aquí."
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de código"
+
+#: themes/bragi/lms/templates/login.html:151
+msgid "to access your account and courses"
+msgstr "para acceder a su cuenta y sus cursos"
+
+#: themes/bragi/lms/templates/register.html:29
+msgid "Register below to create your {platform_name} account"
+msgstr "Regístrese para crear su cuenta en {platform_name}"
+
+#: themes/bragi/lms/templates/register.html:120
+msgid "Welcome!"
+msgstr "Bienvenido!"
+
+
