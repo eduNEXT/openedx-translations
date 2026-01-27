@@ -26,11 +26,13 @@
   "header.menu.dashboard.label": "Painel de controle",
   "header.help.label": "Ajuda",
   "header.menu.profile.label": "Perfil",
-  "header.menu.account.label": "Conta",
+  "header.menu.account.label": "Minha conta",
   "header.menu.orderHistory.label": "Histórico de pedidos",
   "header.navigation.skipNavLink": "Ir para o conteúdo principal.",
   "header.menu.signOut.label": "Sair",
   "header.user.menu.studio": "Estúdio em casa",
   "header.user.menu.maintenance": "Manutenção",
-  "header.label.courseOutline": "Visualizar resumo do curso no Studio"
+  "header.label.courseOutline": "Visualizar resumo do curso no Studio",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Quem somos"
 }

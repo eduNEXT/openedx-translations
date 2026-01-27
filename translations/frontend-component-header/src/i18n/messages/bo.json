@@ -34,5 +34,7 @@
   "header.user.menu.studio": "སྒྲིག་སྟེགས་གཙོ་ངོས།",
   "header.user.menu.maintenance": "",
   "header.label.courseOutline": "སྒྲིག་སྟེགས་ནང་གི་སློབ་ཚན་གྱི་སྡེ་ཚན་ས་བཅད་ཀྱི་མཚམས་སུ་ཕྱིར་ལོག",
-  "header.label.search.nav": "ནང་དོན་འཚོལ་བཤེར།"
+  "header.label.search.nav": "ནང་དོན་འཚོལ་བཤེར།",
+  "header.menu.soa.blog.label": "ཟིན་བྲིས།",
+  "header.menu.soa.whoWeAre.label": "ང་ཚོ་སུ་ཡིན།"
 }

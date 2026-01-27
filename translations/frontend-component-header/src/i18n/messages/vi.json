@@ -34,5 +34,7 @@
   "header.user.menu.studio": "Trang chủ Studio",
   "header.user.menu.maintenance": "",
   "header.label.courseOutline": "Quay lại đề cương khóa học trong Studio",
-  "header.label.search.nav": "Tìm kiếm nội dung"
+  "header.label.search.nav": "Tìm kiếm nội dung",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Chúng tôi là ai"
 }

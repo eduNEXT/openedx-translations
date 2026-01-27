@@ -26,7 +26,7 @@
   "header.menu.dashboard.label": "Panel de control",
   "header.help.label": "Ayuda",
   "header.menu.profile.label": "Perfil",
-  "header.menu.account.label": "Cuenta",
+  "header.menu.account.label": "Mi cuenta",
   "header.menu.orderHistory.label": "Historial de pedidos",
   "header.navigation.skipNavLink": "Ir al contenido principal",
   "header.menu.signOut.label": "Cerrar sesión",
@@ -34,5 +34,7 @@
   "header.user.menu.studio": "Inicio Studio",
   "header.user.menu.maintenance": "",
   "header.label.courseOutline": "Volver al esquema del curso en Studio",
-  "header.label.search.nav": ""
+  "header.label.search.nav": "",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Quiénes somos"
 }

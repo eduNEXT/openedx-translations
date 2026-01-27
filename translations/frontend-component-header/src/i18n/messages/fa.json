@@ -34,5 +34,7 @@
   "header.user.menu.studio": "خانۀ استودیو",
   "header.user.menu.maintenance": "",
   "header.label.courseOutline": "بازگشت به طرح کلی درس در استودیو",
-  "header.label.search.nav": "جستجوی محتوا"
+  "header.label.search.nav": "جستجوی محتوا",
+  "header.menu.soa.blog.label": "وبلاگ",
+  "header.menu.soa.whoWeAre.label": "ما که هستیم"
 }

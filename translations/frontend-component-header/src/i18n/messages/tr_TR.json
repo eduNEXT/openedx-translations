@@ -34,5 +34,7 @@
   "header.user.menu.studio": "Studio Anasayfa",
   "header.user.menu.maintenance": "Bakım",
   "header.label.courseOutline": "Studio'da ders anahattına geri dön",
-  "header.label.search.nav": "İçerik ara"
+  "header.label.search.nav": "İçerik ara",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Biz kimiz"
 }

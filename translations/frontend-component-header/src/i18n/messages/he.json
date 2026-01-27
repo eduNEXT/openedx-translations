@@ -32,5 +32,7 @@
   "header.menu.signOut.label": "יציאה",
   "header.user.menu.studio": "הבית של הסטודיו",
   "header.user.menu.maintenance": "תחזוקה",
-  "header.label.courseOutline": "חזרה למתווה הקורס בסטודיו"
+  "header.label.courseOutline": "חזרה למתווה הקורס בסטודיו",
+  "header.menu.soa.blog.label": "בלוג",
+  "header.menu.soa.whoWeAre.label": "מי אנחנו"
 }

@@ -34,5 +34,7 @@
   "header.user.menu.studio": "スタジオホーム",
   "header.user.menu.maintenance": "メンテナンス",
   "header.label.courseOutline": "Studioでコース概要に戻る",
-  "header.label.search.nav": "コンテンツを検索"
+  "header.label.search.nav": "コンテンツを検索",
+  "header.menu.soa.blog.label": "ブログ",
+  "header.menu.soa.whoWeAre.label": "私たちについて"
 }
