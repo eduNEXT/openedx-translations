@@ -34,5 +34,7 @@
   "header.user.menu.studio": "",
   "header.user.menu.maintenance": "Texniki qulluq",
   "header.label.courseOutline": "",
-  "header.label.search.nav": "Axtarış məzmunu"
+  "header.label.search.nav": "Axtarış məzmunu",
+  "header.menu.soa.blog.label": "Bloq",
+  "header.menu.soa.whoWeAre.label": "Biz kimik"
 }

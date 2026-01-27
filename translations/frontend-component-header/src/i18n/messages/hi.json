@@ -34,5 +34,7 @@
   "header.user.menu.studio": "स्टूडियो होम",
   "header.user.menu.maintenance": "",
   "header.label.courseOutline": "स्टूडियो में पाठ्यक्रम की रूपरेखा पर वापस जाएँ",
-  "header.label.search.nav": "खोज सामग्री"
+  "header.label.search.nav": "खोज सामग्री",
+  "header.menu.soa.blog.label": "ब्लॉग",
+  "header.menu.soa.whoWeAre.label": "हम कौन हैं"
 }

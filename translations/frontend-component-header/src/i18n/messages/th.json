@@ -29,8 +29,10 @@
   "header.menu.account.label": "Account",
   "header.menu.orderHistory.label": "Order History",
   "header.navigation.skipNavLink": "ข้ามไปที่เนื้อหาหลัก",
-  "header.menu.signOut.label": "Sign Out",
+  "header.menu.signOut.label": "End Session",
   "header.user.menu.studio": "สตูดิโอโฮม",
   "header.user.menu.maintenance": "บำรุงรักษา",
-  "header.label.courseOutline": "กลับไปที่โครงร่างหลักสูตรใน Studio"
+  "header.label.courseOutline": "กลับไปที่โครงร่างหลักสูตรใน Studio",
+  "header.menu.soa.blog.label": "บล็อก",
+  "header.menu.soa.whoWeAre.label": "เราเป็นใคร"
 }

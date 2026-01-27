@@ -52,5 +52,7 @@
   "header.links.checklists": "Checklists",
   "header.user.menu.studio": "Studio Home",
   "header.user.menu.maintenance": "Maintenance",
-  "header.label.courseOutline": "Back to course outline in Studio"
+  "header.label.courseOutline": "Back to course outline in Studio",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Wer wir sind"
 }

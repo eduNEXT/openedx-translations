@@ -34,5 +34,7 @@
   "header.user.menu.studio": "工作室主頁",
   "header.user.menu.maintenance": "",
   "header.label.courseOutline": "返回工作室中的課程大綱",
-  "header.label.search.nav": "搜尋內容"
+  "header.label.search.nav": "搜尋內容",
+  "header.menu.soa.blog.label": "網誌",
+  "header.menu.soa.whoWeAre.label": "關於我們"
 }

@@ -34,5 +34,7 @@
   "header.user.menu.studio": "Ateljeehuis",
   "header.user.menu.maintenance": "Onderhoud",
   "header.label.courseOutline": "Terug na kursusoorsig in Studio",
-  "header.label.search.nav": "Soek inhoud"
+  "header.label.search.nav": "Soek inhoud",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Wie ons is"
 }

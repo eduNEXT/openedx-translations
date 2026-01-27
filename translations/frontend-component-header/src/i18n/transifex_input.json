@@ -26,13 +26,15 @@
   "header.menu.dashboard.label": "Dashboard",
   "header.help.label": "Help",
   "header.menu.profile.label": "Profile",
-  "header.menu.account.label": "Account",
+  "header.menu.account.label": "My account",
   "header.menu.orderHistory.label": "Order History",
   "header.navigation.skipNavLink": "Skip to main content.",
-  "header.menu.signOut.label": "Sign Out",
+  "header.menu.signOut.label": "End Session",
   "header.menu.aria-label": "User Options",
   "header.user.menu.studio": "Studio Home",
   "header.user.menu.maintenance": "Maintenance",
   "header.label.courseOutline": "Back to course outline in Studio",
-  "header.label.search.nav": "Search content"
+  "header.label.search.nav": "Search content",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Who we are"
 }

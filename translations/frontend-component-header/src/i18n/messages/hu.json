@@ -34,5 +34,7 @@
   "header.user.menu.studio": "Stúdió kezdőlap",
   "header.user.menu.maintenance": "Karbantartás",
   "header.label.courseOutline": "Vissza a kurzus vázlatához a Studio-ban",
-  "header.label.search.nav": "Tartalom keresése"
+  "header.label.search.nav": "Tartalom keresése",
+  "header.menu.soa.blog.label": "Blog",
+  "header.menu.soa.whoWeAre.label": "Kik vagyunk"
 }
