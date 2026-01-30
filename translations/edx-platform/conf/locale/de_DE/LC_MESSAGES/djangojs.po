@@ -8200,7 +8200,7 @@ msgstr ""
 
 #: cms/templates/js/transcript-organization-credentials.underscore:3
 msgid "Account"
-msgstr "Benutzerkonto"
+msgstr "Mein Konto"
 
 #: cms/templates/js/transcript-organization-credentials.underscore:5
 #, python-brace-format
@@ -10060,7 +10060,7 @@ msgstr "Neues Konto erstellen"
 #: lms/templates/student_account/hinted_login.underscore:4
 #: lms/templates/student_account/login.underscore:56
 msgid "Sign in"
-msgstr "Anmelden"
+msgstr "Zugang"
 
 #: lms/templates/student_account/hinted_login.underscore:8
 #, python-format
@@ -10148,7 +10148,7 @@ msgstr "Um mit diesem Konto weiter zu lernen, melden Sie sich unten an."
 
 #: lms/templates/student_account/login.underscore:27
 msgid "Sign In"
-msgstr "Anmelden"
+msgstr "Zugang"
 
 #: lms/templates/student_account/login.underscore:34
 msgid ""
@@ -10908,3 +10908,8 @@ msgstr ""
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Es wurden leider keine Ergebnisse gefunden."
+
+#: lms/templates/header/header.html:74
+#: lms/templates/header/header-mobile.html:L96
+msgid "Who we are"
+msgstr "Wer wir sinds"

@@ -4049,7 +4049,7 @@ msgstr "Redefinir senha"
 #: lms/templates/student_account/hinted_login.underscore:4
 #: lms/templates/student_account/login.underscore:56
 msgid "Sign in"
-msgstr "Entrar"
+msgstr "Acesso"
 
 #: lms/templates/student_account/hinted_login.underscore:8
 #, python-format
@@ -4518,3 +4518,8 @@ msgstr "Adicionado aos favoritos em"
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Desculpe, não foram encontrados resultados."
+
+#: lms/templates/header/header.html:74
+#: lms/templates/header/header-mobile.html:L96
+msgid "Who we are"
+msgstr "Quem somos"

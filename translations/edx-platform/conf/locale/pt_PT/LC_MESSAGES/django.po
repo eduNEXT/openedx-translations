@@ -4413,7 +4413,7 @@ msgstr ""
 #: lms/djangoapps/courseware/views/views.py:561
 #: xmodule/discussion_block.py:187
 msgid "sign in"
-msgstr "iniciar sessão"
+msgstr "acesso"
 
 #: lms/djangoapps/courseware/views/index.py:240
 #: lms/djangoapps/courseware/views/views.py:565
@@ -4522,7 +4522,7 @@ msgstr "{sign_in_link} ou {register_link}."
 #: lms/templates/lti_provider/user-auth-error.html:30
 #: lms/templates/navigation/navbar-not-authenticated.html:49
 msgid "Sign in"
-msgstr "Iniciar Sessão"
+msgstr "Acesso"
 
 #: lms/djangoapps/courseware/views/views.py:590
 #, python-brace-format
@@ -10886,7 +10886,7 @@ msgstr "Usou {attempts} tentativas de um número ilimitado para este problema."
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:70
 #: cms/templates/widgets/header.html:386
 msgid "Sign In"
-msgstr "Iniciar Sessão"
+msgstr "Acesso"
 
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:176
 msgid "Our mailing address is"
@@ -19743,7 +19743,7 @@ msgstr "Escolher Idioma"
 #: lms/templates/header/user_dropdown.html:48
 #: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
 msgid "Account"
-msgstr "Conta"
+msgstr "A minha conta"
 
 #: cms/templates/widgets/header.html:358 cms/templates/widgets/header.html:373
 msgid "Account Navigation"
@@ -27184,3 +27184,8 @@ msgstr "Coloque aqui o seu Texto de Direitos de Autor!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de Código"
+
+#: lms/templates/header/header.html:74
+#: lms/templates/header/header-mobile.html:L96
+msgid "Who we are"
+msgstr "Quem somos nós"
