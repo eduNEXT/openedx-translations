@@ -9844,7 +9844,7 @@ msgstr "Biblioteca Atual:"
 #: lms/templates/header/user_dropdown.html:48
 #: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
 msgid "Account"
-msgstr "Conta"
+msgstr "Minha conta"
 
 #: cms/templates/widgets/header.html:358 cms/templates/widgets/header.html:373
 msgid "Account Navigation"
@@ -13516,3 +13516,8 @@ msgstr ""
 "Recebemos um pedido para alterar o e-mail associado à sua conta do "
 "{platform_name} de {old_email} para {new_email}. Caso isso esteja correto, "
 "por favor confirme o seu novo endereço de e-mail acessando:"
+
+#: lms/templates/header/header.html:74
+#: lms/templates/header/header-mobile.html:L96
+msgid "Who we are"
+msgstr "Quem somos"
