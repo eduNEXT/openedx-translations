@@ -1337,7 +1337,7 @@ msgstr "Esta {parentCategory} no tiene {childCategory}"
 #: cms/templates/js/group-configuration-details.underscore:88
 #: cms/templates/js/partition-group-details.underscore:63
 msgid "Course Outline"
-msgstr "Estructura del curso"
+msgstr "Módulos del curso"
 
 #: cms/static/js/views/paged_container.js:260
 msgid "Date added"
@@ -11655,3 +11655,11 @@ msgstr[2] "Cargar los siguientes resultados {num_items}"
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Lo sentimos, no se encuentran resultados"
+
+#: lms/templates/preview_menu.html:59
+msgid "View this course as:"
+msgstr "Ver este curso como:"
+
+#: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:120
+msgid "View Course in Studio"
+msgstr "Ver el curso en Studio"
