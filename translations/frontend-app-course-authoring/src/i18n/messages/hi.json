@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "सहिष्णुता को उत्तर श्रेणी पर लागू नहीं किया जा सकता",
   "problemEditor.settings.tolerance.type.percent": "प्रतिशत",
   "problemEditor.settings.tolerance.type.number": "संख्या",
-  "problemEditor.settings.tolerance.type.none": "कोई नहीं\nकुछ भी नहीं"
+  "problemEditor.settings.tolerance.type.none": "कोई नहीं\nकुछ भी नहीं",
+  "soa_footer_main.generalConditions": "सामान्य शर्तें",
+  "soa_footer_main.legalNotice": "कानूनी नोटिस",
+  "soa_footer_main.privacy": "गोपनीयता",
+  "soa_footer_main.cookies": "कुकीज़",
+  "soa_footer_main.accessibility": "अभिगम्यता",
+  "soa_footer_main.support": "सहायता और मदद",
+  "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित"
 }

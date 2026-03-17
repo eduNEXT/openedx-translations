@@ -123,5 +123,12 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "{notationSyntax} yozuvi",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} va ko'rsatkich",
   "learn.honorCode.content": "Halollik va akademik halollik {siteName} va {siteName} saytida kurslar va dasturlarni taqdim etuvchi muassasalar uchun muhimdir. Quyidagi “Roziman” tugmasini bosish orqali men {siteName} sayti uchun {link} bilan tanishganimni, tushunganimni va ularga rioya qilishimni tasdiqlayman.",
-  "learn.course.sequence.navigation.mobile.menu": "{current} of {total}"
+  "learn.course.sequence.navigation.mobile.menu": "{current} of {total}",
+  "soa_footer_main.generalConditions": "Umumiy shartlar",
+  "soa_footer_main.legalNotice": "Yuridik bildirishnoma",
+  "soa_footer_main.privacy": "Maxfiylik",
+  "soa_footer_main.cookies": "Kukilar",
+  "soa_footer_main.accessibility": "Imkoniyat",
+  "soa_footer_main.support": "Qo'llab-quvvatlash va Yordam",
+  "soa_footer_main.allRightReserved": "Barcha huquqlar himoyalangan"
 }

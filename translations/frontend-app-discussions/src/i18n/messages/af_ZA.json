@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "Onlangse aktiwiteite",
   "discussions.posts.sort.commentCount": "Meeste aktiwiteit",
   "discussions.posts.sort.voteCount": "Meeste hou van",
-  "discussions.posts.sort-filter.sortFilterStatus": "{eie, kies, vals {Alle} waar {Eie} ander { {own} } } {status, kies, statusAlle {} statusOngelees {ongeles} statusVolg {gevolg} statusGerapporteer {gerapporteer} statusOnbeantwoord {onbeantwoord} statusOngeantwoord ander {015b50b50 ander { {status} } } {tik, kies, bespreking {besprekings} vraag {vrae} alle {plasings} ander { {type} } } {cohortType, kies, almal {} groep {in {cohort} } ander { {cohortType} gesorteer volgens {Aktiwiteit, gesorteer, {Aktiwiteit, gesorteer, {Aktiwiteit}) onlangse aktiwiteit} opmerkingTell {most activity} voteTel {most likes} other { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{eie, kies, vals {Alle} waar {Eie} ander { {own} } } {status, kies, statusAlle {} statusOngelees {ongeles} statusVolg {gevolg} statusGerapporteer {gerapporteer} statusOnbeantwoord {onbeantwoord} statusOngeantwoord ander {015b50b50 ander { {status} } } {tik, kies, bespreking {besprekings} vraag {vrae} alle {plasings} ander { {type} } } {cohortType, kies, almal {} groep {in {cohort} } ander { {cohortType} gesorteer volgens {Aktiwiteit, gesorteer, {Aktiwiteit, gesorteer, {Aktiwiteit}) onlangse aktiwiteit} opmerkingTell {most activity} voteTel {most likes} other { {sort} } }",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

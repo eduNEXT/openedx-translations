@@ -53,5 +53,12 @@
   "profile.formcontrols.button.saving": "Gemmer",
   "profile.formcontrols.button.saved": "Gemt",
   "profile.visibility.who.just.me": "Kun mig",
-  "profile.visibility.who.everyone": "Alle på {siteName}"
+  "profile.visibility.who.everyone": "Alle på {siteName}",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }

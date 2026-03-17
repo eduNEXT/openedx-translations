@@ -209,5 +209,12 @@
   "discussions.posts.sort.lastActivity": "ఇటీవలి కార్యాచరణ",
   "discussions.posts.sort.commentCount": "చాలా కార్యాచరణ",
   "discussions.posts.sort.voteCount": "ఎక్కువ మంది ఇష్టపడ్డారు",
-  "discussions.posts.sort-filter.sortFilterStatus": "{సొంతం, ఎంచుకోండి, తప్పు {అన్నీ} ఒప్పు {సొంతం} ఇతర { {own} }} {స్థితి, ఎంపిక, స్థితిఅన్ని {} చదవని {చదవని} స్థితిని అనుసరించి {అనుసరించిన} స్థితినివేదించబడింది {నివేదించబడింది} స్థితి సమాధానం {status} } {రకం, ఎంపిక, చర్చ {చర్చలు} ప్రశ్న {ప్రశ్నలు} అన్ని {పోస్ట్‌లు} ఇతర { {type} } } {cohortType, ఎంచుకోండి, అన్ని {} సమూహం { {cohort} } ఇతర { {cohortType} ద్వారా ఎంపిక చేయబడింది, చివరిది ఇటీవలి కార్యకలాపం} వ్యాఖ్య కౌంట్ {అత్యంత కార్యకలాపం} ఓటు కౌంట్ {అత్యంత ఇష్టాలు} ఇతర { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{సొంతం, ఎంచుకోండి, తప్పు {అన్నీ} ఒప్పు {సొంతం} ఇతర { {own} }} {స్థితి, ఎంపిక, స్థితిఅన్ని {} చదవని {చదవని} స్థితిని అనుసరించి {అనుసరించిన} స్థితినివేదించబడింది {నివేదించబడింది} స్థితి సమాధానం {status} } {రకం, ఎంపిక, చర్చ {చర్చలు} ప్రశ్న {ప్రశ్నలు} అన్ని {పోస్ట్‌లు} ఇతర { {type} } } {cohortType, ఎంచుకోండి, అన్ని {} సమూహం { {cohort} } ఇతర { {cohortType} ద్వారా ఎంపిక చేయబడింది, చివరిది ఇటీవలి కార్యకలాపం} వ్యాఖ్య కౌంట్ {అత్యంత కార్యకలాపం} ఓటు కౌంట్ {అత్యంత ఇష్టాలు} ఇతర { {sort} } }",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

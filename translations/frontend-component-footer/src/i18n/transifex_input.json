@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Terms of Service",
   "authoring.footer.privacyPolicy.link.label": "Privacy Policy",
   "authoring.footer.accessibilityRequest.link.label": "Accessibility Accomodation Request",
-  "authoring.footer.trademark.message": "edX and Open edX, and the edX and Open edX logos are registered trademarks of"
+  "authoring.footer.trademark.message": "edX and Open edX, and the edX and Open edX logos are registered trademarks of",
+  "soa_footer_main.generalConditions": "General Conditions",
+  "soa_footer_main.legalNotice": "Legal Notice",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibility",
+  "soa_footer_main.support": "Support and Help",
+  "soa_footer_main.allRightReserved": "All rights reserved"
 }

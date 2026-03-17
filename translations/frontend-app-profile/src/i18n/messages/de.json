@@ -53,5 +53,12 @@
   "profile.notfound.message": "The page you're looking for is unavailable or there's an error in the URL. Please check the URL and try again.",
   "profile.viewMyRecords": "View My Records",
   "profile.loading": "Profile loading...",
-  "profile.username.description": "Your profile information is only visible to you. Only your username is visible to others on {siteName}."
+  "profile.username.description": "Your profile information is only visible to you. Only your username is visible to others on {siteName}.",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": ""
 }

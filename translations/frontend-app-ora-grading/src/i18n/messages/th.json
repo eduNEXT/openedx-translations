@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Ungraded",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "ขณะนี้กำลังถูกให้คะแนนโดยบุคคลอื่น",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "การให้คะแนนเสร็จสมบูรณ์",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "คุณกำลังให้คะแนนการตอบกลับนี้"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "คุณกำลังให้คะแนนการตอบกลับนี้",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

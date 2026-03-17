@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Gönderildi",
   "bulk.email.scheduled.emails.table.subject": "Konu",
   "bulk.email.scheduled.emails.table.Author": "Yazar",
-  "bulk.email.scheduled.emails.table.confirm.delete": "{date} tarihinde gönderilmesi planlanan bir e-postayı siliyorsunuz. E-posta gönderilmeyecek ve planlama iptal edilecek. Emin misiniz?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "{date} tarihinde gönderilmesi planlanan bir e-postayı siliyorsunuz. E-posta gönderilmeyecek ve planlama iptal edilecek. Emin misiniz?",
+  "soa_footer_main.generalConditions": "Genel Koşullar",
+  "soa_footer_main.legalNotice": "Yasal Bildirim",
+  "soa_footer_main.privacy": "Gizlilik",
+  "soa_footer_main.cookies": "Çerezler",
+  "soa_footer_main.accessibility": "Erişilebilirlik",
+  "soa_footer_main.support": "Destek ve Yardım",
+  "soa_footer_main.allRightReserved": "Tüm hakları saklıdır"
 }

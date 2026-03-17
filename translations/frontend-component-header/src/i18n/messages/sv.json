@@ -36,5 +36,6 @@
   "header.label.courseOutline": "Tillbaka till kursöversikten i Studio",
   "header.label.search.nav": "Sök innehåll",
   "header.menu.soa.blog.label": "Blogg",
-  "header.menu.soa.whoWeAre.label": "Vilka vi är"
+  "header.menu.soa.whoWeAre.label": "Vilka vi är",
+  "header.menu.soa.search.label": "Sök"
 }

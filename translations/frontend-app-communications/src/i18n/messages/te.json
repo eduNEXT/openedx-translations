@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "పంపే",
   "bulk.email.scheduled.emails.table.subject": "విషయం",
   "bulk.email.scheduled.emails.table.Author": "రచయిత",
-  "bulk.email.scheduled.emails.table.confirm.delete": "మీరు {date} లో పంపడానికి షెడ్యూల్ చేయబడిన ఇమెయిల్‌ను తొలగిస్తున్నారు. ఇమెయిల్ పంపబడదు మరియు షెడ్యూల్ రద్దు చేయబడుతుంది. మీరు చెప్పేది నిజమా?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "మీరు {date} లో పంపడానికి షెడ్యూల్ చేయబడిన ఇమెయిల్‌ను తొలగిస్తున్నారు. ఇమెయిల్ పంపబడదు మరియు షెడ్యూల్ రద్దు చేయబడుతుంది. మీరు చెప్పేది నిజమా?",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

@@ -53,5 +53,12 @@
   "profile.formcontrols.button.saving": "Αποθήκευση σε εξέλιξη",
   "profile.formcontrols.button.saved": "Αποθηκεύτηκε",
   "profile.visibility.who.just.me": "Μόνο εγώ",
-  "profile.visibility.who.everyone": "Όλοι στο {siteName}"
+  "profile.visibility.who.everyone": "Όλοι στο {siteName}",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

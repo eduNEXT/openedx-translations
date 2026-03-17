@@ -26537,3 +26537,23 @@ msgstr "Đặt Văn bản Bản quyền của bạn ở đây!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Trình chỉnh sửa mã"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Điều kiện chung"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Thông báo pháp lý"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookie"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Khả năng tiếp cận"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Hỗ trợ và Trợ giúp"

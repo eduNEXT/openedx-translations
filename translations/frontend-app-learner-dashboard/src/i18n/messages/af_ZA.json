@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} het nie jou versoek om kursuskrediet goedgekeur nie. Vir meer inligting, kontak {linkToProviderSite} direk.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Versoek krediet",
   "learner-dash.courseCard.banners.credit.viewCredit": "Bekyk krediet",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Sien besonderhede"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Sien besonderhede",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

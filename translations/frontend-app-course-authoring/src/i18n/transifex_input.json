@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Tolerance cannot be applied to an answer range",
   "problemEditor.settings.tolerance.type.percent": "Percentage",
   "problemEditor.settings.tolerance.type.number": "Number",
-  "problemEditor.settings.tolerance.type.none": "None"
+  "problemEditor.settings.tolerance.type.none": "None",
+  "soa_footer_main.generalConditions": "General Conditions",
+  "soa_footer_main.legalNotice": "Legal Notice",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibility",
+  "soa_footer_main.support": "Support and Help",
+  "soa_footer_main.allRightReserved": "All rights reserved"
 }

@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "調整済みの成績",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "日付",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "理由"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "理由",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

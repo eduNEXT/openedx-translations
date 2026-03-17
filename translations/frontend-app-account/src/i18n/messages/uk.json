@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Вам потрібен пристрій з камерою. Якщо ви отримаєте запит від браузера на доступ до камери, обов'язково натисніть {allow}.",
   "id.verification.account.name.summary.alert": "Налаштуваннями вашого акаунта керує {managerTitle}. Якщо ім'я на вашому посвідченні особи не збігається з ім'ям у вашому обліковому записі, зверніться за допомогою до адміністратора {profileDataManager} або до служби підтримки {support}.",
   "idv.submission.alert.error": "Ми зіткнулися з технічною помилкою під час спроби надіслати підтвердження особи. Це може бути тимчасова проблема, тому спробуйте ще раз через кілька хвилин. Якщо проблема не зникне, перейдіть за посиланням {support_link}.",
-  "id.verification.account.name.edit": "Редагувати {sr}"
+  "id.verification.account.name.edit": "Редагувати {sr}",
+  "soa_footer_main.generalConditions": "Загальні умови",
+  "soa_footer_main.legalNotice": "Юридичне повідомлення",
+  "soa_footer_main.privacy": "Конфіденційність",
+  "soa_footer_main.cookies": "Файли cookie",
+  "soa_footer_main.accessibility": "Доступність",
+  "soa_footer_main.support": "Підтримка та Допомога",
+  "soa_footer_main.allRightReserved": "Всі права захищено"
 }

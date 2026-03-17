@@ -177,5 +177,12 @@
   "complete.your.profile.2": "ข้อมูลส่วนตัวของคุณ",
   "register.page.terms.of.service.and.honor.code": "โดยการสร้างบัญชี แสดงว่าคุณยอมรับ {tosAndHonorCode} และคุณรับทราบว่า {platformName} และสมาชิกแต่ละคนประมวลผลข้อมูลส่วนบุคคลของคุณตาม {privacyPolicy}",
   "register.page.honor.code": "ฉันเห็นด้วยกับ {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "ฉันเห็นด้วยกับ {platformName} {termsOfService}"
+  "register.page.terms.of.service": "ฉันเห็นด้วยกับ {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

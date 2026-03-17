@@ -177,5 +177,12 @@
   "complete.your.profile.2": "మీ ప్రొఫైల్",
   "register.page.terms.of.service.and.honor.code": "ఖాతాను సృష్టించడం ద్వారా, మీరు {tosAndHonorCode} కి అంగీకరిస్తారు మరియు {platformName} అని మీరు అంగీకరిస్తున్నారు మరియు ప్రతి సభ్యుడు మీ వ్యక్తిగత డేటాను {privacyPolicy} కి అనుగుణంగా ప్రాసెస్ చేస్తారు.",
   "register.page.honor.code": "నేను {platformName} {tosAndHonorCode} కి అంగీకరిస్తున్నాను",
-  "register.page.terms.of.service": "నేను {platformName} {termsOfService} కి అంగీకరిస్తున్నాను"
+  "register.page.terms.of.service": "నేను {platformName} {termsOfService} కి అంగీకరిస్తున్నాను",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

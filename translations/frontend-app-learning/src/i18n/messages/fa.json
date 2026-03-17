@@ -123,5 +123,12 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "نماد {notationSyntax}",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} و توان",
   "learn.honorCode.content": "صداقت و صداقت آکادمیک برای {siteName} و موسساتی که دوره‌ها و برنامه‌ها را در وبگاه {siteName} ارائه می‌دهند مهم است. با کلیک روی «موافقم» در زیر، تأیید می‌کنم که {link} را برای وبگاه {siteName} خوانده‌ام، درک کرده‌ام و از آن تبعیت می‌کنم.",
-  "learn.course.sequence.navigation.mobile.menu": "{current} از {total}"
+  "learn.course.sequence.navigation.mobile.menu": "{current} از {total}",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

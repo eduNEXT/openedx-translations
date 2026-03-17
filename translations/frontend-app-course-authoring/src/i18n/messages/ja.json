@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "許容誤差は解答範囲に適用できません。",
   "problemEditor.settings.tolerance.type.percent": "パーセンテージ",
   "problemEditor.settings.tolerance.type.number": "数",
-  "problemEditor.settings.tolerance.type.none": "None"
+  "problemEditor.settings.tolerance.type.none": "None",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

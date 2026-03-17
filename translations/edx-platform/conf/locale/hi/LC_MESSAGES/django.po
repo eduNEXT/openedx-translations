@@ -17669,3 +17669,27 @@ msgstr "अपना कॉपीराइट पाठ यहाँ रखे�
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "कोड संपादक"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "सामान्य शर्तें"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "कानूनी नोटिस"
+
+#: lms/templates/footer.html:222
+msgid "Privacy"
+msgstr "गोपनीयता"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "कुकीज़"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "अभिगम्यता"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "सहायता और मदद"

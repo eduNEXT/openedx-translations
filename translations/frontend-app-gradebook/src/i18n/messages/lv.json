@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "Pielāgota pakāpe",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "Datums",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "Vērtētājs",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Iemesls"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Iemesls",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

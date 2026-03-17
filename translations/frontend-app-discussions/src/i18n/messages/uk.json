@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "",
   "discussions.posts.sort.commentCount": "",
   "discussions.posts.sort.voteCount": "Найбільше лайків",
-  "discussions.posts.sort-filter.sortFilterStatus": ""
+  "discussions.posts.sort-filter.sortFilterStatus": "",
+  "soa_footer_main.generalConditions": "Загальні умови",
+  "soa_footer_main.legalNotice": "Юридичне повідомлення",
+  "soa_footer_main.privacy": "Конфіденційність",
+  "soa_footer_main.cookies": "Файли cookie",
+  "soa_footer_main.accessibility": "Доступність",
+  "soa_footer_main.support": "Підтримка та Допомога",
+  "soa_footer_main.allRightReserved": "Всі права захищено"
 }

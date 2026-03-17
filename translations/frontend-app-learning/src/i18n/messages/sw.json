@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "Inayofuata",
   "learn.sequence.navigation.next.up.button": "Inayofuata: {title}",
   "learn.sequence.navigation.previous.button": "Iliyotangulia",
-  "discussions.sidebar.open.button": "Onyesha trei ya majadiliano"
+  "discussions.sidebar.open.button": "Onyesha trei ya majadiliano",
+  "soa_footer_main.generalConditions": "Masharti ya Jumla",
+  "soa_footer_main.legalNotice": "Notisi ya Kisheria",
+  "soa_footer_main.privacy": "Faragha",
+  "soa_footer_main.cookies": "Vidakuzi",
+  "soa_footer_main.accessibility": "Upatikanaji",
+  "soa_footer_main.support": "Msaada na Usaidizi",
+  "soa_footer_main.allRightReserved": ""
 }

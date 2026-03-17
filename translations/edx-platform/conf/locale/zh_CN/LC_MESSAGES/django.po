@@ -22031,3 +22031,23 @@ msgstr "将您的版权文本置于此处！"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "代码编辑器"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "一般条款"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "法律声明"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookie"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "无障碍"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "支持与帮助"

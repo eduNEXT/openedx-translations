@@ -177,5 +177,12 @@
   "complete.your.profile.2": "hồ sơ của bạn",
   "register.page.terms.of.service.and.honor.code": "Bằng cách tạo tài khoản, bạn đồng ý với {tosAndHonorCode} và bạn thừa nhận rằng {platformName} và mỗi Thành viên xử lý dữ liệu cá nhân của bạn theo {privacyPolicy} .",
   "register.page.honor.code": "Tôi đồng ý với {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Tôi đồng ý với {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Tôi đồng ý với {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

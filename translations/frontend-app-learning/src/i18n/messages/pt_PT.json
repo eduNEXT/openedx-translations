@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "Estrutura do curso",
   "courseOutline.completedUnit": "",
   "courseOutline.incompleteUnit": "Unidade incompleta",
-  "discussions.sidebar.open.button": ""
+  "discussions.sidebar.open.button": "",
+  "soa_footer_main.generalConditions": "Condições Gerais",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidade",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Acessibilidade",
+  "soa_footer_main.support": "Suporte e Ajuda",
+  "soa_footer_main.allRightReserved": "Todos os direitos reservados"
 }

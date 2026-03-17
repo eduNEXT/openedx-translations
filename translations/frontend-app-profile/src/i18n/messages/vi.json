@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Đang lưu",
   "profile.formcontrols.button.saved": "Đã lưu",
   "profile.visibility.who.just.me": "Chỉ mình tôi",
-  "profile.visibility.who.everyone": "Mọi người trên {siteName}"
+  "profile.visibility.who.everyone": "Mọi người trên {siteName}",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

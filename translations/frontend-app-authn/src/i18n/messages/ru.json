@@ -177,5 +177,12 @@
   "complete.your.profile.2": "ваш профиль",
   "register.page.terms.of.service.and.honor.code": "Создавая учетную запись, вы соглашаетесь с {tosAndHonorCode} и подтверждаете, что {platformName} и каждый Участник обрабатывают ваши персональные данные в соответствии с {privacyPolicy} .",
   "register.page.honor.code": "Я согласен с {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Я согласен с {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Я согласен с {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

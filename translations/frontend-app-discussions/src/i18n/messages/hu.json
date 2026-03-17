@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "Legutóbbi tevékenységek",
   "discussions.posts.sort.commentCount": "Legtöbb tevékenység",
   "discussions.posts.sort.voteCount": "Legtöbb kedvelés",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Összes} true {Saját} other {{own}} } {status, select, statusAll {} statusUnread {olvasatlan} statusFollowing {követett} statusReported {jelentett} statusUnanswered {megválaszolatlan} statusUnresponded {válaszolatlan} other {{status}} } {type, select, discussion {beszélgetések} question {kérdések} all {bejegyzések} other {{type}} } {cohortType, select, all {} group {a {cohort}} other {{cohortType}} } rendezve {sort, select, lastActivityAt {legutóbbi tevékenység} commentCount {legtöbb tevékenység} voteCount {legtöbb kedvelés} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Összes} true {Saját} other {{own}} } {status, select, statusAll {} statusUnread {olvasatlan} statusFollowing {követett} statusReported {jelentett} statusUnanswered {megválaszolatlan} statusUnresponded {válaszolatlan} other {{status}} } {type, select, discussion {beszélgetések} question {kérdések} all {bejegyzések} other {{type}} } {cohortType, select, all {} group {a {cohort}} other {{cohortType}} } rendezve {sort, select, lastActivityAt {legutóbbi tevékenység} commentCount {legtöbb tevékenység} voteCount {legtöbb kedvelés} other {{sort}} }",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

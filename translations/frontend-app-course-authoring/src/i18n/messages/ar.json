@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "لا يمكن تطبيق التسامح على نطاق الإجابة",
   "problemEditor.settings.tolerance.type.percent": "النسبة",
   "problemEditor.settings.tolerance.type.number": "رقم",
-  "problemEditor.settings.tolerance.type.none": "لا شيء"
+  "problemEditor.settings.tolerance.type.none": "لا شيء",
+  "soa_footer_main.generalConditions": "الشروط العامة",
+  "soa_footer_main.legalNotice": "إشعار قانوني",
+  "soa_footer_main.privacy": "الخصوصية",
+  "soa_footer_main.cookies": "ملفات تعريف الارتباط",
+  "soa_footer_main.accessibility": "إمكانية الوصول",
+  "soa_footer_main.support": "الدعم والمساعدة",
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
 }

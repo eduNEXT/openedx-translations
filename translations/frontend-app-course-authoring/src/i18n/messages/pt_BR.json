@@ -1350,5 +1350,12 @@
   "authoring.discussions.appDocInstructions.configurationLink": "Documentação de configuração",
   "authoring.discussions.appDocInstructions.learnMoreLink": "Saiba mais sobre {providerName}",
   "authoring.discussions.appDocInstructions.linkTextHeading": "Ajuda externa e documentação",
-  "authoring.discussions.appDocInstructions.linkText": "{link}"
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "soa_footer_main.generalConditions": "Condições Gerais",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidade",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Acessibilidade",
+  "soa_footer_main.support": "Suporte e Ajuda",
+  "soa_footer_main.allRightReserved": "Todos os direitos reservados"
 }

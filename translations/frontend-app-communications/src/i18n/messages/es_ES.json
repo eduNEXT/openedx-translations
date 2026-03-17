@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Enviar a",
   "bulk.email.scheduled.emails.table.subject": "Asunto",
   "bulk.email.scheduled.emails.table.Author": "Autor",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Estás eliminando un correo electrónico programado para enviarse en {date} . El correo electrónico no será enviado y la programación cancelada. ¿Está seguro?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Estás eliminando un correo electrónico programado para enviarse en {date} . El correo electrónico no será enviado y la programación cancelada. ¿Está seguro?",
+  "soa_footer_main.generalConditions": "Condiciones Generales",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidad",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accesibilidad",
+  "soa_footer_main.support": "Soporte y Ayuda",
+  "soa_footer_main.allRightReserved": "Todos los derechos están reservados"
 }

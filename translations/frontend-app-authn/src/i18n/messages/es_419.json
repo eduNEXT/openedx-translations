@@ -177,5 +177,12 @@
   "complete.your.profile.2": "tu perfil ",
   "register.page.terms.of.service.and.honor.code": "Al crear una cuenta, acepta {tosAndHonorCode} y reconoce que {platformName} y cada miembro procesan sus datos personales de acuerdo con {privacyPolicy}.",
   "register.page.honor.code": "Acepto las {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Acepto las {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Acepto las {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "Condiciones Generales",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidad",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accesibilidad",
+  "soa_footer_main.support": "Soporte y Ayuda",
+  "soa_footer_main.allRightReserved": "Todos los derechos reservados."
 }

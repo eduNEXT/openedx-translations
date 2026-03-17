@@ -177,5 +177,12 @@
   "complete.your.profile.2": "Tavs profils",
   "register.page.terms.of.service.and.honor.code": "Izveidojot kontu, jūs piekrītat {tosAndHonorCode} un atzīstat, ka {platformName} un katrs Dalībnieks apstrādā jūsu personas datus saskaņā ar {privacyPolicy}.",
   "register.page.honor.code": "Es piekrītu {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Es piekrītu {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Es piekrītu {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "भेजना",
   "bulk.email.scheduled.emails.table.subject": "विषय",
   "bulk.email.scheduled.emails.table.Author": "लेखक",
-  "bulk.email.scheduled.emails.table.confirm.delete": "आप {date} पर भेजे जाने के लिए निर्धारित ईमेल को हटा रहे हैं। ईमेल नहीं भेजा जाएगा और शेड्यूल रद्द कर दिया जाएगा. क्या आपको यकीन है?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "आप {date} पर भेजे जाने के लिए निर्धारित ईमेल को हटा रहे हैं। ईमेल नहीं भेजा जाएगा और शेड्यूल रद्द कर दिया जाएगा. क्या आपको यकीन है?",
+  "soa_footer_main.generalConditions": "सामान्य शर्तें",
+  "soa_footer_main.legalNotice": "कानूनी नोटिस",
+  "soa_footer_main.privacy": "गोपनीयता",
+  "soa_footer_main.cookies": "कुकीज़",
+  "soa_footer_main.accessibility": "अभिगम्यता",
+  "soa_footer_main.support": "सहायता और मदद",
+  "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित"
 }

@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "",
   "bulk.email.scheduled.emails.table.subject": "标题",
   "bulk.email.scheduled.emails.table.Author": "作者",
-  "bulk.email.scheduled.emails.table.confirm.delete": ""
+  "bulk.email.scheduled.emails.table.confirm.delete": "",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "隐私",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "无障碍",
+  "soa_footer_main.support": "支持与帮助",
+  "soa_footer_main.allRightReserved": "保留所有权利"
 }

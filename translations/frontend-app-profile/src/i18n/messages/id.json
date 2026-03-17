@@ -53,5 +53,12 @@
   "profile.formcontrols.button.saving": "Saving",
   "profile.formcontrols.button.saved": "Saved",
   "profile.visibility.who.just.me": "Just me",
-  "profile.visibility.who.everyone": "Everyone on {siteName}"
+  "profile.visibility.who.everyone": "Everyone on {siteName}",
+  "soa_footer_main.generalConditions": "Syarat Umum",
+  "soa_footer_main.legalNotice": "Pemberitahuan Hukum",
+  "soa_footer_main.privacy": "Privasi",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Aksesibilitas",
+  "soa_footer_main.support": "Dukungan dan Bantuan",
+  "soa_footer_main.allRightReserved": "Seluruh hak cipta"
 }

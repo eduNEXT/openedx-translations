@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Haijatolewa daraja",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Hivi sasa inawekwa alama na mtu mwingine",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Ukadiriaji Umekamilika",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Kwa sasa unapanga jibu hili"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Kwa sasa unapanga jibu hili",
+  "soa_footer_main.generalConditions": "Masharti ya Jumla",
+  "soa_footer_main.legalNotice": "Notisi ya Kisheria",
+  "soa_footer_main.privacy": "Faragha",
+  "soa_footer_main.cookies": "Vidakuzi",
+  "soa_footer_main.accessibility": "Upatikanaji",
+  "soa_footer_main.support": "Msaada na Usaidizi",
+  "soa_footer_main.allRightReserved": ""
 }

@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Címzett:",
   "bulk.email.scheduled.emails.table.subject": "Tárgy",
   "bulk.email.scheduled.emails.table.Author": "Szerző",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Ön egy e-mailt töröl, amelyet a(z) {date} dátumra ütemeztek. Az e-mail nem kerül elküldésre, és az ütemezés megszakítva lesz. Biztos benne?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Ön egy e-mailt töröl, amelyet a(z) {date} dátumra ütemeztek. Az e-mail nem kerül elküldésre, és az ütemezés megszakítva lesz. Biztos benne?",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

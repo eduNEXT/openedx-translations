@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Kaydediliyor",
   "profile.formcontrols.button.saved": "Kaydedildi",
   "profile.visibility.who.just.me": "Sadece ben",
-  "profile.visibility.who.everyone": "{siteName} sitesindeki herkes"
+  "profile.visibility.who.everyone": "{siteName} sitesindeki herkes",
+  "soa_footer_main.generalConditions": "Genel Koşullar",
+  "soa_footer_main.legalNotice": "Yasal Bildirim",
+  "soa_footer_main.privacy": "Gizlilik",
+  "soa_footer_main.cookies": "Çerezler",
+  "soa_footer_main.accessibility": "Erişilebilirlik",
+  "soa_footer_main.support": "Destek ve Yardım",
+  "soa_footer_main.allRightReserved": "Tüm hakları saklıdır"
 }

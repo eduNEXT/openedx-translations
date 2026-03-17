@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Mentés",
   "profile.formcontrols.button.saved": "Mentve",
   "profile.visibility.who.just.me": "Csak én",
-  "profile.visibility.who.everyone": "Mindenki a(z) {siteName} oldalon"
+  "profile.visibility.who.everyone": "Mindenki a(z) {siteName} oldalon",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

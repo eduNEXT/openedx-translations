@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "सेव हो रहा है",
   "profile.formcontrols.button.saved": "जमा कर लिया गया",
   "profile.visibility.who.just.me": "केवल मैं",
-  "profile.visibility.who.everyone": "{siteName} पर हर कोई"
+  "profile.visibility.who.everyone": "{siteName} पर हर कोई",
+  "soa_footer_main.generalConditions": "सामान्य शर्तें",
+  "soa_footer_main.legalNotice": "कानूनी नोटिस",
+  "soa_footer_main.privacy": "गोपनीयता",
+  "soa_footer_main.cookies": "कुकीज़",
+  "soa_footer_main.accessibility": "अभिगम्यता",
+  "soa_footer_main.support": "सहायता और मदद",
+  "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित"
 }

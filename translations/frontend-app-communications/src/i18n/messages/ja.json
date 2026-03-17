@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "送信先",
   "bulk.email.scheduled.emails.table.subject": "件名",
   "bulk.email.scheduled.emails.table.Author": "著者",
-  "bulk.email.scheduled.emails.table.confirm.delete": "{date}に送信予定のメールを削除しようとしています。このメールは送信されず、スケジュールもキャンセルされます。本当に削除しますか？"
+  "bulk.email.scheduled.emails.table.confirm.delete": "{date}に送信予定のメールを削除しようとしています。このメールは送信されず、スケジュールもキャンセルされます。本当に削除しますか？",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

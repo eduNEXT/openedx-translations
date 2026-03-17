@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Göndərildi:",
   "bulk.email.scheduled.emails.table.subject": "Fənn",
   "bulk.email.scheduled.emails.table.Author": "Müəllif",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Siz {date} tarixində göndərilməsi planlaşdırılan bir e-poçtu silirsiniz. E-poçt göndərilməyəcək və planlaşdırma ləğv ediləcək. Əminsinizmi?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Siz {date} tarixində göndərilməsi planlaşdırılan bir e-poçtu silirsiniz. E-poçt göndərilməyəcək və planlaşdırma ləğv ediləcək. Əminsinizmi?",
+  "soa_footer_main.generalConditions": "Ümumi şərtlər",
+  "soa_footer_main.legalNotice": "Hüquqi bildiriş",
+  "soa_footer_main.privacy": "Məxfilik",
+  "soa_footer_main.cookies": "Kukilər",
+  "soa_footer_main.accessibility": "Əlçatanlıq",
+  "soa_footer_main.support": "Dəstək və Yardım",
+  "soa_footer_main.allRightReserved": "Bütün hüquqlar qorunur"
 }

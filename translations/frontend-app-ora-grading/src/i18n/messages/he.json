@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "ללא ציון",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "כרגע מדורג על ידי מישהו אחר",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "הציון הושלם",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "אתה מדרג כעת את התגובה הזו"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "אתה מדרג כעת את התגובה הזו",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

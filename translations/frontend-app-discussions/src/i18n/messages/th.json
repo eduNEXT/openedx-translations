@@ -209,5 +209,12 @@
   "discussions.posts.sort.lastActivity": "กิจกรรมล่าสุด",
   "discussions.posts.sort.commentCount": "กิจกรรมส่วนใหญ่",
   "discussions.posts.sort.voteCount": "ชอบมากที่สุด",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} other { {own} } } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} อื่นๆ { {status} } } {ประเภท เลือก การอภิปราย {การสนทนา} คำถาม {คำถาม} ทั้งหมด {โพสต์} อื่นๆ { {type} } } {cohortType เลือก ทั้งหมด {} กลุ่ม {in {cohort} } อื่น ๆ { {cohortType} } } เรียงลำดับตาม {sort, select, lastActivityAt { กิจกรรมล่าสุด} ความคิดเห็นนับ {กิจกรรมมากที่สุด} โหวตนับ {ชอบมากที่สุด} อื่น ๆ { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} other { {own} } } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} อื่นๆ { {status} } } {ประเภท เลือก การอภิปราย {การสนทนา} คำถาม {คำถาม} ทั้งหมด {โพสต์} อื่นๆ { {type} } } {cohortType เลือก ทั้งหมด {} กลุ่ม {in {cohort} } อื่น ๆ { {cohortType} } } เรียงลำดับตาม {sort, select, lastActivityAt { กิจกรรมล่าสุด} ความคิดเห็นนับ {กิจกรรมมากที่สุด} โหวตนับ {ชอบมากที่สุด} อื่น ๆ { {sort} } }",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

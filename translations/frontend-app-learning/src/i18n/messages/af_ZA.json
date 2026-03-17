@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "Kursus uiteensetting",
   "courseOutline.completedUnit": "Voltooide eenheid",
   "courseOutline.incompleteUnit": "Onvolledige eenheid",
-  "discussions.sidebar.open.button": "Wys besprekingsbord"
+  "discussions.sidebar.open.button": "Wys besprekingsbord",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

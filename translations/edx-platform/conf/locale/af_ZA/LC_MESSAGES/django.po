@@ -27062,3 +27062,23 @@ msgstr "Plaas jou kopiereg teks hier!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kode-redakteur"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Algemene Voorwaardes"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Regskennis"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Koekies"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Toeganklikheid"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Ondersteuning en Hulp"

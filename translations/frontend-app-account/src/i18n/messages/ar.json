@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "أنت بحاجة إلى جهاز مزود بكاميرا. إذا تلقيت طلبًا من المتصفح للوصول إلى كاميرا جهازك، فتأكد رجاءً من النقر على {السماح}.",
   "id.verification.account.name.summary.alert": "إعدادات حسابك يديرها {managerTitle}. إن لم يكن الاسم في بطاقة هويتك ذات الصورة. مطابقًا للاسم الذي في حسابك، فيرجى الاتصال بالمسؤول {profileDataManager} أو ب{support} للحصول على المساعدة قبل إتمام عملية التحقق من الصورة..",
   "idv.submission.alert.error": "لقد واجهنا خللاً فنياً خلال محاولتنا تقديم إثباتٍ للهُوِيّة. قد تكون هذه مشكلة مؤقتة، لذلك حاوِل مجدداً في بِضع دقائق. وإن بَقِيَت المشكلة، فمن فضلك اذهَب إلى {support_link} للمساعدة. ",
-  "id.verification.account.name.edit": "تعديل {sr}"
+  "id.verification.account.name.edit": "تعديل {sr}",
+  "soa_footer_main.generalConditions": "الشروط العامة",
+  "soa_footer_main.legalNotice": "إشعار قانوني",
+  "soa_footer_main.privacy": "الخصوصية",
+  "soa_footer_main.cookies": "ملفات تعريف الارتباط",
+  "soa_footer_main.accessibility": "إمكانية الوصول",
+  "soa_footer_main.support": "الدعم والمساعدة",
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
 }

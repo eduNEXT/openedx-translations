@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Terms of Service",
   "authoring.footer.privacyPolicy.link.label": "Privacy Policy",
   "authoring.footer.accessibilityRequest.link.label": "Accessibility Accomodation Request",
-  "authoring.footer.trademark.message": "edX and Open edX, and the edX and Open edX logos are registered trademarks of"
+  "authoring.footer.trademark.message": "edX and Open edX, and the edX and Open edX logos are registered trademarks of",
+  "soa_footer_main.generalConditions": "Syarat Umum",
+  "soa_footer_main.legalNotice": "Pemberitahuan Hukum",
+  "soa_footer_main.privacy": "Privasi",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Aksesibilitas",
+  "soa_footer_main.support": "Dukungan dan Bantuan",
+  "soa_footer_main.allRightReserved": "Seluruh hak cipta"
 }

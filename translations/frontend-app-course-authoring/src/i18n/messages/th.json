@@ -1350,5 +1350,12 @@
   "authoring.discussions.appDocInstructions.configurationLink": "เอกสารการกำหนดค่า",
   "authoring.discussions.appDocInstructions.learnMoreLink": "เรียนรู้เพิ่มเติมเกี่ยวกับ {providerName}",
   "authoring.discussions.appDocInstructions.linkTextHeading": "ความช่วยเหลือและเอกสารภายนอก",
-  "authoring.discussions.appDocInstructions.linkText": "{link}"
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

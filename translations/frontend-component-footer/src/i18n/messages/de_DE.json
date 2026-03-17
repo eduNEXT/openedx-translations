@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Nutzungsbedingungen",
   "authoring.footer.privacyPolicy.link.label": "Datenschutzbestimmungen",
   "authoring.footer.accessibilityRequest.link.label": "Anfrage für barrierefreie Unterkünfte",
-  "authoring.footer.trademark.message": "edX und Open edX sowie die edX- und Open edX-Logos sind eingetragene Marken von"
+  "authoring.footer.trademark.message": "edX und Open edX sowie die edX- und Open edX-Logos sind eingetragene Marken von",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": "Alle Rechte vorbehalten"
 }

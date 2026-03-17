@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "最近の活動",
   "discussions.posts.sort.commentCount": "ほとんどのアクティビティ",
   "discussions.posts.sort.voteCount": "最も「いいね！」が多い",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {すべて} true {自分} other {{own}} } {status, select, statusAll {} statusUnread {未読} statusFollowing {フォロー中} statusReported {報告済み} statusUnanswered {未回答} statusUnresponded {未返信} other {{status}} } {type, select, discussion {ディスカッション} question {質問} all {投稿} other {{type}} } {cohortType, select, all {} group {コホート内} other {{cohortType}} } {sort, select, lastActivityAt {最近の活動} commentCount {最も活動的} voteCount {最も「いいね」が多い} other {{sort}} }順に並べ替え"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {すべて} true {自分} other {{own}} } {status, select, statusAll {} statusUnread {未読} statusFollowing {フォロー中} statusReported {報告済み} statusUnanswered {未回答} statusUnresponded {未返信} other {{status}} } {type, select, discussion {ディスカッション} question {質問} all {投稿} other {{type}} } {cohortType, select, all {} group {コホート内} other {{cohortType}} } {sort, select, lastActivityAt {最近の活動} commentCount {最も活動的} voteCount {最も「いいね」が多い} other {{sort}} }順に並べ替え",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

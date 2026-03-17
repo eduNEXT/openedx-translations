@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "",
   "id.verification.account.name.summary.alert": "",
   "idv.submission.alert.error": "",
-  "id.verification.account.name.edit": "Επεξεργασία {sr}"
+  "id.verification.account.name.edit": "Επεξεργασία {sr}",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

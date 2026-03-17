@@ -354,5 +354,12 @@
   "id.verification.requirements.card.device.text": "Você precisa de um dispositivo que tenha uma câmera. Se você receber uma solicitação do navegador para acessar sua câmera, certifique-se de clicar em {allow}.",
   "id.verification.account.name.summary.alert": "As configurações da sua conta são gerenciadas por {managerTitle}. Se o nome na sua identificação com foto não corresponder ao nome na sua conta, entre em contato com o administrador do {profileDataManager} ou {support} para obter ajuda.",
   "idv.submission.alert.error": "Encontramos um error técnico ao tentar to enviar ID Verification . this pode ser um problema temporário, então Please tente novamente in alguns minutes . Se Problem persistir, Please vá to {support_link} para obter ajuda.",
-  "id.verification.account.name.edit": "Editar {sr}"
+  "id.verification.account.name.edit": "Editar {sr}",
+  "soa_footer_main.generalConditions": "Condições Gerais",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidade",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Acessibilidade",
+  "soa_footer_main.support": "Suporte e Ajuda",
+  "soa_footer_main.allRightReserved": "Todos os direitos reservados"
 }

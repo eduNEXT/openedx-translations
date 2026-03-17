@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "",
   "authoring.footer.privacyPolicy.link.label": "",
   "authoring.footer.accessibilityRequest.link.label": "",
-  "authoring.footer.trademark.message": ""
+  "authoring.footer.trademark.message": "",
+  "soa_footer_main.generalConditions": "Condizioni Generali",
+  "soa_footer_main.legalNotice": "Avviso Legale",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Accessibilità",
+  "soa_footer_main.support": "Supporto e Aiuto",
+  "soa_footer_main.allRightReserved": "Tutti i diritti riservati"
 }

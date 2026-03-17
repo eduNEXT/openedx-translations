@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "Kursplan",
   "courseOutline.completedUnit": "Avslutad enhet",
   "courseOutline.incompleteUnit": "Ofullständig enhet",
-  "discussions.sidebar.open.button": "Visa diskussionsbrickan"
+  "discussions.sidebar.open.button": "Visa diskussionsbrickan",
+  "soa_footer_main.generalConditions": "Allmänna villkor",
+  "soa_footer_main.legalNotice": "Juridiskt meddelande",
+  "soa_footer_main.privacy": "Integritet",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tillgänglighet",
+  "soa_footer_main.support": "Support och Hjälp",
+  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna"
 }

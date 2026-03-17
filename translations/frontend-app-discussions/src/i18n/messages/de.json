@@ -207,5 +207,12 @@
   "tour.body.notRespondedFilter": "Now you can filter discussions to find posts with no response.",
   "tour.title.notRespondedFilter": "New filtering option!",
   "tour.body.responseSortTour": "Responses and comments are now sorted by newest first. Please use this option to change the sort order",
-  "tour.title.responseSortTour": "Sort Responses!"
+  "tour.title.responseSortTour": "Sort Responses!",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": ""
 }

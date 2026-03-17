@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Necesitas un dispositivo con cámara. Si recibes un aviso del navegador solicitando acceso a tu cámara, asegúrate de hacer clic en {allow}.",
   "id.verification.account.name.summary.alert": "La configuración de tu cuenta es administrada por {managerTitle}. Si el nombre en tu documento de identidad no coincide el tu nombre de tu cuenta, por favor ponte en contacto con tu administrador de {profileDataManager} o con {soporte} para solicitar ayuda.",
   "idv.submission.alert.error": "\n            Ha ocurrido un error al enviar su verificación de identidad.\n            Esto podría deberse a un problema temporal. Por favor, intentarlo de nuevo en unos minutos.\n            Si el problema persiste, ir a {support_link} para solicitar ayuda.\n          ",
-  "id.verification.account.name.edit": "Editar {sr}"
+  "id.verification.account.name.edit": "Editar {sr}",
+  "soa_footer_main.generalConditions": "Condiciones Generales",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidad",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accesibilidad",
+  "soa_footer_main.support": "Soporte y Ayuda",
+  "soa_footer_main.allRightReserved": "Todos los derechos están reservados"
 }

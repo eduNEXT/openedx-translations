@@ -17251,3 +17251,23 @@ msgstr "Tuliskan Hak Cipta anda disini!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kode Editor"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Syarat Umum"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Pemberitahuan Hukum"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookies"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Aksesibilitas"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Dukungan dan Bantuan"

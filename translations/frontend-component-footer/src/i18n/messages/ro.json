@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "",
   "authoring.footer.privacyPolicy.link.label": "",
   "authoring.footer.accessibilityRequest.link.label": "",
-  "authoring.footer.trademark.message": ""
+  "authoring.footer.trademark.message": "",
+  "soa_footer_main.generalConditions": "Condiții generale",
+  "soa_footer_main.legalNotice": "Notă juridică",
+  "soa_footer_main.privacy": "Confidențialitate",
+  "soa_footer_main.cookies": "Cookie-uri",
+  "soa_footer_main.accessibility": "Accesibilitate",
+  "soa_footer_main.support": "Suport și Ajutor",
+  "soa_footer_main.allRightReserved": ""
 }

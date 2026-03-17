@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "ཁྱེད་ལ་པར་ཆས་ཡོད་པའི་ཁ་པར་ཞིག་ཡོད་དགོས། གལ་སྲིད་ཁྱེད་ལ་རང་གི་ལྟ་བཤེར་དྲ་ཚིགས་ཀྱིས་པར་ཆས་བཀོལ་སྤྱོད་ཆོག་པའི་བརྡ་འབྱོར་ན། {allow} ཟེར་བ་དེར་བསྣུན་ཏེ་ཆོག་མཆན་སྤྲོད་རྒྱུ་མ་བརྗེད་རོགས།",
   "id.verification.account.name.summary.alert": " ཁྱེད་ཀྱི་ཁ་བྱང་གི་སྒྲིག་འགོད་རྣམས་ {managerTitle} བརྒྱུད་ནས་དོ་དམ་བྱེད་ཀྱི་ཡོད། གལ་སྲིད་ཁྱེད་ཀྱི་ཁ་བྱང་ནང་གི་མིང་དང་ID ཐོབ་ཐང་དཔང་ཡིག་གི་འདྲ་པར་སྒང་གི་མིང་གཉིས་མི་མཐུན་ན། ཁྱེད་ཀྱི་{profileDataManager} དོ་དམ་པ་འམ་ཡང་ན་{support} རམ་འདེགས་ཚན་པ་ལ་འབྲེལ་བ་གནང་རོགས།",
   "idv.submission.alert.error": " ང་ཚོས་ངོ་སྤྲོད་ཁུངས་སྐྱེལ་སྙན་ཞུ་འབུལ་སྐབས་ལག་རྩལ་གྱི་ནོར་འཁྲུལ་ཞིག་བྱུང་བ་དེར་འཕྲལ་སེལ་གྱི་དཀའ་ངལ་ཞིག་ཡིན་སྲིད་པས། སྐར་མ་འགའ་ཤས་ཀྱི་ནང་ཚུད་དུ་བསྐྱར་དུ་ཚོད་ལྟ་གནང་རོགས། གལ་ཏེ་དཀའ་ངལ་དེ་མུ་མཐུད་དུ་གནས་ན། ང་ཚོའི་རམ་འདེགས་ཞུ་སའི་དྲ་ཚིགས་{support_link} ལ་གཟིགས་རོགས།",
-  "id.verification.account.name.edit": "རྩོམ་སྒྲིག {sr}"
+  "id.verification.account.name.edit": "རྩོམ་སྒྲིག {sr}",
+  "soa_footer_main.generalConditions": "སྤྱིར་བཏང་གི་ཆ་རྐྱེན།",
+  "soa_footer_main.legalNotice": "ཁྲིམས་ལུགས་ཀྱི་བརྡ་ལན།",
+  "soa_footer_main.privacy": "གསང་བ།",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "ལག་ལེན་འཐབ་ཐུབ་པ།",
+  "soa_footer_main.support": "རོགས་རམ་དང་གདུང་སེམས།",
+  "soa_footer_main.allRightReserved": ""
 }

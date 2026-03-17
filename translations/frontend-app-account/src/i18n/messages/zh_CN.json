@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "你需要一个有摄像头的设备。如果您收到访问相机的浏览器提示，请确保单击 {allow}。",
   "id.verification.account.name.summary.alert": "您的帐户设置由 {managerTitle} 管理。如果您照片 ID 上的姓名与您帐户上的姓名不符，请联系您的 {profileDataManager} 管理员或 {support} 寻求帮助。",
   "idv.submission.alert.error": "",
-  "id.verification.account.name.edit": "编辑 {sr}"
+  "id.verification.account.name.edit": "编辑 {sr}",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "隐私",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "无障碍",
+  "soa_footer_main.support": "支持与帮助",
+  "soa_footer_main.allRightReserved": "保留所有权利"
 }

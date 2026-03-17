@@ -53,5 +53,12 @@
   "profile.formcontrols.button.saving": "กำลังบันทึก",
   "profile.formcontrols.button.saved": "บันทึกแล้ว",
   "profile.visibility.who.just.me": "เฉพาะฉัน",
-  "profile.visibility.who.everyone": "ทุกคน"
+  "profile.visibility.who.everyone": "ทุกคน",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Jy benodig &#39;n toestel wat &#39;n kamera het. As jy &#39;n blaaieraanvraag ontvang vir toegang tot jou kamera, maak asseblief seker dat jy {allow} klik.",
   "id.verification.account.name.summary.alert": "Jou rekeninginstellings word bestuur deur {managerTitle} . As die naam op jou foto-ID nie ooreenstem met die naam op jou rekening nie, kontak asseblief jou {profileDataManager} administrateur of {support} vir hulp.",
   "idv.submission.alert.error": "Ons het &#39;n tegniese fout teëgekom terwyl ons probeer het om ID-verifikasie in te dien. Dit kan &#39;n tydelike probleem wees, so probeer asseblief weer oor &#39;n paar minute. As die probleem voortduur, gaan asseblief na {support_link} vir hulp.",
-  "id.verification.account.name.edit": "Wysig {sr}"
+  "id.verification.account.name.edit": "Wysig {sr}",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

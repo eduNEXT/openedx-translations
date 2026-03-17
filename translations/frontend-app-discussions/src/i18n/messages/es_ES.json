@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "Actividad reciente",
   "discussions.posts.sort.commentCount": "La mayoría de la actividad",
   "discussions.posts.sort.voteCount": "La mayoría me gusta",
-  "discussions.posts.sort-filter.sortFilterStatus": "{propio, Seleccionar , falso {Todos} cierto {Propio} otro {{propio}} } {status, Seleccionar , statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnan respondió {sin respuesta} estado sin respuesta {sin respuesta} otro { {status}} } {type, Seleccionar , discusión { discusiones } pregunta {preguntas} todas las {publicaciones} other {{type}} } {cohortType, Seleccionar , all {} grupo { en { dividir en cohortes }} otro {{cohortType}} } ordenado por {ordenar, Seleccionar , lastActivityAt {actividad reciente} commentCount {más actividad} voteCount {más me gusta} otros {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{propio, Seleccionar , falso {Todos} cierto {Propio} otro {{propio}} } {status, Seleccionar , statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnan respondió {sin respuesta} estado sin respuesta {sin respuesta} otro { {status}} } {type, Seleccionar , discusión { discusiones } pregunta {preguntas} todas las {publicaciones} other {{type}} } {cohortType, Seleccionar , all {} grupo { en { dividir en cohortes }} otro {{cohortType}} } ordenado por {ordenar, Seleccionar , lastActivityAt {actividad reciente} commentCount {más actividad} voteCount {más me gusta} otros {{sort}} }",
+  "soa_footer_main.generalConditions": "Condiciones Generales",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidad",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accesibilidad",
+  "soa_footer_main.support": "Soporte y Ayuda",
+  "soa_footer_main.allRightReserved": "Todos los derechos están reservados"
 }

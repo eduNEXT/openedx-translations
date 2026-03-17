@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Saving",
   "profile.formcontrols.button.saved": "Saved",
   "profile.visibility.who.just.me": "Just me",
-  "profile.visibility.who.everyone": "Everyone on {siteName}"
+  "profile.visibility.who.everyone": "Everyone on {siteName}",
+  "soa_footer_main.generalConditions": "General Conditions",
+  "soa_footer_main.legalNotice": "Legal Notice",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibility",
+  "soa_footer_main.support": "Support and Help",
+  "soa_footer_main.allRightReserved": "All rights reserved"
 }

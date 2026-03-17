@@ -177,5 +177,12 @@
   "complete.your.profile.2": "你的個人資料",
   "register.page.terms.of.service.and.honor.code": "建立帳戶即表示您同意{tosAndHonorCode}並承認{platformName}和每位會員根據{privacyPolicy}處理您的個人資料。",
   "register.page.honor.code": "我同意{platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "我同意{platformName} {termsOfService}"
+  "register.page.terms.of.service": "我同意{platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

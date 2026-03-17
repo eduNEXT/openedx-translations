@@ -22809,3 +22809,23 @@ msgstr "Code Editor"
 #: lms/templates/header/header-mobile.html:L96
 msgid "Who we are"
 msgstr "Wer wir sinds"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Allgemeine Bedingungen"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Rechtlicher Hinweis"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookies"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Barrierefreiheit"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Support und Hilfe"

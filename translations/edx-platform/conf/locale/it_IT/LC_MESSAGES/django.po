@@ -25456,3 +25456,23 @@ msgstr "Inserire qui il testo del Copyright! "
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor di codice "
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Condizioni Generali"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Avviso Legale"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookie"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Accessibilità"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Supporto e Aiuto"

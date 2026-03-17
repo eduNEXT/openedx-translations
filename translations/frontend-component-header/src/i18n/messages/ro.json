@@ -36,5 +36,6 @@
   "header.label.courseOutline": "",
   "header.label.search.nav": "",
   "header.menu.soa.blog.label": "Blog",
-  "header.menu.soa.whoWeAre.label": "Cine suntem"
+  "header.menu.soa.whoWeAre.label": "Cine suntem",
+  "header.menu.soa.search.label": "Căutare"
 }

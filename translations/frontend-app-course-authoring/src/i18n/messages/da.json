@@ -1350,5 +1350,12 @@
   "authoring.discussions.appDocInstructions.configurationLink": "Konfigurationsdokumentation",
   "authoring.discussions.appDocInstructions.learnMoreLink": "Få mere at vide om {providerName}",
   "authoring.discussions.appDocInstructions.linkTextHeading": "Ekstern hjælp og dokumentation",
-  "authoring.discussions.appDocInstructions.linkText": "{link}"
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }

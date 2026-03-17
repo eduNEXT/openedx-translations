@@ -26618,3 +26618,23 @@ msgstr "Telif Hakları metninizi buraya koyun!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kod Düzenleyicisi"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Genel Koşullar"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Yasal Bildirim"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Çerezler"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Erişilebilirlik"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Destek ve Yardım"

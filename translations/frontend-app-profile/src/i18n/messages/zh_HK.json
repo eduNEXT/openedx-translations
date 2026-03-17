@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "正在儲存",
   "profile.formcontrols.button.saved": "已儲存",
   "profile.visibility.who.just.me": "只有我",
-  "profile.visibility.who.everyone": "{siteName}上的每個人"
+  "profile.visibility.who.everyone": "{siteName}上的每個人",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

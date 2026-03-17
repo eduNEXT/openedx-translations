@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Stuur na",
   "bulk.email.scheduled.emails.table.subject": "Onderwerp",
   "bulk.email.scheduled.emails.table.Author": "Skrywer",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Jy vee &#39;n e-pos uit wat geskeduleer is om gestuur te word op {date} . Die e-pos sal nie gestuur word nie en die skedulering gekanselleer. Is jy seker?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Jy vee &#39;n e-pos uit wat geskeduleer is om gestuur te word op {date} . Die e-pos sal nie gestuur word nie en die skedulering gekanselleer. Is jy seker?",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} neapstiprināja jūsu pieprasījumu pēc kursa kredīta. Lai iegūtu papildinformāciju, tieši sazinieties ar {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Pieprasīt kredītu",
   "learner-dash.courseCard.banners.credit.viewCredit": "Skatīt kredītu",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Skatīt detaļas"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Skatīt detaļas",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

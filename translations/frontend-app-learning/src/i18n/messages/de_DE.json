@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "Kursübersicht",
   "courseOutline.completedUnit": "abgeschlossen Einheit",
   "courseOutline.incompleteUnit": "Unvollständige Einheit",
-  "discussions.sidebar.open.button": "Diskussion im Tray anzeigen"
+  "discussions.sidebar.open.button": "Diskussion im Tray anzeigen",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": "Alle Rechte vorbehalten"
 }

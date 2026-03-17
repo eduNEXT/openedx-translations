@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "nem osztályozott",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Jelenleg valaki más értékeli",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Osztályzás befejezve",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Jelenleg ezt a választ értékeli."
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Jelenleg ezt a választ értékeli.",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

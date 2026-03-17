@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Baholanmagan",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Hozirda boshqa birov tomonidan baholanmoqda",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Baholash tugallandi",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Siz hozir bu javobni baholayapsiz"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Siz hozir bu javobni baholayapsiz",
+  "soa_footer_main.generalConditions": "Umumiy shartlar",
+  "soa_footer_main.legalNotice": "Yuridik bildirishnoma",
+  "soa_footer_main.privacy": "Maxfiylik",
+  "soa_footer_main.cookies": "Kukilar",
+  "soa_footer_main.accessibility": "Imkoniyat",
+  "soa_footer_main.support": "Qo'llab-quvvatlash va Yordam",
+  "soa_footer_main.allRightReserved": "Barcha huquqlar himoyalangan"
 }

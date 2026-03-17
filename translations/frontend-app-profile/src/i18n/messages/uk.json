@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Збереження",
   "profile.formcontrols.button.saved": "Збережено",
   "profile.visibility.who.just.me": "Тільки я",
-  "profile.visibility.who.everyone": "Будь-хто на {siteName}"
+  "profile.visibility.who.everyone": "Будь-хто на {siteName}",
+  "soa_footer_main.generalConditions": "Загальні умови",
+  "soa_footer_main.legalNotice": "Юридичне повідомлення",
+  "soa_footer_main.privacy": "Конфіденційність",
+  "soa_footer_main.cookies": "Файли cookie",
+  "soa_footer_main.accessibility": "Доступність",
+  "soa_footer_main.support": "Підтримка та Допомога",
+  "soa_footer_main.allRightReserved": "Всі права захищено"
 }

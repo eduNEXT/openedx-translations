@@ -449,5 +449,12 @@
   "learning.streakcelebration.factoidb": "Users who learn {streak_length} days in a row {bolded_section} vs. those who don’t.",
   "learning.streakCelebration.streakCelebrationCouponEndDateMessage": "Ends {date}.",
   "learning.loading.failure": "There was an error loading this course.",
-  "learning.loading": "Loading course page…"
+  "learning.loading": "Loading course page…",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": ""
 }

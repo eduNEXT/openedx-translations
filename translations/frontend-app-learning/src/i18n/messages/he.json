@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "הבא",
   "learn.sequence.navigation.next.up.button": "הבא: {title}",
   "learn.sequence.navigation.previous.button": "הקודם",
-  "discussions.sidebar.open.button": "הצג מגש דיונים"
+  "discussions.sidebar.open.button": "הצג מגש דיונים",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

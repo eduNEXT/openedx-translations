@@ -152,5 +152,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} did not approve your request for course credit. For more information, contact {linkToProviderSite} directly.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Request Credit",
   "learner-dash.courseCard.banners.credit.viewCredit": "View Credit",
-  "learner-dash.courseCard.banners.credit.viewDetails": "View Details"
+  "learner-dash.courseCard.banners.credit.viewDetails": "View Details",
+  "soa_footer_main.generalConditions": "Syarat Umum",
+  "soa_footer_main.legalNotice": "Pemberitahuan Hukum",
+  "soa_footer_main.privacy": "Privasi",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Aksesibilitas",
+  "soa_footer_main.support": "Dukungan dan Bantuan",
+  "soa_footer_main.allRightReserved": "Seluruh hak cipta"
 }

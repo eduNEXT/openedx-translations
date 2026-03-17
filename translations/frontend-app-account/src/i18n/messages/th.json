@@ -354,5 +354,12 @@
   "id.verification.requirements.card.device.text": "คุณต้องมีอุปกรณ์ที่มีกล้อง หากคุณได้รับข้อความแจ้งจากเบราว์เซอร์สำหรับการเข้าถึงกล้องของคุณ โปรดคลิก {allow}",
   "id.verification.account.name.summary.alert": "การตั้งค่าบัญชีของคุณได้รับการจัดการโดย {managerTitle} หากชื่อในบัตรประจำตัวที่มีรูปถ่ายของคุณไม่ตรงกับชื่อในบัญชีของคุณ โปรดติดต่อผู้ดูแลระบบ {profileDataManager} หรือ {support} เพื่อขอความช่วยเหลือ",
   "idv.submission.alert.error": "เราพบข้อผิดพลาดทางเทคนิคขณะพยายามส่งการยืนยันตัวตน นี่อาจเป็นปัญหาชั่วคราว ดังนั้นโปรดลองอีกครั้งในอีกสักครู่ หากปัญหายังคงอยู่ โปรดไปที่ {support_link} เพื่อขอความช่วยเหลือ",
-  "id.verification.account.name.edit": "แก้ไข {sr}"
+  "id.verification.account.name.edit": "แก้ไข {sr}",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

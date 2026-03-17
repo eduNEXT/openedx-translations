@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "Hoạt động gần đây",
   "discussions.posts.sort.commentCount": "Hoạt động nhiều nhất",
   "discussions.posts.sort.voteCount": "Nhiều lượt thích nhất",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Sở hữu} other { {own} } } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other { {status} } } {loại, chọn, thảo luận {thảo luận} câu hỏi {câu hỏi} tất cả {bài đăng} khác { {type} } } {cohortType, select, all {} nhóm {in {cohort} } khác { {cohortType} } } được sắp xếp theo {sort, select, LastActivityAt { hoạt động gần đây} bình luậnĐếm {hoạt động nhiều nhất} phiếu bầuĐếm {lượt thích nhiều nhất} khác { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Sở hữu} other { {own} } } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other { {status} } } {loại, chọn, thảo luận {thảo luận} câu hỏi {câu hỏi} tất cả {bài đăng} khác { {type} } } {cohortType, select, all {} nhóm {in {cohort} } khác { {cohortType} } } được sắp xếp theo {sort, select, LastActivityAt { hoạt động gần đây} bình luậnĐếm {hoạt động nhiều nhất} phiếu bầuĐếm {lượt thích nhiều nhất} khác { {sort} } }",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

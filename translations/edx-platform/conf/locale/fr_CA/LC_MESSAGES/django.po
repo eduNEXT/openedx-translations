@@ -26858,3 +26858,23 @@ msgstr "Placer votre texte de droits d'auteur ici!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Éditeur de code"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Conditions générales"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Avis juridique"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookies"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Accessibilité"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Soutien et Aide"

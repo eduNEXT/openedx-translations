@@ -209,5 +209,12 @@
   "discussions.posts.sort.lastActivity": "Atividade recente",
   "discussions.posts.sort.commentCount": "A maioria das atividades",
   "discussions.posts.sort.voteCount": "mais curtidas",
-  "discussions.posts.sort-filter.sortFilterStatus": "{próprio, selecione, falso {Todos} verdadeiro {Próprio} outro { {own} } } {status, selecione, statusTodos {} statusUnread {não lido} statusFollowing {seguido} statusReportado {relatado} statusUnanswered {não respondido} statusUnresponded {não respondido} other { {status} } } {type, select, Discussão {Discussão} question {questions} todas {postagens} other { {type} } } {cohortType, select, all {} grupo {in {agrupar} } other { {cohortType} } } classificado por {classificar, selecionar, lastActivityAt {atividade recente } commentCount {mais atividades} voteCount {mais curtidas} other { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{próprio, selecione, falso {Todos} verdadeiro {Próprio} outro { {own} } } {status, selecione, statusTodos {} statusUnread {não lido} statusFollowing {seguido} statusReportado {relatado} statusUnanswered {não respondido} statusUnresponded {não respondido} other { {status} } } {type, select, Discussão {Discussão} question {questions} todas {postagens} other { {type} } } {cohortType, select, all {} grupo {in {agrupar} } other { {cohortType} } } classificado por {classificar, selecionar, lastActivityAt {atividade recente } commentCount {mais atividades} voteCount {mais curtidas} other { {sort} } }",
+  "soa_footer_main.generalConditions": "Condições Gerais",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidade",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Acessibilidade",
+  "soa_footer_main.support": "Suporte e Ajuda",
+  "soa_footer_main.allRightReserved": "Todos os direitos reservados"
 }

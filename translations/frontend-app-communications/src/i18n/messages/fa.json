@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "ارسال به",
   "bulk.email.scheduled.emails.table.subject": "موضوع",
   "bulk.email.scheduled.emails.table.Author": "نویسنده",
-  "bulk.email.scheduled.emails.table.confirm.delete": "شما در حال حذف پستی هستید که قرار است در {date} ارسال شود. ای پست ارسال نشده و زمان‌بندی لغو خواهد شد. آیا اطمینان دارید؟"
+  "bulk.email.scheduled.emails.table.confirm.delete": "شما در حال حذف پستی هستید که قرار است در {date} ارسال شود. ای پست ارسال نشده و زمان‌بندی لغو خواهد شد. آیا اطمینان دارید؟",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

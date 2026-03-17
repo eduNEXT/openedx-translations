@@ -36,5 +36,6 @@
   "header.label.courseOutline": "Studioでコース概要に戻る",
   "header.label.search.nav": "コンテンツを検索",
   "header.menu.soa.blog.label": "ブログ",
-  "header.menu.soa.whoWeAre.label": "私たちについて"
+  "header.menu.soa.whoWeAre.label": "私たちについて",
+  "header.menu.soa.search.label": "検索"
 }

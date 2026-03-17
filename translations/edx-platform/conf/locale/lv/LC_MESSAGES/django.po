@@ -26281,3 +26281,23 @@ msgstr "Ievietojiet savu autortiesību tekstu šeit!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Koda redaktors"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Vispārīgie noteikumi"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Juridisks paziņojums"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Sīkdatnes"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Pieejamība"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Atbalsts un Palīdzība"

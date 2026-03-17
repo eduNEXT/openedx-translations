@@ -177,5 +177,12 @@
   "complete.your.profile.2": "",
   "register.page.terms.of.service.and.honor.code": "A fiók létrehozásával elfogadja a {tosAndHonorCode} és tudomásul veszi, hogy a {platformName} és minden Tag az Ön személyes adatait a {privacyPolicy} szerint kezeli.",
   "register.page.honor.code": "Egyetértek a {platformName}&nbsp;{tosAndHonorCode}",
-  "register.page.terms.of.service": "Egyetértek a {platformName}&nbsp;{termsOfService}"
+  "register.page.terms.of.service": "Egyetértek a {platformName}&nbsp;{termsOfService}",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

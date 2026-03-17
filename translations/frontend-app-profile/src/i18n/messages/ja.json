@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "保存中",
   "profile.formcontrols.button.saved": "保存済み",
   "profile.visibility.who.just.me": "",
-  "profile.visibility.who.everyone": "{siteName}の全員"
+  "profile.visibility.who.everyone": "{siteName}の全員",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

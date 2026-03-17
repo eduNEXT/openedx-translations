@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Sparar",
   "profile.formcontrols.button.saved": "Sparad",
   "profile.visibility.who.just.me": "Bara jag",
-  "profile.visibility.who.everyone": "Alla på {siteName}"
+  "profile.visibility.who.everyone": "Alla på {siteName}",
+  "soa_footer_main.generalConditions": "Allmänna villkor",
+  "soa_footer_main.legalNotice": "Juridiskt meddelande",
+  "soa_footer_main.privacy": "Integritet",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tillgänglighet",
+  "soa_footer_main.support": "Support och Hjälp",
+  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna"
 }

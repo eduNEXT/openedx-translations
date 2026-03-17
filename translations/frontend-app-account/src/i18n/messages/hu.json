@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Szükséged van egy olyan eszközre, amely rendelkezik kamerával. Ha a böngésző engedélyt kér a kamera használatához, kérlek, kattints az {allow} gombra.",
   "id.verification.account.name.summary.alert": "Fiókbeállításait a(z) {managerTitle} kezeli. Ha a fényképes igazolványán szereplő név nem egyezik meg a fiókjában szereplő névvel, kérjük, vegye fel a kapcsolatot a(z) {profileDataManager} rendszergazdával vagy a(z) {support} ügyfélszolgálattal segítségért.",
   "idv.submission.alert.error": "Technikai hiba lépett fel az azonosító ellenőrzésének benyújtása közben. Ez lehet átmeneti probléma, ezért kérjük, próbálja meg újra néhány perc múlva. Ha a probléma továbbra is fennáll, kérjük, látogasson el a {support_link} oldalra segítségért.",
-  "id.verification.account.name.edit": "{sr} szerkesztése"
+  "id.verification.account.name.edit": "{sr} szerkesztése",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

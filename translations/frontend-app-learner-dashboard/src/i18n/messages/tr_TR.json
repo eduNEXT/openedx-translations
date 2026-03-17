@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} ders kredisi talebinizi onaylamadı. Daha fazla bilgi için doğrudan {linkToProviderSite} ile iletişime geçin.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Kredi Talep Et",
   "learner-dash.courseCard.banners.credit.viewCredit": "Kredi Göster",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Detayları Göster"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Detayları Göster",
+  "soa_footer_main.generalConditions": "Genel Koşullar",
+  "soa_footer_main.legalNotice": "Yasal Bildirim",
+  "soa_footer_main.privacy": "Gizlilik",
+  "soa_footer_main.cookies": "Çerezler",
+  "soa_footer_main.accessibility": "Erişilebilirlik",
+  "soa_footer_main.support": "Destek ve Yardım",
+  "soa_footer_main.allRightReserved": "Tüm hakları saklıdır"
 }

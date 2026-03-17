@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Chưa chấm",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Hiện đang được người khác chấm điểm",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Chấm điểm đã hoàn thành",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Bạn hiện đang chấm điểm câu trả lời này"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Bạn hiện đang chấm điểm câu trả lời này",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

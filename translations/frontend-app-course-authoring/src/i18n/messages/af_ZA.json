@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Toleransie kan nie op &#39;n antwoordreeks toegepas word nie",
   "problemEditor.settings.tolerance.type.percent": "Persentasie",
   "problemEditor.settings.tolerance.type.number": "Nommer",
-  "problemEditor.settings.tolerance.type.none": "Geen"
+  "problemEditor.settings.tolerance.type.none": "Geen",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

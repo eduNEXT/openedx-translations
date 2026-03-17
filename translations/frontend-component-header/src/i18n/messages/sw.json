@@ -34,5 +34,6 @@
   "header.user.menu.maintenance": "Matengenezo",
   "header.label.courseOutline": "Rudi kwenye muhtasari wa kozi katika Studio",
   "header.menu.soa.blog.label": "Blogu",
-  "header.menu.soa.whoWeAre.label": "Sisi ni nani"
+  "header.menu.soa.whoWeAre.label": "Sisi ni nani",
+  "header.menu.soa.search.label": "Tafuta"
 }

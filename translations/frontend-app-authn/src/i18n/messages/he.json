@@ -177,5 +177,12 @@
   "complete.your.profile.2": "הפרופיל שלך",
   "register.page.terms.of.service.and.honor.code": "על ידי יצירת חשבון, אתה מסכים ל- {tosAndHonorCode} ואתה מאשר ש- {platformName} וכל חבר מעבדים את הנתונים האישיים שלך בהתאם ל- {privacyPolicy} .",
   "register.page.honor.code": "אני מסכים ל- {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "אני מסכים ל- {platformName} {termsOfService}"
+  "register.page.terms.of.service": "אני מסכים ל- {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

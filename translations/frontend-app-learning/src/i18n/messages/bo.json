@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "སློབ་ཚན་གྱི་ས་བཅད།",
   "courseOutline.completedUnit": "ཡང་གསེས་ཆ་ཚང་གྲུབ་ཟིན་པ།",
   "courseOutline.incompleteUnit": "ཡང་གསེས་ཆ་ཚང་གྲུབ་མེད་པ།",
-  "discussions.sidebar.open.button": "བགྲོ་གླེང་གི་སྡེ་ཚན་སྟོན།"
+  "discussions.sidebar.open.button": "བགྲོ་གླེང་གི་སྡེ་ཚན་སྟོན།",
+  "soa_footer_main.generalConditions": "སྤྱིར་བཏང་གི་ཆ་རྐྱེན།",
+  "soa_footer_main.legalNotice": "ཁྲིམས་ལུགས་ཀྱི་བརྡ་ལན།",
+  "soa_footer_main.privacy": "གསང་བ།",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "ལག་ལེན་འཐབ་ཐུབ་པ།",
+  "soa_footer_main.support": "རོགས་རམ་དང་གདུང་སེམས།",
+  "soa_footer_main.allRightReserved": ""
 }

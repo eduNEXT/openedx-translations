@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Kimga yuboring",
   "bulk.email.scheduled.emails.table.subject": "Mavzu",
   "bulk.email.scheduled.emails.table.Author": "Muallif",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Siz {date} da yuborilishi rejalashtirilgan elektron pochta xabarini o'chirib tashlamoqdasiz. Elektron pochta yuborilmaydi va rejalashtirish bekor qilinadi. Ishonchingiz komilmi?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Siz {date} da yuborilishi rejalashtirilgan elektron pochta xabarini o'chirib tashlamoqdasiz. Elektron pochta yuborilmaydi va rejalashtirish bekor qilinadi. Ishonchingiz komilmi?",
+  "soa_footer_main.generalConditions": "Umumiy shartlar",
+  "soa_footer_main.legalNotice": "Yuridik bildirishnoma",
+  "soa_footer_main.privacy": "Maxfiylik",
+  "soa_footer_main.cookies": "Kukilar",
+  "soa_footer_main.accessibility": "Imkoniyat",
+  "soa_footer_main.support": "Qo'llab-quvvatlash va Yordam",
+  "soa_footer_main.allRightReserved": "Barcha huquqlar himoyalangan"
 }
