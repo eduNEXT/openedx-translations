@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Envoyé à",
   "bulk.email.scheduled.emails.table.subject": "Sujet",
   "bulk.email.scheduled.emails.table.Author": "Auteur",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Vous supprimez un courriel dont l'envoi est programmé le {date}. Le courriel ne sera pas envoyé et la programmation annulée. Êtes-vous certain?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Vous supprimez un courriel dont l'envoi est programmé le {date}. Le courriel ne sera pas envoyé et la programmation annulée. Êtes-vous certain?",
+  "soa_footer_main.generalConditions": "Conditions générales",
+  "soa_footer_main.legalNotice": "Avis juridique",
+  "soa_footer_main.privacy": "Vie privée",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibilité",
+  "soa_footer_main.support": "Soutien et Aide",
+  "soa_footer_main.allRightReserved": "Tous droits réservés"
 }

@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "Næste",
   "learn.sequence.navigation.next.up.button": "Næste: {title}",
   "learn.sequence.navigation.previous.button": "Tidligere",
-  "discussions.sidebar.open.button": "Vis diskussionsbakke"
+  "discussions.sidebar.open.button": "Vis diskussionsbakke",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }

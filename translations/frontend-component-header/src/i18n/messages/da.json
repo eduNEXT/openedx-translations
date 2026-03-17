@@ -34,5 +34,6 @@
   "header.user.menu.maintenance": "Vedligeholdelse",
   "header.label.courseOutline": "Tilbage til kursusoversigt i Studio",
   "header.menu.soa.blog.label": "Blog",
-  "header.menu.soa.whoWeAre.label": "Hvem er vi"
+  "header.menu.soa.whoWeAre.label": "Hvem er vi",
+  "header.menu.soa.search.label": "Søg"
 }

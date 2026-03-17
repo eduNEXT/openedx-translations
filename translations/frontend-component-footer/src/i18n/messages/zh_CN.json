@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "服务条款",
   "authoring.footer.privacyPolicy.link.label": "隐私政策",
   "authoring.footer.accessibilityRequest.link.label": "",
-  "authoring.footer.trademark.message": ""
+  "authoring.footer.trademark.message": "",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "隐私",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "无障碍",
+  "soa_footer_main.support": "支持与帮助",
+  "soa_footer_main.allRightReserved": "保留所有权利"
 }

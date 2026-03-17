@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "您需要一個帶有攝影機的設備。如果您收到瀏覽器存取相機的提示，請確保點擊{allow} 。",
   "id.verification.account.name.summary.alert": "您的帳戶設定由{managerTitle}管理。如果您帶照片的身份證件上的姓名與您帳戶上的姓名不匹配，請聯絡您的{profileDataManager}管理員或{support}尋求協助。",
   "idv.submission.alert.error": "我們在嘗試提交身份驗證時遇到技術錯誤。這可能是暫時的問題，因此請幾分鐘後重試。如果問題仍然存在，請前往{support_link}尋求協助。",
-  "id.verification.account.name.edit": "編輯{sr}"
+  "id.verification.account.name.edit": "編輯{sr}",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

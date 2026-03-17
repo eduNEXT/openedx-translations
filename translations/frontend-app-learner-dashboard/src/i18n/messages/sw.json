@@ -152,5 +152,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} haikuidhinisha ombi lako la mkopo wa kozi. Kwa maelezo zaidi, wasiliana na {linkToProviderSite} moja kwa moja.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Omba Mkopo",
   "learner-dash.courseCard.banners.credit.viewCredit": "Tazama Mikopo",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Tazama Maelezo"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Tazama Maelezo",
+  "soa_footer_main.generalConditions": "Masharti ya Jumla",
+  "soa_footer_main.legalNotice": "Notisi ya Kisheria",
+  "soa_footer_main.privacy": "Faragha",
+  "soa_footer_main.cookies": "Vidakuzi",
+  "soa_footer_main.accessibility": "Upatikanaji",
+  "soa_footer_main.support": "Msaada na Usaidizi",
+  "soa_footer_main.allRightReserved": ""
 }

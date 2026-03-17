@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "Aangepaste graad",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "Datum",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "Grader",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Rede"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Rede",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

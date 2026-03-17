@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Допуск не может быть применен к диапазону ответов",
   "problemEditor.settings.tolerance.type.percent": "Процент",
   "problemEditor.settings.tolerance.type.number": "Номер",
-  "problemEditor.settings.tolerance.type.none": "Нет"
+  "problemEditor.settings.tolerance.type.none": "Нет",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

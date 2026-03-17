@@ -27140,3 +27140,23 @@ msgstr "Mualliflik huquqi matnini shu yerga qo'ying!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kod muharriri"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Umumiy shartlar"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Yuridik bildirishnoma"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Kukilar"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Imkoniyat"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Qo'llab-quvvatlash va Yordam"

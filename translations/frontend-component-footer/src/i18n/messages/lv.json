@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Pakalpojuma noteikumi",
   "authoring.footer.privacyPolicy.link.label": "Privātuma politika",
   "authoring.footer.accessibilityRequest.link.label": "Pieejamības pielāgojumu pieprasījums",
-  "authoring.footer.trademark.message": "edX un Open edX, kā arī edX un Open edX logotipi ir reģistrētas preču zīmes"
+  "authoring.footer.trademark.message": "edX un Open edX, kā arī edX un Open edX logotipi ir reģistrētas preču zīmes",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

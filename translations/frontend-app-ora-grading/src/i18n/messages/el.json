@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Αβαθμολόγητο",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Αυτήν τη στιγμή βαθμολογείται από κάποιον άλλο",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Ολοκληρώθηκε η βαθμολόγηση",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Αυτήν τη στιγμή βαθμολογείτε αυτήν την απάντηση"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Αυτήν τη στιγμή βαθμολογείτε αυτήν την απάντηση",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

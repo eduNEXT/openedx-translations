@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Nevērtēts",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Pašlaik vērtē kāds cits",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Vērtēšana pabeigta",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Jūs pašlaik vērtējat šo atbildi"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Jūs pašlaik vērtējat šo atbildi",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

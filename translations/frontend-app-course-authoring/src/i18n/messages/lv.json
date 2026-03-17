@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Atbilžu diapazonam nevar piemērot pielaidi",
   "problemEditor.settings.tolerance.type.percent": "Procenti",
   "problemEditor.settings.tolerance.type.number": "Numurs",
-  "problemEditor.settings.tolerance.type.none": "Nav"
+  "problemEditor.settings.tolerance.type.none": "Nav",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

@@ -53,5 +53,12 @@
   "profile.formcontrols.button.saving": "שומר",
   "profile.formcontrols.button.saved": "נשמר",
   "profile.visibility.who.just.me": "רק לי",
-  "profile.visibility.who.everyone": "כולם ב- {siteName}"
+  "profile.visibility.who.everyone": "כולם ב- {siteName}",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

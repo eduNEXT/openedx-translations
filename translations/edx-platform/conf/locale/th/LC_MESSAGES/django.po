@@ -7966,3 +7966,31 @@ msgstr "เพิ่มเงื่อนไขการให้บริกา
 #: themes/stanford-style/lms/templates/static_templates/tos.html:17
 msgid "Put your Privacy Policy here!"
 msgstr "เพิ่มนโยบายความเป็นส่วนตัวที่นี่!"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "เงื่อนไขทั่วไป"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "ประกาศทางกฎหมาย"
+
+#: lms/templates/footer.html:222
+msgid "Privacy"
+msgstr "ความเป็นส่วนตัว"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "คุกกี้"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "การเข้าถึง"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "การสนับสนุนและความช่วยเหลือ"
+
+#: lms/templates/footer.html:227
+msgid "All rights reserved"
+msgstr ""

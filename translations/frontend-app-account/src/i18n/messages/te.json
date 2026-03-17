@@ -354,5 +354,12 @@
   "id.verification.requirements.card.device.text": "మీకు కెమెరా ఉన్న పరికరం అవసరం. మీరు మీ కెమెరాకు యాక్సెస్ కోసం బ్రౌజర్ ప్రాంప్ట్‌ను స్వీకరిస్తే, దయచేసి {allow} క్లిక్ చేయాలని నిర్ధారించుకోండి.",
   "id.verification.account.name.summary.alert": "మీ ఖాతా సెట్టింగ్‌లు {managerTitle} ద్వారా నిర్వహించబడుతున్నాయి. మీ ఫోటో IDలోని పేరు మీ ఖాతాలోని పేరుతో సరిపోలకపోతే, దయచేసి సహాయం కోసం మీ {profileDataManager} అడ్మినిస్ట్రేటర్ లేదా {support} ని సంప్రదించండి.",
   "idv.submission.alert.error": "ID ధృవీకరణను సమర్పించడానికి ప్రయత్నిస్తున్నప్పుడు మేము సాంకేతిక లోపాన్ని ఎదుర్కొన్నాము. ఇది తాత్కాలిక సమస్య కావచ్చు, కాబట్టి దయచేసి కొన్ని నిమిషాల తర్వాత మళ్లీ ప్రయత్నించండి. సమస్య కొనసాగితే, దయచేసి సహాయం కోసం {support_link} కి వెళ్లండి.",
-  "id.verification.account.name.edit": "{sr} ని సవరించండి"
+  "id.verification.account.name.edit": "{sr} ని సవరించండి",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

@@ -177,5 +177,12 @@
   "complete.your.profile.2": "ملفك الشخصي",
   "register.page.terms.of.service.and.honor.code": "من خلال إنشاء حساب، فإنك توافق على {tosAndHonorCode} وتقر بأن {platformName} وكل عضو يعالج بياناتك الشخصية وفقًا لـ {privacyPolicy}.",
   "register.page.honor.code": "أُوافِق على {tosAndHonorCode} لـ {platformName}",
-  "register.page.terms.of.service": "أوافق {termsOfService} لـ {platformName}"
+  "register.page.terms.of.service": "أوافق {termsOfService} لـ {platformName}",
+  "soa_footer_main.generalConditions": "الشروط العامة",
+  "soa_footer_main.legalNotice": "إشعار قانوني",
+  "soa_footer_main.privacy": "الخصوصية",
+  "soa_footer_main.cookies": "ملفات تعريف الارتباط",
+  "soa_footer_main.accessibility": "إمكانية الوصول",
+  "soa_footer_main.support": "الدعم والمساعدة",
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
 }

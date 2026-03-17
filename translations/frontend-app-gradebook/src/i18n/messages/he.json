@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "ציון מותאם",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "תאריך",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "מעניק ציונים",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "סיבה"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "סיבה",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

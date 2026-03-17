@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "شرایط استفاده از خدمات",
   "authoring.footer.privacyPolicy.link.label": "سیاست حفظ حریم خصوصی",
   "authoring.footer.accessibilityRequest.link.label": "درخواست اقامت در دسترس",
-  "authoring.footer.trademark.message": "edX و Open edX و لوگوهای edX و Open edX علائم تجاری ثبت شده‌ای هستند."
+  "authoring.footer.trademark.message": "edX و Open edX و لوگوهای edX و Open edX علائم تجاری ثبت شده‌ای هستند.",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

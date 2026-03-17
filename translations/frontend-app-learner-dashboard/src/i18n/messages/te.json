@@ -152,5 +152,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} కోర్సు క్రెడిట్ కోసం మీ అభ్యర్థనను ఆమోదించలేదు. మరింత సమాచారం కోసం, నేరుగా {linkToProviderSite} ని సంప్రదించండి.",
   "learner-dash.courseCard.banners.credit.requestCredit": "క్రెడిట్ అభ్యర్థించండి",
   "learner-dash.courseCard.banners.credit.viewCredit": "క్రెడిట్‌ని వీక్షించండి",
-  "learner-dash.courseCard.banners.credit.viewDetails": "వివరాలను వీక్షించండి"
+  "learner-dash.courseCard.banners.credit.viewDetails": "వివరాలను వీక్షించండి",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

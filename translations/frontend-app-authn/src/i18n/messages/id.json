@@ -177,5 +177,12 @@
   "complete.your.profile.2": "your profile",
   "register.page.terms.of.service.and.honor.code": "By creating an account, you agree to the {tosAndHonorCode} and you acknowledge that {platformName} and each Member process your personal data in accordance with the {privacyPolicy}.",
   "register.page.honor.code": "I agree to the {platformName}&nbsp;{tosAndHonorCode}",
-  "register.page.terms.of.service": "I agree to the {platformName}&nbsp;{termsOfService}"
+  "register.page.terms.of.service": "I agree to the {platformName}&nbsp;{termsOfService}",
+  "soa_footer_main.generalConditions": "Syarat Umum",
+  "soa_footer_main.legalNotice": "Pemberitahuan Hukum",
+  "soa_footer_main.privacy": "Privasi",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Aksesibilitas",
+  "soa_footer_main.support": "Dukungan dan Bantuan",
+  "soa_footer_main.allRightReserved": "Seluruh hak cipta"
 }

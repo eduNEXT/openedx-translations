@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} no aprobó su solicitud de crédito del curso. Para obtener más información, comuníquese directamente con {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Solicitar crédito",
   "learner-dash.courseCard.banners.credit.viewCredit": "Ver crédito",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Ver detalles"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Ver detalles",
+  "soa_footer_main.generalConditions": "Condiciones Generales",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidad",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accesibilidad",
+  "soa_footer_main.support": "Soporte y Ayuda",
+  "soa_footer_main.allRightReserved": "Todos los derechos reservados."
 }

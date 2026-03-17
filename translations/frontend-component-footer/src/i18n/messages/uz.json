@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Xizmat shartlari",
   "authoring.footer.privacyPolicy.link.label": "Maxfiylik siyosati",
   "authoring.footer.accessibilityRequest.link.label": "Mavjud turar joy so'rovi",
-  "authoring.footer.trademark.message": "edX va Open edX va edX va Open edX logotiplari roʻyxatdan oʻtgan savdo belgilaridir."
+  "authoring.footer.trademark.message": "edX va Open edX va edX va Open edX logotiplari roʻyxatdan oʻtgan savdo belgilaridir.",
+  "soa_footer_main.generalConditions": "Umumiy shartlar",
+  "soa_footer_main.legalNotice": "Yuridik bildirishnoma",
+  "soa_footer_main.privacy": "Maxfiylik",
+  "soa_footer_main.cookies": "Kukilar",
+  "soa_footer_main.accessibility": "Imkoniyat",
+  "soa_footer_main.support": "Qo'llab-quvvatlash va Yordam",
+  "soa_footer_main.allRightReserved": "Barcha huquqlar himoyalangan"
 }

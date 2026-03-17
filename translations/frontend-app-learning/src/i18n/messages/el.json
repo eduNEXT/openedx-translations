@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "Επόμενο",
   "learn.sequence.navigation.next.up.button": "Επόμενο: {title}",
   "learn.sequence.navigation.previous.button": "Προηγούμενο",
-  "discussions.sidebar.open.button": "Εμφάνιση δίσκου συζητήσεων"
+  "discussions.sidebar.open.button": "Εμφάνιση δίσκου συζητήσεων",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

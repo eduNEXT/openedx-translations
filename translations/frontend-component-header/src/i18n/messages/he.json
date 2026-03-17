@@ -34,5 +34,6 @@
   "header.user.menu.maintenance": "תחזוקה",
   "header.label.courseOutline": "חזרה למתווה הקורס בסטודיו",
   "header.menu.soa.blog.label": "בלוג",
-  "header.menu.soa.whoWeAre.label": "מי אנחנו"
+  "header.menu.soa.whoWeAre.label": "מי אנחנו",
+  "header.menu.soa.search.label": "חיפוש"
 }

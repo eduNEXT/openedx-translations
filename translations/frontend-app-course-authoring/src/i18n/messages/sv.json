@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Tolerans kan inte tillämpas på ett svarsområde",
   "problemEditor.settings.tolerance.type.percent": "Procenttal",
   "problemEditor.settings.tolerance.type.number": "Nummer",
-  "problemEditor.settings.tolerance.type.none": "Ingen"
+  "problemEditor.settings.tolerance.type.none": "Ingen",
+  "soa_footer_main.generalConditions": "Allmänna villkor",
+  "soa_footer_main.legalNotice": "Juridiskt meddelande",
+  "soa_footer_main.privacy": "Integritet",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tillgänglighet",
+  "soa_footer_main.support": "Support och Hjälp",
+  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna"
 }

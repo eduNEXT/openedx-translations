@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Ungraded",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Currently being graded by someone else",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Grading Completed",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "You are currently grading this response"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "You are currently grading this response",
+  "soa_footer_main.generalConditions": "Syarat Umum",
+  "soa_footer_main.legalNotice": "Pemberitahuan Hukum",
+  "soa_footer_main.privacy": "Privasi",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Aksesibilitas",
+  "soa_footer_main.support": "Dukungan dan Bantuan",
+  "soa_footer_main.allRightReserved": "Seluruh hak cipta"
 }

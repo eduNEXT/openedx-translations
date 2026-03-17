@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "समायोजित ग्रेड",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "तारीख",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "ग्रेडर",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "कारण"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "कारण",
+  "soa_footer_main.generalConditions": "सामान्य शर्तें",
+  "soa_footer_main.legalNotice": "कानूनी नोटिस",
+  "soa_footer_main.privacy": "गोपनीयता",
+  "soa_footer_main.cookies": "कुकीज़",
+  "soa_footer_main.accessibility": "अभिगम्यता",
+  "soa_footer_main.support": "सहायता और मदद",
+  "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित"
 }

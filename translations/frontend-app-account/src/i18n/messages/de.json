@@ -350,5 +350,12 @@
   "notification.preference.help.push": "Push",
   "notification.preference.load.more.courses": "Load more courses",
   "notification.preference.guide.link": "as detailed here",
-  "notification.preference.guide.body": "Notifications for certain activities are enabled by default, "
+  "notification.preference.guide.body": "Notifications for certain activities are enabled by default, ",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": ""
 }

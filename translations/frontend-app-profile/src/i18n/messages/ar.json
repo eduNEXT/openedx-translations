@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "الحفظ جارٍ",
   "profile.formcontrols.button.saved": "تم الحفظ",
   "profile.visibility.who.just.me": "أنا فقط",
-  "profile.visibility.who.everyone": "جميع من على {siteName}"
+  "profile.visibility.who.everyone": "جميع من على {siteName}",
+  "soa_footer_main.generalConditions": "الشروط العامة",
+  "soa_footer_main.legalNotice": "إشعار قانوني",
+  "soa_footer_main.privacy": "الخصوصية",
+  "soa_footer_main.cookies": "ملفات تعريف الارتباط",
+  "soa_footer_main.accessibility": "إمكانية الوصول",
+  "soa_footer_main.support": "الدعم والمساعدة",
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
 }

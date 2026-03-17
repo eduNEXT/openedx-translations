@@ -36,5 +36,6 @@
   "header.label.courseOutline": "Atgriezties uz kursa izklāstu programmā Studio",
   "header.label.search.nav": "Meklēt saturu",
   "header.menu.soa.blog.label": "E-tinklaroštis",
-    "header.menu.soa.whoWeAre.label": "Kas mēs esam"
+  "header.menu.soa.whoWeAre.label": "Kas mēs esam",
+  "header.menu.soa.search.label": "Meklēt"
 }

@@ -27189,3 +27189,23 @@ msgstr "Editor de Código"
 #: lms/templates/header/header-mobile.html:L96
 msgid "Who we are"
 msgstr "Quem somos nós"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Condições Gerais"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Aviso Legal"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookies"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Acessibilidade"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Suporte e Ajuda"

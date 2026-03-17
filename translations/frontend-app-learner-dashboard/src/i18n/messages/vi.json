@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} đã không chấp thuận yêu cầu tín chỉ khóa học của bạn. Để biết thêm thông tin chi tiết vui lòng liên hệ trực tiếp {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Yêu cầu tín dụng",
   "learner-dash.courseCard.banners.credit.viewCredit": "Xem tín dụng",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Xem chi tiết"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Xem chi tiết",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

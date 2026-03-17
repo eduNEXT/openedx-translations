@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "未评分",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "目前正在由其他人评分",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "评分完成",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "您目前正在对此回复评分"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "您目前正在对此回复评分",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "隐私",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "无障碍",
+  "soa_footer_main.support": "支持与帮助",
+  "soa_footer_main.allRightReserved": "保留所有权利"
 }

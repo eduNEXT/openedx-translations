@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Điều khoản dịch vụ",
   "authoring.footer.privacyPolicy.link.label": "Chính sách bảo mật",
   "authoring.footer.accessibilityRequest.link.label": "Yêu cầu chỗ ở khả năng tiếp cận",
-  "authoring.footer.trademark.message": "edX và Open edX, cũng như các logo edX và Open edX là thương hiệu đã đăng ký của"
+  "authoring.footer.trademark.message": "edX và Open edX, cũng như các logo edX và Open edX là thương hiệu đã đăng ký của",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

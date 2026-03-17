@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "לשלוח ל",
   "bulk.email.scheduled.emails.table.subject": "נושא",
   "bulk.email.scheduled.emails.table.Author": "מחבר",
-  "bulk.email.scheduled.emails.table.confirm.delete": "אתה מוחק אימייל שתוכנן להישלח ב- {date} . המייל לא יישלח והתזמון יבוטל. האם אתה בטוח?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "אתה מוחק אימייל שתוכנן להישלח ב- {date} . המייל לא יישלח והתזמון יבוטל. האם אתה בטוח?",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

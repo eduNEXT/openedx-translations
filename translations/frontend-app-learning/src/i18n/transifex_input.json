@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "Course outline",
   "courseOutline.completedUnit": "Completed unit",
   "courseOutline.incompleteUnit": "Incomplete unit",
-  "discussions.sidebar.open.button": "Show discussions tray"
+  "discussions.sidebar.open.button": "Show discussions tray",
+  "soa_footer_main.generalConditions": "General Conditions",
+  "soa_footer_main.legalNotice": "Legal Notice",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibility",
+  "soa_footer_main.support": "Support and Help",
+  "soa_footer_main.allRightReserved": "All rights reserved"
 }

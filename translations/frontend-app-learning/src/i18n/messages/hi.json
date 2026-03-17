@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "पाठ्यक्रम की रूपरेखा",
   "courseOutline.completedUnit": "पूर्ण इकाई",
   "courseOutline.incompleteUnit": "अपूर्ण इकाई",
-  "discussions.sidebar.open.button": "चर्चा ट्रे दिखाएं"
+  "discussions.sidebar.open.button": "चर्चा ट्रे दिखाएं",
+  "soa_footer_main.generalConditions": "सामान्य शर्तें",
+  "soa_footer_main.legalNotice": "कानूनी नोटिस",
+  "soa_footer_main.privacy": "गोपनीयता",
+  "soa_footer_main.cookies": "कुकीज़",
+  "soa_footer_main.accessibility": "अभिगम्यता",
+  "soa_footer_main.support": "सहायता और मदद",
+  "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित"
 }

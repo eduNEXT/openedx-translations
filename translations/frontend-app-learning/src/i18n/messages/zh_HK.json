@@ -123,5 +123,12 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "{notationSyntax}表示法",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax}和指數",
   "learn.honorCode.content": "誠實和學術誠信對於{siteName}以及在{siteName}網站上提供課程和精選課程的機構來說非常重要。點擊下面的“我同意”，即表示我確認已閱讀、理解並將遵守{siteName}網站的{link} 。",
-  "learn.course.sequence.navigation.mobile.menu": "{total}的{current}"
+  "learn.course.sequence.navigation.mobile.menu": "{total}的{current}",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

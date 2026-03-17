@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "ถัดไป",
   "learn.sequence.navigation.next.up.button": "ถัดไป: {title}",
   "learn.sequence.navigation.previous.button": "ก่อนหน้า",
-  "discussions.sidebar.open.button": "แสดงกระดานสนทนา"
+  "discussions.sidebar.open.button": "แสดงกระดานสนทนา",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

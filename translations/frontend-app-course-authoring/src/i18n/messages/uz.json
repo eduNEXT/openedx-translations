@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Tolerantlikni javoblar oralig‘ida qo‘llash mumkin emas",
   "problemEditor.settings.tolerance.type.percent": "Foiz",
   "problemEditor.settings.tolerance.type.number": "Raqam",
-  "problemEditor.settings.tolerance.type.none": "Yo'q"
+  "problemEditor.settings.tolerance.type.none": "Yo'q",
+  "soa_footer_main.generalConditions": "Umumiy shartlar",
+  "soa_footer_main.legalNotice": "Yuridik bildirishnoma",
+  "soa_footer_main.privacy": "Maxfiylik",
+  "soa_footer_main.cookies": "Kukilar",
+  "soa_footer_main.accessibility": "Imkoniyat",
+  "soa_footer_main.support": "Qo'llab-quvvatlash va Yordam",
+  "soa_footer_main.allRightReserved": "Barcha huquqlar himoyalangan"
 }

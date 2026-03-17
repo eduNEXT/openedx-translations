@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Skicka till",
   "bulk.email.scheduled.emails.table.subject": "Ämne",
   "bulk.email.scheduled.emails.table.Author": "Upphovsman",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Du håller på att ta bort ett e-postmeddelande som är schemalagt att skickas den {date}. E-postmeddelandet kommer inte att skickas och schemaläggningen avbryts. Är du säker?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Du håller på att ta bort ett e-postmeddelande som är schemalagt att skickas den {date}. E-postmeddelandet kommer inte att skickas och schemaläggningen avbryts. Är du säker?",
+  "soa_footer_main.generalConditions": "Allmänna villkor",
+  "soa_footer_main.legalNotice": "Juridiskt meddelande",
+  "soa_footer_main.privacy": "Integritet",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tillgänglighet",
+  "soa_footer_main.support": "Support och Hjälp",
+  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna"
 }

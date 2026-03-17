@@ -354,5 +354,12 @@
   "id.verification.requirements.card.device.text": "Du skal bruge en enhed, der har et kamera. Hvis du modtager en browserprompt om adgang til dit kamera, skal du sørge for at klikke på {allow}.",
   "id.verification.account.name.summary.alert": "Dine kontoindstillinger administreres af {managerTitle}. Hvis navnet på dit billed-id ikke stemmer overens med navnet på din konto, skal du kontakte din {profileDataManager}-administrator eller {support} for at få hjælp.",
   "idv.submission.alert.error": "Vi stødte på en teknisk fejl under forsøget på at indsende id-bekræftelse. Dette kan være et midlertidigt problem, så prøv igen om et par minutter. Hvis problemet fortsætter, skal du gå til {support_link} for at få hjælp",
-  "id.verification.account.name.edit": "Rediger {sr}"
+  "id.verification.account.name.edit": "Rediger {sr}",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }

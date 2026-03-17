@@ -26302,3 +26302,23 @@ msgstr "متن کپی‌رایت خود را این‌جا قرار دهید!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "ویرایش‌گر کد"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "شرایط عمومی"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "اطلاعیه قانونی"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "کوکی‌ها"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "دسترس‌پذیری"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "پشتیبانی و کمک"

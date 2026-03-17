@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Terms of Service",
   "authoring.footer.privacyPolicy.link.label": "Privacy Policy",
   "authoring.footer.accessibilityRequest.link.label": "คำขอที่พักการเข้าถึง",
-  "authoring.footer.trademark.message": "edX และ Open edX และโลโก้ edX และ Open edX เป็นเครื่องหมายการค้าจดทะเบียนของ"
+  "authoring.footer.trademark.message": "edX และ Open edX และโลโก้ edX และ Open edX เป็นเครื่องหมายการค้าจดทะเบียนของ",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

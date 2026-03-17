@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "در حال ذخیره‌سازی",
   "profile.formcontrols.button.saved": "ذخیره شد",
   "profile.visibility.who.just.me": "فقط من",
-  "profile.visibility.who.everyone": "همه در {siteName}"
+  "profile.visibility.who.everyone": "همه در {siteName}",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

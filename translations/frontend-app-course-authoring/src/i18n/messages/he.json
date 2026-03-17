@@ -1350,5 +1350,12 @@
   "authoring.discussions.appDocInstructions.configurationLink": "תיעוד הגדרות",
   "authoring.discussions.appDocInstructions.learnMoreLink": "מידע נוסף על {providerName}",
   "authoring.discussions.appDocInstructions.linkTextHeading": "עזרה ותיעוד חיצוניים",
-  "authoring.discussions.appDocInstructions.linkText": "{link}"
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

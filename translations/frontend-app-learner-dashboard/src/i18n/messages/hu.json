@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} nem hagyta jóvá a kurzus kreditkérelmét. További információért vegye fel a kapcsolatot közvetlenül a {linkToProviderSite} oldallal.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Kredit kérelme",
   "learner-dash.courseCard.banners.credit.viewCredit": "Kredit megtekintése",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Részletek megtekintése"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Részletek megtekintése",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

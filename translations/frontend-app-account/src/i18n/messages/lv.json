@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Jums ir nepieciešama ierīce ar kameru. Ja saņemat pārlūkprogrammas uzaicinājumu piekļūt kamerai, lūdzu, pārliecinieties, ka noklikšķinājāt uz {allow}.",
   "id.verification.account.name.summary.alert": "Jūsu konta iestatījumus pārvalda {managerTitle}. Ja jūsu fotoidentifikatorā norādītais vārds nesakrīt ar jūsu kontā norādīto vārdu, lūdzu, sazinieties ar {profileDataManager} administratoru vai {support}, lai saņemtu palīdzību.",
   "idv.submission.alert.error": "Mēģinot iesniegt ID verifikāciju, tika pieļauta tehniska kļūda. Iespējams, tā ir īslaicīga problēma, tāpēc mēģiniet vēlreiz pēc dažām minūtēm. Ja problēma saglabājas, lūdzu, dodieties pēc palīdzības uz {support_link}.",
-  "id.verification.account.name.edit": "Rediģēt {sr}"
+  "id.verification.account.name.edit": "Rediģēt {sr}",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

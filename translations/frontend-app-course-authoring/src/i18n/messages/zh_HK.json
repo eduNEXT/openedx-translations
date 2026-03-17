@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "偏差不能應用在答案範圍",
   "problemEditor.settings.tolerance.type.percent": "百分比",
   "problemEditor.settings.tolerance.type.number": "數字",
-  "problemEditor.settings.tolerance.type.none": "無"
+  "problemEditor.settings.tolerance.type.none": "無",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "服務條款",
   "authoring.footer.privacyPolicy.link.label": "隱私權政策",
   "authoring.footer.accessibilityRequest.link.label": "可訪問的容納申請",
-  "authoring.footer.trademark.message": "edX 和 Open edX，以及 edX 和 Open edX 標誌是以下公司的註冊商標"
+  "authoring.footer.trademark.message": "edX 和 Open edX，以及 edX 和 Open edX 標誌是以下公司的註冊商標",
+  "soa_footer_main.generalConditions": "一般條款",
+  "soa_footer_main.legalNotice": "法律聲明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

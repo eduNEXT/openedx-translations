@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "A tolerancia nem alkalmazható egy válasz tartományra.",
   "problemEditor.settings.tolerance.type.percent": "Százalék",
   "problemEditor.settings.tolerance.type.number": "Szám",
-  "problemEditor.settings.tolerance.type.none": "Nincs"
+  "problemEditor.settings.tolerance.type.none": "Nincs",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

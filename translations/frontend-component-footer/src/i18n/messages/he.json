@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "תנאי השימוש",
   "authoring.footer.privacyPolicy.link.label": "מדיניות פרטיות",
   "authoring.footer.accessibilityRequest.link.label": "בקשת נגישות לינה",
-  "authoring.footer.trademark.message": "edX ו-Open edX, והסמלים של edX ו-Open edX הם סימנים מסחריים רשומים של"
+  "authoring.footer.trademark.message": "edX ו-Open edX, והסמלים של edX ו-Open edX הם סימנים מסחריים רשומים של",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

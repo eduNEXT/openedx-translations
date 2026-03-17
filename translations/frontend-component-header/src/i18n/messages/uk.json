@@ -36,5 +36,6 @@
   "header.label.courseOutline": "",
   "header.label.search.nav": "",
   "header.menu.soa.blog.label": "Блог",
-  "header.menu.soa.whoWeAre.label": "Хто ми є"
+  "header.menu.soa.whoWeAre.label": "Хто ми є",
+  "header.menu.soa.search.label": "Пошук"
 }

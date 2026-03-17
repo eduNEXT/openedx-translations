@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Diensbepalings",
   "authoring.footer.privacyPolicy.link.label": "Privaatheidsbeleid",
   "authoring.footer.accessibilityRequest.link.label": "Toeganklikheid Akkommodasie Versoek",
-  "authoring.footer.trademark.message": "edX en Open edX, en die edX en Open edX logo&#39;s is geregistreerde handelsmerke van"
+  "authoring.footer.trademark.message": "edX en Open edX, en die edX en Open edX logo&#39;s is geregistreerde handelsmerke van",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

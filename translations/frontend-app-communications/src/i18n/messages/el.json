@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Στέλνω σε",
   "bulk.email.scheduled.emails.table.subject": "Θέμα",
   "bulk.email.scheduled.emails.table.Author": "Συγγραφέας",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Διαγράφετε ένα email που έχει προγραμματιστεί να σταλεί στο {date} . Το email δεν θα σταλεί και ο προγραμματισμός ακυρώνεται. Είσαι σίγουρος?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Διαγράφετε ένα email που έχει προγραμματιστεί να σταλεί στο {date} . Το email δεν θα σταλεί και ο προγραμματισμός ακυρώνεται. Είσαι σίγουρος?",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

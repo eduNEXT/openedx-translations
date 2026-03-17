@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "གཏོང་ཡུལ།",
   "bulk.email.scheduled.emails.table.subject": "བསླབ་གཞི།",
   "bulk.email.scheduled.emails.table.Author": "བདག་པོ།",
-  "bulk.email.scheduled.emails.table.confirm.delete": "ཁྱེད་ཀྱིས་ {date} ལ་གཏོང་རྒྱུར་འཆར་འགོད་བྱས་པའི་གློག་འཕྲིན་ཞིག་སུབ་བཞིན་འདུག གློག་འཕྲིན་དེ་གཏོང་རྒྱུ་མིན་ལ་འཆར་འགོད་ཀྱང་ཕྱིར་འཐེན་བྱ་རྒྱུ་ཡིན། ཁྱེད་ཀྱིས་བསུབ་རྒྱུ་གཏན་འཁེལ་ཡིན་ནམ།"
+  "bulk.email.scheduled.emails.table.confirm.delete": "ཁྱེད་ཀྱིས་ {date} ལ་གཏོང་རྒྱུར་འཆར་འགོད་བྱས་པའི་གློག་འཕྲིན་ཞིག་སུབ་བཞིན་འདུག གློག་འཕྲིན་དེ་གཏོང་རྒྱུ་མིན་ལ་འཆར་འགོད་ཀྱང་ཕྱིར་འཐེན་བྱ་རྒྱུ་ཡིན། ཁྱེད་ཀྱིས་བསུབ་རྒྱུ་གཏན་འཁེལ་ཡིན་ནམ།",
+  "soa_footer_main.generalConditions": "སྤྱིར་བཏང་གི་ཆ་རྐྱེན།",
+  "soa_footer_main.legalNotice": "ཁྲིམས་ལུགས་ཀྱི་བརྡ་ལན།",
+  "soa_footer_main.privacy": "གསང་བ།",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "ལག་ལེན་འཐབ་ཐུབ་པ།",
+  "soa_footer_main.support": "རོགས་རམ་དང་གདུང་སེམས།",
+  "soa_footer_main.allRightReserved": ""
 }

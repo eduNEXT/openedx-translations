@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Hai bisogno di un dispositivo dotato di fotocamera. Se ricevi una richiesta del browser per l'accesso alla fotocamera, assicurati di fare clic su {allow}. ",
   "id.verification.account.name.summary.alert": "Le impostazioni del tuo account sono gestite da {managerTitle}. Se il nome riportato sul tuo documento d'identità con foto non corrisponde al nome nel tuo account, contatta il tuo amministratore di {profileDataManager} o {support} per assistenza. ",
   "idv.submission.alert.error": "",
-  "id.verification.account.name.edit": "Modifica {sr}"
+  "id.verification.account.name.edit": "Modifica {sr}",
+  "soa_footer_main.generalConditions": "Condizioni Generali",
+  "soa_footer_main.legalNotice": "Avviso Legale",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Accessibilità",
+  "soa_footer_main.support": "Supporto e Aiuto",
+  "soa_footer_main.allRightReserved": "Tutti i diritti riservati"
 }

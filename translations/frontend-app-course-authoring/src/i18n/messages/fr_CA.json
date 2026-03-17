@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "La tolérance ne peut pas être appliquée à une plage de réponses",
   "problemEditor.settings.tolerance.type.percent": "Pourcentage",
   "problemEditor.settings.tolerance.type.number": "Nombre",
-  "problemEditor.settings.tolerance.type.none": "Aucun"
+  "problemEditor.settings.tolerance.type.none": "Aucun",
+  "soa_footer_main.generalConditions": "Conditions générales",
+  "soa_footer_main.legalNotice": "Avis juridique",
+  "soa_footer_main.privacy": "Vie privée",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibilité",
+  "soa_footer_main.support": "Soutien et Aide",
+  "soa_footer_main.allRightReserved": "Tous droits réservés"
 }

@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "Módosított osztályzat",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "Dátum",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "Osztályozó",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": ""
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

@@ -209,5 +209,12 @@
   "discussions.posts.sort.lastActivity": "Недавняя активность",
   "discussions.posts.sort.commentCount": "Большая активность",
   "discussions.posts.sort.voteCount": "Больше всего лайков",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} Other { {own} } } {status, select, statusAll {} statusUnread {непрочитано} statusFollowing {followed} statusReported {reported} statusUn Answered {без ответа} statusUnresponded {не ответил} Other { {status} } } {type, select, обсуждение {дискуссии} вопрос {вопросы} все {сообщения} другое { {type} } } {cohortType, select, all {} группа {in {cohort} } другое { {cohortType} } } отсортировано по {sort, select, LastActivityAt { недавняя активность} commentCount {наибольшая активность} voiceCount {наибольшее количество лайков} Other { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} Other { {own} } } {status, select, statusAll {} statusUnread {непрочитано} statusFollowing {followed} statusReported {reported} statusUn Answered {без ответа} statusUnresponded {не ответил} Other { {status} } } {type, select, обсуждение {дискуссии} вопрос {вопросы} все {сообщения} другое { {type} } } {cohortType, select, all {} группа {in {cohort} } другое { {cohortType} } } отсортировано по {sort, select, LastActivityAt { недавняя активность} commentCount {наибольшая активность} voiceCount {наибольшее количество лайков} Other { {sort} } }",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

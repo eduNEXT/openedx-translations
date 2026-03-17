@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Sin calificación",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Actualmente siendo calificado por otra persona",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Calificación completada",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Actualmente estás calificando esta respuesta."
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Actualmente estás calificando esta respuesta.",
+  "soa_footer_main.generalConditions": "Condiciones Generales",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidad",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accesibilidad",
+  "soa_footer_main.support": "Soporte y Ayuda",
+  "soa_footer_main.allRightReserved": "Todos los derechos están reservados"
 }

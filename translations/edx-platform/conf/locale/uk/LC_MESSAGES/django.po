@@ -15015,3 +15015,27 @@ msgstr "Додайте текст Авторського Права сюди!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Редактор коду"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Загальні умови"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Юридичне повідомлення"
+
+#: lms/templates/footer.html:222
+msgid "Privacy"
+msgstr "Конфіденційність"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Файли cookie"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Доступність"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Підтримка та Допомога"

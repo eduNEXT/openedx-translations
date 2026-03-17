@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Gửi đến",
   "bulk.email.scheduled.emails.table.subject": "Chủ thể",
   "bulk.email.scheduled.emails.table.Author": "Tác giả",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Bạn đang xóa một email đã được lên lịch gửi vào {date} . Email sẽ không được gửi và lịch trình bị hủy. Bạn có chắc không?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Bạn đang xóa một email đã được lên lịch gửi vào {date} . Email sẽ không được gửi và lịch trình bị hủy. Bạn có chắc không?",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

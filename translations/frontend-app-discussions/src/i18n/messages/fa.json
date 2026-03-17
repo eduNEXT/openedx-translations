@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "فعالیت اخیر",
   "discussions.posts.sort.commentCount": "بیش‌ترین فعالیت",
   "discussions.posts.sort.voteCount": "بیش‌ترین لایک",
-  "discussions.posts.sort-filter.sortFilterStatus": "{خود، انتخاب، نادرست {همه} درست {مال} سایر { {own} } } {وضعیت، انتخاب، وضعیت همه {} وضعیت خوانده نشده {خوانده نشده} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUn answered {001d10} {status} } {نوع، انتخاب، بحث {بحث‌ها} سؤال {سوالات} همه {پست‌ها} سایر { {type} } } {cohortType, select, all {} group {in {cohort} } other { {cohortType} ، آخرین {Asctivity، مرتب‌سازی شده توسط فعالیت اخیر} commentCount {بیشترین فعالیت} تعداد رأی {بیشترین پسندها} سایر { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{خود، انتخاب، نادرست {همه} درست {مال} سایر { {own} } } {وضعیت، انتخاب، وضعیت همه {} وضعیت خوانده نشده {خوانده نشده} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUn answered {001d10} {status} } {نوع، انتخاب، بحث {بحث‌ها} سؤال {سوالات} همه {پست‌ها} سایر { {type} } } {cohortType, select, all {} group {in {cohort} } other { {cohortType} ، آخرین {Asctivity، مرتب‌سازی شده توسط فعالیت اخیر} commentCount {بیشترین فعالیت} تعداد رأی {بیشترین پسندها} سایر { {sort} } }",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

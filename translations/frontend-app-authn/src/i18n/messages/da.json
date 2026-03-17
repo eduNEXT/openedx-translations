@@ -177,5 +177,12 @@
   "complete.your.profile.2": "din profile",
   "register.page.terms.of.service.and.honor.code": "Ved at oprette en konto accepterer du {tosAndHonorCode} , og du anerkender, at {platformName} og hvert medlem behandler dine personlige data i overensstemmelse med {privacyPolicy} .",
   "register.page.honor.code": "Jeg accepterer {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Jeg accepterer {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Jeg accepterer {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }

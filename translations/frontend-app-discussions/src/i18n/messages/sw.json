@@ -209,5 +209,12 @@
   "discussions.posts.sort.lastActivity": "Shughuli ya hivi majuzi",
   "discussions.posts.sort.commentCount": "Shughuli nyingi",
   "discussions.posts.sort.voteCount": "Wengi wanaopenda",
-  "discussions.posts.sort-filter.sortFilterStatus": "{kumiliki, chagua, si kweli {Yote} kweli {Own} nyingine { {own} } } {hadhi, chagua, haliYote {} haliHaijasomwa {haijasomwa} haliInayofuata {imefuata} haliImeripotiwa {imeripotiwa} haliHaijajibiwa {haijajibiwa} hali haijajibiwa {haijajibu00050} nyingine {status} } } {aina, chagua, majadiliano {majadiliano} swali {maswali} yote {machapisho} mengine { {type} } } {cohortType, chagua, wote {} kikundi {katika {cohort} } nyingine { {cohortType}      chagua shughuli ya hivi majuzi} maoniHesabu {shughuli nyingi} voteCount {zinazopendwa zaidi} zingine { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{kumiliki, chagua, si kweli {Yote} kweli {Own} nyingine { {own} } } {hadhi, chagua, haliYote {} haliHaijasomwa {haijasomwa} haliInayofuata {imefuata} haliImeripotiwa {imeripotiwa} haliHaijajibiwa {haijajibiwa} hali haijajibiwa {haijajibu00050} nyingine {status} } } {aina, chagua, majadiliano {majadiliano} swali {maswali} yote {machapisho} mengine { {type} } } {cohortType, chagua, wote {} kikundi {katika {cohort} } nyingine { {cohortType}      chagua shughuli ya hivi majuzi} maoniHesabu {shughuli nyingi} voteCount {zinazopendwa zaidi} zingine { {sort} } }",
+  "soa_footer_main.generalConditions": "Masharti ya Jumla",
+  "soa_footer_main.legalNotice": "Notisi ya Kisheria",
+  "soa_footer_main.privacy": "Faragha",
+  "soa_footer_main.cookies": "Vidakuzi",
+  "soa_footer_main.accessibility": "Upatikanaji",
+  "soa_footer_main.support": "Msaada na Usaidizi",
+  "soa_footer_main.allRightReserved": ""
 }

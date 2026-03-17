@@ -152,5 +152,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} δεν ενέκρινε το αίτημά σας για πίστωση μαθήματος. Για περισσότερες πληροφορίες, επικοινωνήστε απευθείας με {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Αίτημα αναγνώρισης",
   "learner-dash.courseCard.banners.credit.viewCredit": "Προβολή αναγνώρισης",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Προβολή λεπτομερειών"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Προβολή λεπτομερειών",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

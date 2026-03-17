@@ -15809,3 +15809,23 @@ msgstr "מקם כאן את טקסט זכויות היוצרים שלך!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "עורך קוד"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "תנאים כלליים"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "הודעה משפטית"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "עוגיות"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "נגישות"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "תמיכה ועזרה"

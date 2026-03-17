@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "గ్రేడ్ చేయబడలేదు",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "ప్రస్తుతం వేరొకరి ద్వారా గ్రేడింగ్ చేస్తున్నారు",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "గ్రేడింగ్ పూర్తయింది",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "మీరు ప్రస్తుతం ఈ ప్రతిస్పందనను గ్రేడింగ్ చేస్తున్నారు"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "మీరు ప్రస్తుతం ఈ ప్రతిస్పందనను గ్రేడింగ్ చేస్తున్నారు",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

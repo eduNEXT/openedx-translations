@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} درخواست شما برای اعتبار دوره را تایید نکرد. برای اطلاعات بیش‌تر، مستقیماً با {linkToProviderSite} تماس بگیرید.",
   "learner-dash.courseCard.banners.credit.requestCredit": "درخواست اعتبار",
   "learner-dash.courseCard.banners.credit.viewCredit": "مشاهده اعتبار",
-  "learner-dash.courseCard.banners.credit.viewDetails": "مشاهده جزئیات"
+  "learner-dash.courseCard.banners.credit.viewDetails": "مشاهده جزئیات",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

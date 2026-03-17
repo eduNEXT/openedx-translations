@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "Classificação ajustadas",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "Data",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "Avaliador",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Razão"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Razão",
+  "soa_footer_main.generalConditions": "Condições Gerais",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidade",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Acessibilidade",
+  "soa_footer_main.support": "Suporte e Ajuda",
+  "soa_footer_main.allRightReserved": "Todos os direitos reservados"
 }

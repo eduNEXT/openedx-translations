@@ -354,5 +354,12 @@
   "id.verification.requirements.card.device.text": "אתה צריך מכשיר שיש לו מצלמה. אם אתה מקבל בקשת דפדפן לגישה למצלמה שלך, אנא הקפד ללחוץ על {allow} .",
   "id.verification.account.name.summary.alert": "הגדרות החשבון שלך מנוהלות על ידי {managerTitle} . אם השם בתעודת הזהות שלך עם תמונה אינו תואם את השם בחשבונך, אנא צור קשר עם מנהל המערכת של {profileDataManager} או {support} לקבלת עזרה.",
   "idv.submission.alert.error": "נתקלנו בשגיאה טכנית בעת ניסיון לשלוח אימות מזהה. ייתכן שזו בעיה זמנית, אז נסה שוב בעוד מספר דקות. אם הבעיה נמשכת, אנא עבור אל {support_link} לקבלת עזרה.",
-  "id.verification.account.name.edit": "עריכה"
+  "id.verification.account.name.edit": "עריכה",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

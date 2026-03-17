@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "Скорректированная оценка",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "Дата",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "Оценивающий",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Причина"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Причина",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }
