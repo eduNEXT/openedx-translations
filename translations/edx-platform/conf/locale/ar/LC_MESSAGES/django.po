@@ -26709,3 +26709,23 @@ msgstr "ضع نصّ حقوق النشر والطبع الخاصة بك هنا!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "محرر الرمز"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "الشروط العامة"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "إشعار قانوني"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "ملفات تعريف الارتباط"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "إمكانية الوصول"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "الدعم والمساعدة"

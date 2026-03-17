@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "لم يوافق {providerName} على طلبك للحصول على ساعات معتمدة للمساق. لمزيد من المعلومات تواصَل مع {linkToProviderSite} مباشرة.",
   "learner-dash.courseCard.banners.credit.requestCredit": "اطلُب ساعات مُعتمدة",
   "learner-dash.courseCard.banners.credit.viewCredit": "اعرِض الساعات المُعتمدة",
-  "learner-dash.courseCard.banners.credit.viewDetails": "اعرِض التفاصيل"
+  "learner-dash.courseCard.banners.credit.viewDetails": "اعرِض التفاصيل",
+  "soa_footer_main.generalConditions": "الشروط العامة",
+  "soa_footer_main.legalNotice": "إشعار قانوني",
+  "soa_footer_main.privacy": "الخصوصية",
+  "soa_footer_main.cookies": "ملفات تعريف الارتباط",
+  "soa_footer_main.accessibility": "إمكانية الوصول",
+  "soa_footer_main.support": "الدعم والمساعدة",
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
 }

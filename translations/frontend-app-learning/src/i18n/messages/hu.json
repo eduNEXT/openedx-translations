@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "Kurzus vázlat",
   "courseOutline.completedUnit": "Befejezett egység",
   "courseOutline.incompleteUnit": "Befejezetlen egység",
-  "discussions.sidebar.open.button": ""
+  "discussions.sidebar.open.button": "",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

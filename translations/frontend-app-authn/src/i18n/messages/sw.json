@@ -177,5 +177,12 @@
   "complete.your.profile.2": "wasifu wako",
   "register.page.terms.of.service.and.honor.code": "Kwa kuunda akaunti, unakubali {tosAndHonorCode} na unakubali kwamba {platformName} na kila Mwanachama huchakata data yako ya kibinafsi kwa mujibu wa {privacyPolicy} .",
   "register.page.honor.code": "Nakubaliana na {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Nakubaliana na {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Nakubaliana na {platformName} {termsOfService}",
+  "soa_footer_main.generalConditions": "Masharti ya Jumla",
+  "soa_footer_main.legalNotice": "Notisi ya Kisheria",
+  "soa_footer_main.privacy": "Faragha",
+  "soa_footer_main.cookies": "Vidakuzi",
+  "soa_footer_main.accessibility": "Upatikanaji",
+  "soa_footer_main.support": "Msaada na Usaidizi",
+  "soa_footer_main.allRightReserved": ""
 }

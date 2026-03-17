@@ -53,5 +53,12 @@
   "profile.formcontrols.button.saving": "Kuhifadhi",
   "profile.formcontrols.button.saved": "Imehifadhiwa",
   "profile.visibility.who.just.me": "Mimi pekee",
-  "profile.visibility.who.everyone": "Kila mtu kwenye {siteName}"
+  "profile.visibility.who.everyone": "Kila mtu kwenye {siteName}",
+  "soa_footer_main.generalConditions": "Masharti ya Jumla",
+  "soa_footer_main.legalNotice": "Notisi ya Kisheria",
+  "soa_footer_main.privacy": "Faragha",
+  "soa_footer_main.cookies": "Vidakuzi",
+  "soa_footer_main.accessibility": "Upatikanaji",
+  "soa_footer_main.support": "Msaada na Usaidizi",
+  "soa_footer_main.allRightReserved": ""
 }

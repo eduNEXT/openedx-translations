@@ -123,5 +123,12 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "ký hiệu {notationSyntax}",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} và số mũ",
   "learn.honorCode.content": "Sự trung thực và liêm chính trong học tập rất quan trọng đối với {siteName} cũng như các tổ chức cung cấp các khóa học và chương trình trên trang web {siteName} . Bằng cách nhấp vào “Tôi đồng ý” bên dưới, tôi xác nhận rằng tôi đã đọc, hiểu và sẽ tuân theo {link} cho Trang web {siteName} .",
-  "learn.course.sequence.navigation.mobile.menu": "{current} của {total}"
+  "learn.course.sequence.navigation.mobile.menu": "{current} của {total}",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

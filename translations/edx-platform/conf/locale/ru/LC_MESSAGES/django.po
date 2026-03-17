@@ -19813,3 +19813,23 @@ msgstr "Добавьте сюда ваш текст об авторских пр
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Редактор кода"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Общие условия"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Юридическое уведомление"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Куки"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Доступность"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Поддержка и Помощь"

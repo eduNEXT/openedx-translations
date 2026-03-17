@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "Дата",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Причина"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Причина",
+  "soa_footer_main.generalConditions": "Загальні умови",
+  "soa_footer_main.legalNotice": "Юридичне повідомлення",
+  "soa_footer_main.privacy": "Конфіденційність",
+  "soa_footer_main.cookies": "Файли cookie",
+  "soa_footer_main.accessibility": "Доступність",
+  "soa_footer_main.support": "Підтримка та Допомога",
+  "soa_footer_main.allRightReserved": "Всі права захищено"
 }

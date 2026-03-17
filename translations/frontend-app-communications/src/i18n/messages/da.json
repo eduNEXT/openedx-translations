@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Send til",
   "bulk.email.scheduled.emails.table.subject": "Emne",
   "bulk.email.scheduled.emails.table.Author": "Forfatter",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Du sletter en e-mail, der er planlagt til at blive sendt på {date} . E-mailen sendes ikke, og planlægningen annulleres. Er du sikker?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Du sletter en e-mail, der er planlagt til at blive sendt på {date} . E-mailen sendes ikke, og planlægningen annulleres. Er du sikker?",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }

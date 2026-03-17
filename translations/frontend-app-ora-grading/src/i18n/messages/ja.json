@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "未採点",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "採点完了",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "あなたは現在この回答を採点しています"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "あなたは現在この回答を採点しています",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

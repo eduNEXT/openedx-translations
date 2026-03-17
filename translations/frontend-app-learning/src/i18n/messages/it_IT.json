@@ -123,5 +123,12 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "Notazione {notationSyntax} ",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} e l'esponente ",
   "learn.honorCode.content": "L&#39;onestà e l&#39;integrità accademica sono importanti per {siteName} e per le istituzioni che forniscono corsi e programmi sul sito {siteName}. Facendo clic su &quot;Accetto&quot; di seguito, confermo di aver letto, compreso e rispetterò il {link} per il sito {siteName}.",
-  "learn.course.sequence.navigation.mobile.menu": "{current} di {total}"
+  "learn.course.sequence.navigation.mobile.menu": "{current} di {total}",
+  "soa_footer_main.generalConditions": "Condizioni Generali",
+  "soa_footer_main.legalNotice": "Avviso Legale",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Accessibilità",
+  "soa_footer_main.support": "Supporto e Aiuto",
+  "soa_footer_main.allRightReserved": "Tutti i diritti riservati"
 }

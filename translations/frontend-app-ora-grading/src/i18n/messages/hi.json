@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "ग्रेड नहीं किया गया",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "वर्तमान में किसी अन्य द्वारा वर्गीकृत किया जा रहा है",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "ग्रेडिंग पूरी हो गई",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "आप वर्तमान में इस प्रतिक्रिया को ग्रेड कर रहे हैं"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "आप वर्तमान में इस प्रतिक्रिया को ग्रेड कर रहे हैं",
+  "soa_footer_main.generalConditions": "सामान्य शर्तें",
+  "soa_footer_main.legalNotice": "कानूनी नोटिस",
+  "soa_footer_main.privacy": "गोपनीयता",
+  "soa_footer_main.cookies": "कुकीज़",
+  "soa_footer_main.accessibility": "अभिगम्यता",
+  "soa_footer_main.support": "सहायता और मदद",
+  "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित"
 }

@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "Senaste aktivitet",
   "discussions.posts.sort.commentCount": "Mest aktivitet",
   "discussions.posts.sort.voteCount": "De flesta gillar",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Alla} true {Egna} other {{own}} } {status, select, statusAll {} statusUnread {olästa} statusFollowing {följda} statusReported {rapporterade} statusUnanswered {obesvarade} statusUnresponded {utan svar} other {{status}} } {type, select, discussion {diskussioner} question {frågor} all {inlägg} other {{type}} } {cohortType, select, all {} group {i {cohort}} other {{cohortType}} } sorterade efter {sort, select, lastActivityAt {senaste aktivitet} commentCount {mest aktivitet} voteCount {flest gillningar} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Alla} true {Egna} other {{own}} } {status, select, statusAll {} statusUnread {olästa} statusFollowing {följda} statusReported {rapporterade} statusUnanswered {obesvarade} statusUnresponded {utan svar} other {{status}} } {type, select, discussion {diskussioner} question {frågor} all {inlägg} other {{type}} } {cohortType, select, all {} group {i {cohort}} other {{cohortType}} } sorterade efter {sort, select, lastActivityAt {senaste aktivitet} commentCount {mest aktivitet} voteCount {flest gillningar} other {{sort}} }",
+  "soa_footer_main.generalConditions": "Allmänna villkor",
+  "soa_footer_main.legalNotice": "Juridiskt meddelande",
+  "soa_footer_main.privacy": "Integritet",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tillgänglighet",
+  "soa_footer_main.support": "Support och Hjälp",
+  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna"
 }

@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "Наступний",
   "learn.sequence.navigation.next.up.button": "Далі: {title}",
   "learn.sequence.navigation.previous.button": "Попередній",
-  "discussions.sidebar.open.button": "Показати панель обговорень"
+  "discussions.sidebar.open.button": "Показати панель обговорень",
+  "soa_footer_main.generalConditions": "Загальні умови",
+  "soa_footer_main.legalNotice": "Юридичне повідомлення",
+  "soa_footer_main.privacy": "Конфіденційність",
+  "soa_footer_main.cookies": "Файли cookie",
+  "soa_footer_main.accessibility": "Доступність",
+  "soa_footer_main.support": "Підтримка та Допомога",
+  "soa_footer_main.allRightReserved": "Всі права захищено"
 }

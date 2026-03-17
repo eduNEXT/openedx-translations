@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "План курса",
   "courseOutline.completedUnit": "Завершенный раздел",
   "courseOutline.incompleteUnit": "Неполный блок",
-  "discussions.sidebar.open.button": "Показать панель обсуждений"
+  "discussions.sidebar.open.button": "Показать панель обсуждений",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

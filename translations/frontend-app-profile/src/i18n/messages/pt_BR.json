@@ -53,5 +53,12 @@
   "profile.notfound.message": "A página que você está procurando não está disponível ou há um erro na URL. Por favor, verifique a URL e tente novamente.",
   "profile.viewMyRecords": "Ver Meus Registros",
   "profile.loading": "Carregando perfil...",
-  "profile.username.description": "As informações do seu perfil são visíveis apenas para você. Somente seu nome de usuário é visível para outras pessoas em {siteName}."
+  "profile.username.description": "As informações do seu perfil são visíveis apenas para você. Somente seu nome de usuário é visível para outras pessoas em {siteName}.",
+  "soa_footer_main.generalConditions": "Condições Gerais",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidade",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Acessibilidade",
+  "soa_footer_main.support": "Suporte e Ajuda",
+  "soa_footer_main.allRightReserved": "Todos os direitos reservados"
 }

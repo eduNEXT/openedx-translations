@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "コース概要",
   "courseOutline.completedUnit": "完了したユニット",
   "courseOutline.incompleteUnit": "未完了のユニット",
-  "discussions.sidebar.open.button": "ディスカッショントレイを表示"
+  "discussions.sidebar.open.button": "ディスカッショントレイを表示",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

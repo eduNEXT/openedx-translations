@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "容差不能应用于答案范围",
   "problemEditor.settings.tolerance.type.percent": "百分比",
   "problemEditor.settings.tolerance.type.number": "数字",
-  "problemEditor.settings.tolerance.type.none": "无"
+  "problemEditor.settings.tolerance.type.none": "无",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "隐私",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "无障碍",
+  "soa_footer_main.support": "支持与帮助",
+  "soa_footer_main.allRightReserved": "保留所有权利"
 }

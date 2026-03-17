@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "利用規約",
   "authoring.footer.privacyPolicy.link.label": "プライバシーポリシー",
   "authoring.footer.accessibilityRequest.link.label": "アクセシビリティ対応リクエスト",
-  "authoring.footer.trademark.message": "edXとOpen edX、およびedXとOpen edXのロゴは、登録商標です。"
+  "authoring.footer.trademark.message": "edXとOpen edX、およびedXとOpen edXのロゴは、登録商標です。",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "आपको एक ऐसे उपकरण की आवश्यकता है जिसमें एक कैमरा हो। यदि आपको अपने कैमरे तक पहुंच के लिए ब्राउज़र संकेत मिलता है, तो कृपया {allow} पर क्लिक करना सुनिश्चित करें।",
   "id.verification.account.name.summary.alert": "आपकी खाता सेटिंग {managerTitle} द्वारा प्रबंधित की जाती हैं। आपकी फोटो आईडी पर दिया गया नाम आपके खाते के नाम से मेल नहीं खाता है, कृपया सहायता के लिए अपने {profileDataManager} व्यवस्थापक या {support} से संपर्क करें।",
   "idv.submission.alert.error": "आईडी सत्यापन सबमिट करने का प्रयास करते समय हमें एक तकनीकी त्रुटि का सामना करना पड़ा। यह एक अस्थायी समस्या हो सकती है, इसलिए कृपया कुछ मिनटों में पुनः प्रयास करें। यदि समस्या बनी रहती है, तो कृपया सहायता के लिए {support_link} पर जाएँ।",
-  "id.verification.account.name.edit": "संपादित करें {sr}"
+  "id.verification.account.name.edit": "संपादित करें {sr}",
+  "soa_footer_main.generalConditions": "सामान्य शर्तें",
+  "soa_footer_main.legalNotice": "कानूनी नोटिस",
+  "soa_footer_main.privacy": "गोपनीयता",
+  "soa_footer_main.cookies": "कुकीज़",
+  "soa_footer_main.accessibility": "अभिगम्यता",
+  "soa_footer_main.support": "सहायता और मदद",
+  "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित"
 }

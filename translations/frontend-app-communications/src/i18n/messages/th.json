@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "ส่งถึง",
   "bulk.email.scheduled.emails.table.subject": "หัวข้อ:",
   "bulk.email.scheduled.emails.table.Author": "ผู้ประพันธ์",
-  "bulk.email.scheduled.emails.table.confirm.delete": "คุณกำลังลบอีเมลที่มีกำหนดส่งเมื่อ {date} อีเมลจะไม่ถูกส่งและการกำหนดเวลาจะถูกยกเลิก คุณแน่ใจไหม?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "คุณกำลังลบอีเมลที่มีกำหนดส่งเมื่อ {date} อีเมลจะไม่ถูกส่งและการกำหนดเวลาจะถูกยกเลิก คุณแน่ใจไหม?",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} ཡིས་ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་credit ཡི་རེ་ཞུ་དེ་ངོས་ལེན་བྱས་མ་སོང་། འདིའི་སྐོར་གྱི་གནས་ཚུལ་རྒྱས་པ་དགོས་ན་ཐད་ཀར་ {linkToProviderSite} འདིར་འབྲེལ་བ་གནང་རོགས།",
   "learner-dash.courseCard.banners.credit.requestCredit": "Credit ཡི་རེ་ཞུ།",
   "learner-dash.courseCard.banners.credit.viewCredit": "Credit སྟོན།",
-  "learner-dash.courseCard.banners.credit.viewDetails": "ཞིབ་ཕྲར་གཟིགས།"
+  "learner-dash.courseCard.banners.credit.viewDetails": "ཞིབ་ཕྲར་གཟིགས།",
+  "soa_footer_main.generalConditions": "སྤྱིར་བཏང་གི་ཆ་རྐྱེན།",
+  "soa_footer_main.legalNotice": "ཁྲིམས་ལུགས་ཀྱི་བརྡ་ལན།",
+  "soa_footer_main.privacy": "གསང་བ།",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "ལག་ལེན་འཐབ་ཐུབ་པ།",
+  "soa_footer_main.support": "རོགས་རམ་དང་གདུང་སེམས།",
+  "soa_footer_main.allRightReserved": ""
 }

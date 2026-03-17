@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} не одобрил ваш запрос на получение зачётных единиц за курс. Для получения дополнительной информации свяжитесь напрямую с {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Запросить зачётные единицы",
   "learner-dash.courseCard.banners.credit.viewCredit": "Посмотреть зачётные единицы",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Смотреть подробнее"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Смотреть подробнее",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

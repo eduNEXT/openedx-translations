@@ -354,5 +354,12 @@
   "id.verification.requirements.card.device.text": "Вам нужно устройство с камерой. Если вы получили запрос браузера на доступ к вашей камере, обязательно нажмите {allow} .",
   "id.verification.account.name.summary.alert": "Настройки вашей учетной записи управляются {managerTitle} . Если имя в вашем удостоверении личности с фотографией не совпадает с именем в вашей учетной записи, обратитесь за помощью к администратору {profileDataManager} или {support} .",
   "idv.submission.alert.error": "При попытке подтвердить удостоверение личности произошла техническая ошибка. Возможно, это временная проблема, поэтому повторите попытку через несколько минут. Если проблема не устранена, обратитесь за помощью по {support_link} .",
-  "id.verification.account.name.edit": "Изменить {sr}"
+  "id.verification.account.name.edit": "Изменить {sr}",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

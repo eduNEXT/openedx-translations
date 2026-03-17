@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Ej betygsatt",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Bedöms just nu av någon annan",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Betyg avklarad",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Du betygsätter för närvarande det här svaret"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Du betygsätter för närvarande det här svaret",
+  "soa_footer_main.generalConditions": "Allmänna villkor",
+  "soa_footer_main.legalNotice": "Juridiskt meddelande",
+  "soa_footer_main.privacy": "Integritet",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tillgänglighet",
+  "soa_footer_main.support": "Support och Hjälp",
+  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna"
 }

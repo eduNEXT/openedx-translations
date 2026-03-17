@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "",
   "courseOutline.completedUnit": "",
   "courseOutline.incompleteUnit": "",
-  "discussions.sidebar.open.button": ""
+  "discussions.sidebar.open.button": "",
+  "soa_footer_main.generalConditions": "Condiții generale",
+  "soa_footer_main.legalNotice": "Notă juridică",
+  "soa_footer_main.privacy": "Confidențialitate",
+  "soa_footer_main.cookies": "Cookie-uri",
+  "soa_footer_main.accessibility": "Accesibilitate",
+  "soa_footer_main.support": "Suport și Ajutor",
+  "soa_footer_main.allRightReserved": ""
 }

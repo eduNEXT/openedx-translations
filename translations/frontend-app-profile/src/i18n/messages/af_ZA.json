@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Stoor",
   "profile.formcontrols.button.saved": "Gestoor",
   "profile.visibility.who.just.me": "Net ek",
-  "profile.visibility.who.everyone": "Almal op {siteName}"
+  "profile.visibility.who.everyone": "Almal op {siteName}",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

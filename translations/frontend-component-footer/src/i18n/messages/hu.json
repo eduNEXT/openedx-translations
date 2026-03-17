@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Szolgáltatási feltételek",
   "authoring.footer.privacyPolicy.link.label": "Adatvédelmi Irányelvek",
   "authoring.footer.accessibilityRequest.link.label": "Hozzáférési alkalmazkodási kérelem",
-  "authoring.footer.trademark.message": "Az edX és az Open edX, valamint az edX és az Open edX logók bejegyzett védjegyek."
+  "authoring.footer.trademark.message": "Az edX és az Open edX, valamint az edX és az Open edX logók bejegyzett védjegyek.",
+  "soa_footer_main.generalConditions": "Általános feltételek",
+  "soa_footer_main.legalNotice": "Jogi nyilatkozat",
+  "soa_footer_main.privacy": "Adatvédelem",
+  "soa_footer_main.cookies": "Sütik",
+  "soa_footer_main.accessibility": "Akadálymentesség",
+  "soa_footer_main.support": "Támogatás és Segítség",
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
 }

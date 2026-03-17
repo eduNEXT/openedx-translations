@@ -480,5 +480,12 @@
   "courseOutline.tray.title": "",
   "courseOutline.completedUnit": "",
   "courseOutline.incompleteUnit": "",
-  "discussions.sidebar.open.button": ""
+  "discussions.sidebar.open.button": "",
+  "soa_footer_main.generalConditions": "Conditions générales",
+  "soa_footer_main.legalNotice": "Avis juridique",
+  "soa_footer_main.privacy": "Vie privée",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibilité",
+  "soa_footer_main.support": "Soutien et Aide",
+  "soa_footer_main.allRightReserved": "Tous droits réservés"
 }

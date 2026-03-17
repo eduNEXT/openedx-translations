@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "Kullanım Koşulları",
   "authoring.footer.privacyPolicy.link.label": "Gizlilik Politikası",
   "authoring.footer.accessibilityRequest.link.label": "Erişilebilirlik Karşılama Talebi",
-  "authoring.footer.trademark.message": "edX, Open edX, ve edX ile Open edX logoları tescilli markalardır"
+  "authoring.footer.trademark.message": "edX, Open edX, ve edX ile Open edX logoları tescilli markalardır",
+  "soa_footer_main.generalConditions": "Genel Koşullar",
+  "soa_footer_main.legalNotice": "Yasal Bildirim",
+  "soa_footer_main.privacy": "Gizlilik",
+  "soa_footer_main.cookies": "Çerezler",
+  "soa_footer_main.accessibility": "Erişilebilirlik",
+  "soa_footer_main.support": "Destek ve Yardım",
+  "soa_footer_main.allRightReserved": "Tüm hakları saklıdır"
 }

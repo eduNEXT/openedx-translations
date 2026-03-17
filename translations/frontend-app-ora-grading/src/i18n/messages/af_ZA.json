@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Ongegradeer",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Word tans deur iemand anders gegradeer",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Gradering voltooi",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Jy gradeer tans hierdie antwoord"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Jy gradeer tans hierdie antwoord",
+  "soa_footer_main.generalConditions": "Algemene Voorwaardes",
+  "soa_footer_main.legalNotice": "Regskennis",
+  "soa_footer_main.privacy": "Privaatheid",
+  "soa_footer_main.cookies": "Koekies",
+  "soa_footer_main.accessibility": "Toeganklikheid",
+  "soa_footer_main.support": "Ondersteuning en Hulp",
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
 }

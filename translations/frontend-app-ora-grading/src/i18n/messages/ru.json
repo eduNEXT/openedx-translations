@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Не оценивается",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "В настоящее время оценивается кем-то другим",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Оценка завершена",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "В настоящее время вы оцениваете этот ответ"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "В настоящее время вы оцениваете этот ответ",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Saqlash",
   "profile.formcontrols.button.saved": "Saqlangan",
   "profile.visibility.who.just.me": "Faqat o'zim",
-  "profile.visibility.who.everyone": "Hamma {siteName} da"
+  "profile.visibility.who.everyone": "Hamma {siteName} da",
+  "soa_footer_main.generalConditions": "Umumiy shartlar",
+  "soa_footer_main.legalNotice": "Yuridik bildirishnoma",
+  "soa_footer_main.privacy": "Maxfiylik",
+  "soa_footer_main.cookies": "Kukilar",
+  "soa_footer_main.accessibility": "Imkoniyat",
+  "soa_footer_main.support": "Qo'llab-quvvatlash va Yordam",
+  "soa_footer_main.allRightReserved": "Barcha huquqlar himoyalangan"
 }

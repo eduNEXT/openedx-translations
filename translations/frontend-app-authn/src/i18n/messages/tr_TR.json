@@ -177,5 +177,12 @@
   "complete.your.profile.2": "profiliniz",
   "register.page.terms.of.service.and.honor.code": "Bir hesap oluşturarak {tosAndHonorCode} metnini kabul etmiş olursunuz ve {platformName} ile her Üyenin kişisel verilerinizi {privacyPolicy} uyarınca işlediğini kabul edersiniz.",
   "register.page.honor.code": "{platformName} {tosAndHonorCode} metnini kabul ediyorum",
-  "register.page.terms.of.service": "{platformName} {termsOfService} metnini kabul ediyorum"
+  "register.page.terms.of.service": "{platformName} {termsOfService} metnini kabul ediyorum",
+  "soa_footer_main.generalConditions": "Genel Koşullar",
+  "soa_footer_main.legalNotice": "Yasal Bildirim",
+  "soa_footer_main.privacy": "Gizlilik",
+  "soa_footer_main.cookies": "Çerezler",
+  "soa_footer_main.accessibility": "Erişilebilirlik",
+  "soa_footer_main.support": "Destek ve Yardım",
+  "soa_footer_main.allRightReserved": "Tüm hakları saklıdır"
 }

@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "ปรับเกรด",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "วันที่",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "เครื่องมือจัดการเกรด",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "เหตุผล"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "เหตุผล",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

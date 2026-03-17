@@ -1350,5 +1350,12 @@
   "authoring.discussions.appDocInstructions.configurationLink": "Τεκμηρίωση διαμόρφωσης",
   "authoring.discussions.appDocInstructions.learnMoreLink": "Μάθετε περισσότερα για {providerName}",
   "authoring.discussions.appDocInstructions.linkTextHeading": "Εξωτερική βοήθεια και τεκμηρίωση",
-  "authoring.discussions.appDocInstructions.linkText": "{link}"
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

@@ -1350,5 +1350,12 @@
   "authoring.discussions.appDocInstructions.configurationLink": "Nyaraka za usanidi",
   "authoring.discussions.appDocInstructions.learnMoreLink": "Pata maelezo zaidi kuhusu {providerName}",
   "authoring.discussions.appDocInstructions.linkTextHeading": "Usaidizi wa nje na nyaraka",
-  "authoring.discussions.appDocInstructions.linkText": "{link}"
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "soa_footer_main.generalConditions": "Masharti ya Jumla",
+  "soa_footer_main.legalNotice": "Notisi ya Kisheria",
+  "soa_footer_main.privacy": "Faragha",
+  "soa_footer_main.cookies": "Vidakuzi",
+  "soa_footer_main.accessibility": "Upatikanaji",
+  "soa_footer_main.support": "Msaada na Usaidizi",
+  "soa_footer_main.allRightReserved": ""
 }

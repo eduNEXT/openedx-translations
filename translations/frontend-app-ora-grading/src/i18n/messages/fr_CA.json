@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Non noté",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Actuellement noté par quelqu'un d'autre",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Classement terminé",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Vous notez actuellement cette réponse"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Vous notez actuellement cette réponse",
+  "soa_footer_main.generalConditions": "Conditions générales",
+  "soa_footer_main.legalNotice": "Avis juridique",
+  "soa_footer_main.privacy": "Vie privée",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibilité",
+  "soa_footer_main.support": "Soutien et Aide",
+  "soa_footer_main.allRightReserved": "Tous droits réservés"
 }

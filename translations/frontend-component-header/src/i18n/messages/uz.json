@@ -36,5 +36,6 @@
   "header.label.courseOutline": "Studiyadagi kurs rejasiga qaytish",
   "header.label.search.nav": "Kontentni qidirish",
   "header.menu.soa.blog.label": "Blog",
-  "header.menu.soa.whoWeAre.label": "Biz kimmiz"
+  "header.menu.soa.whoWeAre.label": "Biz kimmiz",
+  "header.menu.soa.search.label": "Qidirish"
 }

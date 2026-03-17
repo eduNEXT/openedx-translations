@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "الدرجة المعدّلة",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "التاريخ",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "صاحب التقييم",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "السبب"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "السبب",
+  "soa_footer_main.generalConditions": "الشروط العامة",
+  "soa_footer_main.legalNotice": "إشعار قانوني",
+  "soa_footer_main.privacy": "الخصوصية",
+  "soa_footer_main.cookies": "ملفات تعريف الارتباط",
+  "soa_footer_main.accessibility": "إمكانية الوصول",
+  "soa_footer_main.support": "الدعم والمساعدة",
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
 }

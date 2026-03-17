@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "Dəyişdirilmiş qiymət",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "Tarix",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "Qiymətləndirici",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Səbəb"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "Səbəb",
+  "soa_footer_main.generalConditions": "Ümumi şərtlər",
+  "soa_footer_main.legalNotice": "Hüquqi bildiriş",
+  "soa_footer_main.privacy": "Məxfilik",
+  "soa_footer_main.cookies": "Kukilər",
+  "soa_footer_main.accessibility": "Əlçatanlıq",
+  "soa_footer_main.support": "Dəstək və Yardım",
+  "soa_footer_main.allRightReserved": "Bütün hüquqlar qorunur"
 }

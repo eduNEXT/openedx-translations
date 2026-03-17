@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "الأحدث نشاطًا",
   "discussions.posts.sort.commentCount": "الأكثر نشاطًا",
   "discussions.posts.sort.voteCount": "الأكثر إعجابًا",
-  "discussions.posts.sort-filter.sortFilterStatus": ""
+  "discussions.posts.sort-filter.sortFilterStatus": "",
+  "soa_footer_main.generalConditions": "الشروط العامة",
+  "soa_footer_main.legalNotice": "إشعار قانوني",
+  "soa_footer_main.privacy": "الخصوصية",
+  "soa_footer_main.cookies": "ملفات تعريف الارتباط",
+  "soa_footer_main.accessibility": "إمكانية الوصول",
+  "soa_footer_main.support": "الدعم والمساعدة",
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
 }

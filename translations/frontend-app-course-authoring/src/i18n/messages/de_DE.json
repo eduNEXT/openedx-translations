@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Die Toleranz kann nicht auf einen Antwortbereich angewendet werden",
   "problemEditor.settings.tolerance.type.percent": "Prozentsatz",
   "problemEditor.settings.tolerance.type.number": "Nummer",
-  "problemEditor.settings.tolerance.type.none": "kein"
+  "problemEditor.settings.tolerance.type.none": "kein",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": "Alle Rechte vorbehalten"
 }

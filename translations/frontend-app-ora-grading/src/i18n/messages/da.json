@@ -101,5 +101,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Uklassificeret",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Bedømmes i øjeblikket af en anden",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Bedømmelse afsluttet",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Du bedømmer i øjeblikket dette svar"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Du bedømmer i øjeblikket dette svar",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }

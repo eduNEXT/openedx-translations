@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "తరువాత",
   "learn.sequence.navigation.next.up.button": "తదుపరిది: {title}",
   "learn.sequence.navigation.previous.button": "మునుపటి",
-  "discussions.sidebar.open.button": "చర్చల ట్రేని చూపించు"
+  "discussions.sidebar.open.button": "చర్చల ట్రేని చూపించు",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

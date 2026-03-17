@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Sie benötigen ein Gerät mit Kamera. Wenn Sie eine Browser-Eingabeaufforderung für den Zugriff auf Ihre Kamera erhalten, stellen Sie bitte sicher, dass Sie auf {allow} klicken.",
   "id.verification.account.name.summary.alert": "Ihre Kontoeinstellungen werden von {managerTitle} verwaltet. Wenn der Name auf Ihrem Lichtbildausweis nicht mit dem Namen auf Ihrem Konto übereinstimmt, wenden Sie sich bitte an Ihren {profileDataManager}-Administrator oder {support}, um Hilfe zu erhalten.",
   "idv.submission.alert.error": "Beim Versuch to submit ID Verification ist ein technischer error aufgetreten. this könnte ein vorübergehendes Problem minutes , also versuchen Sie in noch einmal Please Wenn Problem weiterhin besteht, wenden Sie sich an Please {support_link} to um Hilfe zu erhalten.",
-  "id.verification.account.name.edit": "{sr} bearbeiten"
+  "id.verification.account.name.edit": "{sr} bearbeiten",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": "Alle Rechte vorbehalten"
 }

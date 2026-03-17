@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Nosūtīt",
   "bulk.email.scheduled.emails.table.subject": "Temats",
   "bulk.email.scheduled.emails.table.Author": "Autors",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Jūs dzēšat e-pasta ziņojumu, kas paredzēts nosūtīt uz {date} . E-pasts netiks nosūtīts, un plānošana tiks atcelta. Vai esat pārliecināti?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Jūs dzēšat e-pasta ziņojumu, kas paredzēts nosūtīt uz {date} . E-pasts netiks nosūtīts, un plānošana tiks atcelta. Vai esat pārliecināti?",
+  "soa_footer_main.generalConditions": "Vispārīgie noteikumi",
+  "soa_footer_main.legalNotice": "Juridisks paziņojums",
+  "soa_footer_main.privacy": "Privātums",
+  "soa_footer_main.cookies": "Sīkdatnes",
+  "soa_footer_main.accessibility": "Pieejamība",
+  "soa_footer_main.support": "Atbalsts un Palīdzība",
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
 }

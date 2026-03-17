@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName}はコースクレジットのリクエストを承認しませんでした。詳細については、直接{linkToProviderSite}にお問い合わせください。",
   "learner-dash.courseCard.banners.credit.requestCredit": "クレジットを申請",
   "learner-dash.courseCard.banners.credit.viewCredit": "クレジットを表示",
-  "learner-dash.courseCard.banners.credit.viewDetails": "詳細を見る"
+  "learner-dash.courseCard.banners.credit.viewDetails": "詳細を見る",
+  "soa_footer_main.generalConditions": "一般条件",
+  "soa_footer_main.legalNotice": "法的通知",
+  "soa_footer_main.privacy": "プライバシー",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "アクセシビリティ",
+  "soa_footer_main.support": "サポートとヘルプ",
+  "soa_footer_main.allRightReserved": "すべての権利を保有"
 }

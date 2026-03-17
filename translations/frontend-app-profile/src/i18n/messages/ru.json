@@ -53,5 +53,12 @@
   "profile.notfound.message": "Страница, которую вы ищете, недоступна или произошла ошибка в URL-адресе. Пожалуйста, проверьте URL-адрес и повторите попытку.",
   "profile.viewMyRecords": "Просмотреть мои записи",
   "profile.loading": "Загрузка профиля ...",
-  "profile.username.description": "Информация вашего профиля видна только вам. Другим пользователям на {siteName} видно только ваше имя пользователя."
+  "profile.username.description": "Информация вашего профиля видна только вам. Другим пользователям на {siteName} видно только ваше имя пользователя.",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

@@ -1350,5 +1350,12 @@
   "authoring.discussions.appDocInstructions.configurationLink": "కాన్ఫిగరేషన్ డాక్యుమెంటేషన్",
   "authoring.discussions.appDocInstructions.learnMoreLink": "{providerName} గురించి మరింత తెలుసుకోండి",
   "authoring.discussions.appDocInstructions.linkTextHeading": "బాహ్య సహాయం మరియు డాక్యుమెంటేషన్",
-  "authoring.discussions.appDocInstructions.linkText": "{link}"
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

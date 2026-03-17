@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "نمرۀ تعدیل‌شده",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "تاریخ",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "نمره‌گذار",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "دلیل"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "دلیل",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

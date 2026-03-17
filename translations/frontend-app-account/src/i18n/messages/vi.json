@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Bạn cần một thiết bị có camera. Nếu bạn nhận được lời nhắc của trình duyệt về quyền truy cập vào máy ảnh của mình, vui lòng đảm bảo nhấp vào {allow} .",
   "id.verification.account.name.summary.alert": "Cài đặt tài khoản của bạn được quản lý bởi {managerTitle} . Nếu tên trên ID ảnh không khớp với tên trên tài khoản của bạn, vui lòng liên hệ với quản trị viên {profileDataManager} hoặc {support} để được trợ giúp.",
   "idv.submission.alert.error": "Chúng tôi đã gặp phải lỗi kỹ thuật khi cố gắng gửi xác minh ID. Đây có thể là sự cố tạm thời, vì vậy vui lòng thử lại sau vài phút. Nếu sự cố vẫn tiếp diễn, vui lòng truy cập {support_link} để được trợ giúp.",
-  "id.verification.account.name.edit": "Chỉnh sửa {sr}"
+  "id.verification.account.name.edit": "Chỉnh sửa {sr}",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

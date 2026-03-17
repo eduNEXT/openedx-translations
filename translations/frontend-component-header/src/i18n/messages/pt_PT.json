@@ -36,5 +36,6 @@
   "header.label.courseOutline": "Voltar ao resumo do curso no Studio",
   "header.label.search.nav": "Pesquisar conteúdo",
   "header.menu.soa.blog.label": "Blog",
-  "header.menu.soa.whoWeAre.label": "Quem somos"
+  "header.menu.soa.whoWeAre.label": "Quem somos",
+  "header.menu.soa.search.label": "Procurar"
 }

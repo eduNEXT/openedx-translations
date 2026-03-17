@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Aveți nevoie de un dispozitiv încorporat cu camera. Dacă primiți o solicitare din browser pentru acces la camera, vă rugăm să apăsați butonul [Deschideți].",
   "id.verification.account.name.summary.alert": "",
   "idv.submission.alert.error": "",
-  "id.verification.account.name.edit": ""
+  "id.verification.account.name.edit": "",
+  "soa_footer_main.generalConditions": "Condiții generale",
+  "soa_footer_main.legalNotice": "Notă juridică",
+  "soa_footer_main.privacy": "Confidențialitate",
+  "soa_footer_main.cookies": "Cookie-uri",
+  "soa_footer_main.accessibility": "Accesibilitate",
+  "soa_footer_main.support": "Suport și Ajutor",
+  "soa_footer_main.allRightReserved": ""
 }

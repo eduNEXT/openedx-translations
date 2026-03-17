@@ -209,5 +209,12 @@
   "discussions.posts.sort.lastActivity": "פעילות אחרונה",
   "discussions.posts.sort.commentCount": "הכי הרבה פעילות",
   "discussions.posts.sort.voteCount": "הכי הרבה לייקים",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} other { {own} } } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponsedf59ab50z other { {status} } } {סוג, בחר, דיון {דיונים} שאלה {שאלות} כל {פוסטים} אחרים { {type} } } {cohortType, select, all {} קבוצה {in {cohort} } אחר { {cohortType} מיון אחרון, מיון {A,} פעילות אחרונה} תגובהספירה {רוב הפעילות} ספירת הצבעות {הכי אהבתי} אחר { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} other { {own} } } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponsedf59ab50z other { {status} } } {סוג, בחר, דיון {דיונים} שאלה {שאלות} כל {פוסטים} אחרים { {type} } } {cohortType, select, all {} קבוצה {in {cohort} } אחר { {cohortType} מיון אחרון, מיון {A,} פעילות אחרונה} תגובהספירה {רוב הפעילות} ספירת הצבעות {הכי אהבתי} אחר { {sort} } }",
+  "soa_footer_main.generalConditions": "תנאים כלליים",
+  "soa_footer_main.legalNotice": "הודעה משפטית",
+  "soa_footer_main.privacy": "פרטיות",
+  "soa_footer_main.cookies": "עוגיות",
+  "soa_footer_main.accessibility": "נגישות",
+  "soa_footer_main.support": "תמיכה ועזרה",
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
 }

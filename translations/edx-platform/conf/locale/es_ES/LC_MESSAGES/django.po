@@ -26077,3 +26077,23 @@ msgstr "Editor de Código"
 #: lms/templates/header/header-mobile.html:L96
 msgid "Who we are"
 msgstr "Quiénes somos"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Condiciones Generales"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Aviso Legal"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookies"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Soporte y Ayuda"

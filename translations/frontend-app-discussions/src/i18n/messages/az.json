@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "Son fəaliyyət",
   "discussions.posts.sort.commentCount": "Ən çox fəaliyyət",
   "discussions.posts.sort.voteCount": "Ən çox bəyənilənlər",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Hamısı} true {Öz} other {{own}} } {status, select, statusAll {} statusUnread {oxunmamış} statusFollowing {izlənilən} statusReported {hesabatlı} statusUnanswered {cavabsız} statusUnresponded {cavab verilməmiş} other {{status}} } {type, select, discussion {müzakirələr} question {sorğular} all {paylaşımlar} other {{type}} } {cohortType, select, all {} group {qrupda {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {son fəaliyyət} commentCount {ən çox fəaliyyət} voteCount {ən çox bəyənmə} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Hamısı} true {Öz} other {{own}} } {status, select, statusAll {} statusUnread {oxunmamış} statusFollowing {izlənilən} statusReported {hesabatlı} statusUnanswered {cavabsız} statusUnresponded {cavab verilməmiş} other {{status}} } {type, select, discussion {müzakirələr} question {sorğular} all {paylaşımlar} other {{type}} } {cohortType, select, all {} group {qrupda {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {son fəaliyyət} commentCount {ən çox fəaliyyət} voteCount {ən çox bəyənmə} other {{sort}} }",
+  "soa_footer_main.generalConditions": "Ümumi şərtlər",
+  "soa_footer_main.legalNotice": "Hüquqi bildiriş",
+  "soa_footer_main.privacy": "Məxfilik",
+  "soa_footer_main.cookies": "Kukilər",
+  "soa_footer_main.accessibility": "Əlçatanlıq",
+  "soa_footer_main.support": "Dəstək və Yardım",
+  "soa_footer_main.allRightReserved": "Bütün hüquqlar qorunur"
 }

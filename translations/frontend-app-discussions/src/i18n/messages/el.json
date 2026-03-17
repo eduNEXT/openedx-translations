@@ -209,5 +209,12 @@
   "discussions.posts.sort.lastActivity": "Πιο πρόσφατες",
   "discussions.posts.sort.commentCount": "Πιο ενεργές",
   "discussions.posts.sort.voteCount": "Πιο δημοφιλείς",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Όλες οι} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {μη διαβασμένες} statusFollowing {επιλεγμένες να ακολουθώ} statusReported {αναφερθείσες} statusUnanswered {χωρίς προτεινόμενη απάντηση} statusUnresponded {αναπάντητες} other {{status}} } {type, select, discussion {συζητήσεις} question {ερωτήσεις} all {αναρτήσεις} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } ταξινομημένες με βάση {sort, select, lastActivityAt {τις πιο πρόσφατες} commentCount {τις πιο ενεργές} voteCount {τις πιο δημοφιλείς} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Όλες οι} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {μη διαβασμένες} statusFollowing {επιλεγμένες να ακολουθώ} statusReported {αναφερθείσες} statusUnanswered {χωρίς προτεινόμενη απάντηση} statusUnresponded {αναπάντητες} other {{status}} } {type, select, discussion {συζητήσεις} question {ερωτήσεις} all {αναρτήσεις} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } ταξινομημένες με βάση {sort, select, lastActivityAt {τις πιο πρόσφατες} commentCount {τις πιο ενεργές} voteCount {τις πιο δημοφιλείς} other {{sort}} }",
+  "soa_footer_main.generalConditions": "Γενικοί Όροι",
+  "soa_footer_main.legalNotice": "Νομική Ειδοποίηση",
+  "soa_footer_main.privacy": "Απόρρητο",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Προσβασιμότητα",
+  "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
+  "soa_footer_main.allRightReserved": ""
 }

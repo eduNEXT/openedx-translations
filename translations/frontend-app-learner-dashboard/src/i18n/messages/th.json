@@ -152,5 +152,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} ไม่อนุมัติคำขอเครดิตหลักสูตรของคุณ สำหรับข้อมูลเพิ่มเติมติดต่อ {linkToProviderSite} โดยตรง",
   "learner-dash.courseCard.banners.credit.requestCredit": "หน่วยกิตที่ร้องขอ",
   "learner-dash.courseCard.banners.credit.viewCredit": "ดูหน่วยกิต",
-  "learner-dash.courseCard.banners.credit.viewDetails": "ดูรายละเอียด"
+  "learner-dash.courseCard.banners.credit.viewDetails": "ดูรายละเอียด",
+  "soa_footer_main.generalConditions": "เงื่อนไขทั่วไป",
+  "soa_footer_main.legalNotice": "ประกาศทางกฎหมาย",
+  "soa_footer_main.privacy": "ความเป็นส่วนตัว",
+  "soa_footer_main.cookies": "คุกกี้",
+  "soa_footer_main.accessibility": "การเข้าถึง",
+  "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
+  "soa_footer_main.allRightReserved": ""
 }

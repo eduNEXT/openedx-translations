@@ -26423,3 +26423,23 @@ msgstr "Sätt din Copyright Text här!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kodredigerare"
+
+#: lms/templates/footer.html:220
+msgid "General Conditions"
+msgstr "Allmänna villkor"
+
+#: lms/templates/footer.html:221
+msgid "Legal Notice"
+msgstr "Juridiskt meddelande"
+
+#: lms/templates/footer.html:223
+msgid "Cookies"
+msgstr "Cookies"
+
+#: lms/templates/footer.html:224
+msgid "Accessibility"
+msgstr "Tillgänglighet"
+
+#: lms/templates/footer.html:225
+msgid "Support and Help"
+msgstr "Support och Hjälp"

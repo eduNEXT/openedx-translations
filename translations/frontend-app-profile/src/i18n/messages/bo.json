@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "ཉར་བཞིན་ཡོད།",
   "profile.formcontrols.button.saved": "ཉར་ཟིན།",
   "profile.visibility.who.just.me": "ང་ཁོ་ན་ཡིན།",
-  "profile.visibility.who.everyone": "འདིའི་ {siteName} ནང་གི་མི་ཚང་མ།"
+  "profile.visibility.who.everyone": "འདིའི་ {siteName} ནང་གི་མི་ཚང་མ།",
+  "soa_footer_main.generalConditions": "སྤྱིར་བཏང་གི་ཆ་རྐྱེན།",
+  "soa_footer_main.legalNotice": "ཁྲིམས་ལུགས་ཀྱི་བརྡ་ལན།",
+  "soa_footer_main.privacy": "གསང་བ།",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "ལག་ལེན་འཐབ་ཐུབ་པ།",
+  "soa_footer_main.support": "རོགས་རམ་དང་གདུང་སེམས།",
+  "soa_footer_main.allRightReserved": ""
 }

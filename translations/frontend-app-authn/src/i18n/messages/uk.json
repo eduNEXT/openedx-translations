@@ -177,5 +177,12 @@
   "complete.your.profile.2": "",
   "register.page.terms.of.service.and.honor.code": "",
   "register.page.honor.code": "Я погоджуюсь з {platformName}&nbsp;{tosAndHonorCode}",
-  "register.page.terms.of.service": "Я погоджуюсь з {platformName}&nbsp;{termsOfService}"
+  "register.page.terms.of.service": "Я погоджуюсь з {platformName}&nbsp;{termsOfService}",
+  "soa_footer_main.generalConditions": "Загальні умови",
+  "soa_footer_main.legalNotice": "Юридичне повідомлення",
+  "soa_footer_main.privacy": "Конфіденційність",
+  "soa_footer_main.cookies": "Файли cookie",
+  "soa_footer_main.accessibility": "Доступність",
+  "soa_footer_main.support": "Підтримка та Допомога",
+  "soa_footer_main.allRightReserved": "Всі права захищено"
 }

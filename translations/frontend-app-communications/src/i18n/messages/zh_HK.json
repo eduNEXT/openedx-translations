@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "發給",
   "bulk.email.scheduled.emails.table.subject": "主題",
   "bulk.email.scheduled.emails.table.Author": "作者",
-  "bulk.email.scheduled.emails.table.confirm.delete": "您正在刪除計劃在{date}上發送的電郵。電郵將不會發送，並且日程安排將被取消。你確定嗎？"
+  "bulk.email.scheduled.emails.table.confirm.delete": "您正在刪除計劃在{date}上發送的電郵。電郵將不會發送，並且日程安排將被取消。你確定嗎？",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

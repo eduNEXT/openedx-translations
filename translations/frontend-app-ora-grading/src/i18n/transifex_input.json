@@ -100,5 +100,12 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Ungraded",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Currently being graded by someone else",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Grading Completed",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "You are currently grading this response"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "You are currently grading this response",
+  "soa_footer_main.generalConditions": "General Conditions",
+  "soa_footer_main.legalNotice": "Legal Notice",
+  "soa_footer_main.privacy": "Privacy",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibility",
+  "soa_footer_main.support": "Support and Help",
+  "soa_footer_main.allRightReserved": "All rights reserved"
 }

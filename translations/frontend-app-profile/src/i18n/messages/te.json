@@ -53,5 +53,12 @@
   "profile.formcontrols.button.saving": "పొదుపు చేస్తోంది",
   "profile.formcontrols.button.saved": "సేవ్ చేయబడింది",
   "profile.visibility.who.just.me": "నేనొక్కడినే",
-  "profile.visibility.who.everyone": "{siteName} లో ప్రతి ఒక్కరూ"
+  "profile.visibility.who.everyone": "{siteName} లో ప్రతి ఒక్కరూ",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

@@ -467,5 +467,12 @@
   "learn.sequence.navigation.next.button": "Próximo",
   "learn.sequence.navigation.next.up.button": "A seguir: {title}",
   "learn.sequence.navigation.previous.button": "Anterior",
-  "discussions.sidebar.open.button": "Mostrar bandeja de discussões"
+  "discussions.sidebar.open.button": "Mostrar bandeja de discussões",
+  "soa_footer_main.generalConditions": "Condições Gerais",
+  "soa_footer_main.legalNotice": "Aviso Legal",
+  "soa_footer_main.privacy": "Privacidade",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Acessibilidade",
+  "soa_footer_main.support": "Suporte e Ajuda",
+  "soa_footer_main.allRightReserved": "Todos os direitos reservados"
 }

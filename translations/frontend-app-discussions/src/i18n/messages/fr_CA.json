@@ -216,5 +216,12 @@
   "discussions.posts.sort.lastActivity": "Activité récente",
   "discussions.posts.sort.commentCount": "Les plus actives",
   "discussions.posts.sort.voteCount": "Les plus aimées",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Toutes} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lues} statusFollowing {suivies} statusReported {signalées} statusUnanswered {sans réponses} statusUnresponded {non reepondues} other {{status}} } {type, select, discussion {discussions} question {questions} all {publications} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {activité récente} commentCount {les plus actives} voteCount {les plus aimées} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Toutes} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lues} statusFollowing {suivies} statusReported {signalées} statusUnanswered {sans réponses} statusUnresponded {non reepondues} other {{status}} } {type, select, discussion {discussions} question {questions} all {publications} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {activité récente} commentCount {les plus actives} voteCount {les plus aimées} other {{sort}} }",
+  "soa_footer_main.generalConditions": "Conditions générales",
+  "soa_footer_main.legalNotice": "Avis juridique",
+  "soa_footer_main.privacy": "Vie privée",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Accessibilité",
+  "soa_footer_main.support": "Soutien et Aide",
+  "soa_footer_main.allRightReserved": "Tous droits réservés"
 }

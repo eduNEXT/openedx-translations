@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Допуск не може бути застосований до діапазону відповідей",
   "problemEditor.settings.tolerance.type.percent": "Відсоток",
   "problemEditor.settings.tolerance.type.number": "Номер",
-  "problemEditor.settings.tolerance.type.none": "Немає"
+  "problemEditor.settings.tolerance.type.none": "Немає",
+  "soa_footer_main.generalConditions": "Загальні умови",
+  "soa_footer_main.legalNotice": "Юридичне повідомлення",
+  "soa_footer_main.privacy": "Конфіденційність",
+  "soa_footer_main.cookies": "Файли cookie",
+  "soa_footer_main.accessibility": "Доступність",
+  "soa_footer_main.support": "Підтримка та Допомога",
+  "soa_footer_main.allRightReserved": "Всі права захищено"
 }

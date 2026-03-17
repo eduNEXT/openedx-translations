@@ -36,5 +36,6 @@
   "header.label.courseOutline": "Vissza a kurzus vázlatához a Studio-ban",
   "header.label.search.nav": "Tartalom keresése",
   "header.menu.soa.blog.label": "Blog",
-  "header.menu.soa.whoWeAre.label": "Kik vagyunk"
+  "header.menu.soa.whoWeAre.label": "Kik vagyunk",
+  "header.menu.soa.search.label": "Keresés"
 }

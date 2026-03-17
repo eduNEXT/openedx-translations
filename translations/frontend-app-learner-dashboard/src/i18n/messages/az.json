@@ -142,5 +142,12 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} sizin kurs krediti üçün istəyinizi qəbul etmədi. Daha ətraflı məlumat üçün birbaşa {linkToProviderSite} əlaqə saxlayın",
   "learner-dash.courseCard.banners.credit.requestCredit": "Kreditə müraciət edin",
   "learner-dash.courseCard.banners.credit.viewCredit": "Kreditə baxın",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Ətraflı məlumata baxın"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Ətraflı məlumata baxın",
+  "soa_footer_main.generalConditions": "Ümumi şərtlər",
+  "soa_footer_main.legalNotice": "Hüquqi bildiriş",
+  "soa_footer_main.privacy": "Məxfilik",
+  "soa_footer_main.cookies": "Kukilər",
+  "soa_footer_main.accessibility": "Əlçatanlıq",
+  "soa_footer_main.support": "Dəstək və Yardım",
+  "soa_footer_main.allRightReserved": "Bütün hüquqlar qorunur"
 }

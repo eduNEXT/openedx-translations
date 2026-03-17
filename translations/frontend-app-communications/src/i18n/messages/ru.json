@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Отправить",
   "bulk.email.scheduled.emails.table.subject": "Тема",
   "bulk.email.scheduled.emails.table.Author": "Автор",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Вы удаляете электронное письмо, которое планируется отправить на {date} . Электронное письмо не будет отправлено, а планирование отменено. Вы уверены?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Вы удаляете электронное письмо, которое планируется отправить на {date} . Электронное письмо не будет отправлено, а планирование отменено. Вы уверены?",
+  "soa_footer_main.generalConditions": "Общие условия",
+  "soa_footer_main.legalNotice": "Юридическое уведомление",
+  "soa_footer_main.privacy": "Конфиденциальность",
+  "soa_footer_main.cookies": "Куки",
+  "soa_footer_main.accessibility": "Доступность",
+  "soa_footer_main.support": "Поддержка и Помощь",
+  "soa_footer_main.allRightReserved": "Все права защищены"
 }

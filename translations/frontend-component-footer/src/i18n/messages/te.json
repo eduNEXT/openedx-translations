@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "సేవా నిబంధనలు",
   "authoring.footer.privacyPolicy.link.label": "గోప్యతా విధానం",
   "authoring.footer.accessibilityRequest.link.label": "యాక్సెసిబిలిటీ వసతి అభ్యర్థన",
-  "authoring.footer.trademark.message": "edX మరియు ఓపెన్ edX, మరియు edX మరియు ఓపెన్ edX లోగోలు రిజిస్టర్డ్ ట్రేడ్‌మార్క్‌లు"
+  "authoring.footer.trademark.message": "edX మరియు ఓపెన్ edX, మరియు edX మరియు ఓపెన్ edX లోగోలు రిజిస్టర్డ్ ట్రేడ్‌మార్క్‌లు",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

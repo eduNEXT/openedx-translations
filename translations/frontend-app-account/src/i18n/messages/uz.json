@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "Sizga kamerasi bo'lgan qurilma kerak. Agar siz kamerangizga kirish uchun brauzer soʻrovini olsangiz, {allow} tugmasini bosganingizga ishonch hosil qiling.",
   "id.verification.account.name.summary.alert": "Accountgiz sozlamalari {managerTitle} tomonidan boshqariladi. Surat identifikatoringizdagi ism Accountgizdagi nomga mos kelmasa, yordam uchun {profileDataManager} yoki {support} administratoringizga murojaat qiling.",
   "idv.submission.alert.error": "Shaxsni tasdiqlovchi hujjatni topshirishga urinayotganda texnik xatolikka duch keldik. Bu vaqtinchalik muammo boʻlishi mumkin, shuning uchun bir necha daqiqadan soʻng qayta urinib koʻring. Muammo davom etsa, yordam uchun {support_link} saytiga kiring.",
-  "id.verification.account.name.edit": "Tahrirlash {sr}"
+  "id.verification.account.name.edit": "Tahrirlash {sr}",
+  "soa_footer_main.generalConditions": "Umumiy shartlar",
+  "soa_footer_main.legalNotice": "Yuridik bildirishnoma",
+  "soa_footer_main.privacy": "Maxfiylik",
+  "soa_footer_main.cookies": "Kukilar",
+  "soa_footer_main.accessibility": "Imkoniyat",
+  "soa_footer_main.support": "Qo'llab-quvvatlash va Yordam",
+  "soa_footer_main.allRightReserved": "Barcha huquqlar himoyalangan"
 }

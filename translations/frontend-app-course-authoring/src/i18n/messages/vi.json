@@ -1735,5 +1735,12 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Không thể áp dụng dung sai cho phạm vi câu trả lời",
   "problemEditor.settings.tolerance.type.percent": "Tỷ lệ phần trăm",
   "problemEditor.settings.tolerance.type.number": "Con số",
-  "problemEditor.settings.tolerance.type.none": "Không có"
+  "problemEditor.settings.tolerance.type.none": "Không có",
+  "soa_footer_main.generalConditions": "Điều kiện chung",
+  "soa_footer_main.legalNotice": "Thông báo pháp lý",
+  "soa_footer_main.privacy": "Quyền riêng tư",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "Khả năng tiếp cận",
+  "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
 }

@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "సర్దుబాటు చేసిన గ్రేడ్",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "తేదీ",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "గ్రేడర్",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "కారణం"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "కారణం",
+  "soa_footer_main.generalConditions": "సాధారణ నిబంధనలు",
+  "soa_footer_main.legalNotice": "చట్టపరమైన నోటీసు",
+  "soa_footer_main.privacy": "గోప్యత",
+  "soa_footer_main.cookies": "కుకీలు",
+  "soa_footer_main.accessibility": "అందుబాటు",
+  "soa_footer_main.support": "మద్దతు మరియు సహాయం",
+  "soa_footer_main.allRightReserved": ""
 }

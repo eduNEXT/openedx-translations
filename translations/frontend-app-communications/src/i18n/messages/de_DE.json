@@ -87,5 +87,12 @@
   "bulk.email.scheduled.emails.table.sendTo": "Senden an",
   "bulk.email.scheduled.emails.table.subject": "Betreff",
   "bulk.email.scheduled.emails.table.Author": "Autor",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Sie löschen eine E-Mail, deren Versand an {date} geplant ist. Die E-Mail wird nicht gesendet und die Planung abgebrochen. Bist du sicher?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Sie löschen eine E-Mail, deren Versand an {date} geplant ist. Die E-Mail wird nicht gesendet und die Planung abgebrochen. Bist du sicher?",
+  "soa_footer_main.generalConditions": "Allgemeine Bedingungen",
+  "soa_footer_main.legalNotice": "Rechtlicher Hinweis",
+  "soa_footer_main.privacy": "Datenschutz",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Barrierefreiheit",
+  "soa_footer_main.support": "Support und Hilfe",
+  "soa_footer_main.allRightReserved": "Alle Rechte vorbehalten"
 }

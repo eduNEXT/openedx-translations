@@ -329,5 +329,12 @@
   "id.verification.requirements.card.device.text": "شما به دستگاهی نیاز دارید که دوربین داشته باشد. اگر درخواست مرورگر برای دسترسی به دوربین خود دریافت کردید، لطفاً روی {allow} کلیک کنید.",
   "id.verification.account.name.summary.alert": "تنظیمات حساب‌کاربری شما توسط {managerTitle} مدیریت می‌شود. اگر نام روی کارت شناسایی عکس‌دار شما با نام موجود در حساب‌کاربری شما مطابقت ندارد، لطفاً برای راهنمایی با سرپرست {profileDataManager} یا {support} تماس بگیرید.",
   "idv.submission.alert.error": "هنگام تلاش برای ارسال تأیید هویت با یک خطای فنی مواجه شدیم. این ممکن است یک مشکل موقتی باشد، پس لطفاً چنددقیقه دیگر دوباره امتحان کنید. اگر مشکل همچنان ادامه داشت، لطفاً برای راهنمایی به {support_link} بروید.",
-  "id.verification.account.name.edit": "ویرایش {sr} "
+  "id.verification.account.name.edit": "ویرایش {sr} ",
+  "soa_footer_main.generalConditions": "شرایط عمومی",
+  "soa_footer_main.legalNotice": "اطلاعیه قانونی",
+  "soa_footer_main.privacy": "حریم خصوصی",
+  "soa_footer_main.cookies": "کوکی‌ها",
+  "soa_footer_main.accessibility": "دسترس‌پذیری",
+  "soa_footer_main.support": "پشتیبانی و کمک",
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
 }

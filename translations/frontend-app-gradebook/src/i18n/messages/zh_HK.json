@@ -73,5 +73,12 @@
   "gradebook.GradesView.EditModal.Overrides.adjustedGradeHeader": "調整後的等級",
   "gradebook.GradesView.EditModal.Overrides.dateHeader": "日期",
   "gradebook.GradesView.EditModal.Overrides.graderHeader": "評分者",
-  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "原因"
+  "gradebook.GradesView.EditModal.Overrides.reasonHeader": "原因",
+  "soa_footer_main.generalConditions": "一般条款",
+  "soa_footer_main.legalNotice": "法律声明",
+  "soa_footer_main.privacy": "私隱",
+  "soa_footer_main.cookies": "Cookie",
+  "soa_footer_main.accessibility": "無障礙",
+  "soa_footer_main.support": "支援與幫助",
+  "soa_footer_main.allRightReserved": "版權所有"
 }

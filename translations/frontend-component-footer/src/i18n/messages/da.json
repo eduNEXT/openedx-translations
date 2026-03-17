@@ -39,5 +39,12 @@
   "authoring.footer.termsOfService.link.label": "",
   "authoring.footer.privacyPolicy.link.label": "",
   "authoring.footer.accessibilityRequest.link.label": "Anmodning om tilgængelighed",
-  "authoring.footer.trademark.message": "edX og Open edX, og edX- og Open edX-logoerne er registrerede varemærker tilhørende"
+  "authoring.footer.trademark.message": "edX og Open edX, og edX- og Open edX-logoerne er registrerede varemærker tilhørende",
+  "soa_footer_main.generalConditions": "Generelle betingelser",
+  "soa_footer_main.legalNotice": "Juridisk meddelelse",
+  "soa_footer_main.privacy": "Privatliv",
+  "soa_footer_main.cookies": "Cookies",
+  "soa_footer_main.accessibility": "Tilgængelighed",
+  "soa_footer_main.support": "Support og Hjælp",
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
 }
