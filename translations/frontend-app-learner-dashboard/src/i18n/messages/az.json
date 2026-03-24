@@ -149,5 +149,6 @@
   "soa_footer_main.cookies": "Kukilər",
   "soa_footer_main.accessibility": "Əlçatanlıq",
   "soa_footer_main.support": "Dəstək və Yardım",
-  "soa_footer_main.allRightReserved": "Bütün hüquqlar qorunur"
+  "soa_footer_main.allRightReserved": "Bütün hüquqlar qorunur",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

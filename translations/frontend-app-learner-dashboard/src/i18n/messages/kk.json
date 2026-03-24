@@ -143,5 +143,6 @@
   "learner-dash.courseCard.banners.credit.requestCredit": "Кредит сұрау",
   "learner-dash.courseCard.banners.credit.viewCredit": "Кредитті көру",
   "learner-dash.courseCard.banners.credit.viewDetails": "Мәліметтерді көру",
-  "soa_footer_main.allRightReserved": ""
+  "soa_footer_main.allRightReserved": "",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

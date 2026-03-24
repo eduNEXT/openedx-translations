@@ -336,5 +336,6 @@
   "soa_footer_main.cookies": "Cookie",
   "soa_footer_main.accessibility": "アクセシビリティ",
   "soa_footer_main.support": "サポートとヘルプ",
-  "soa_footer_main.allRightReserved": "すべての権利を保有"
+  "soa_footer_main.allRightReserved": "すべての権利を保有",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

@@ -216,5 +216,6 @@
   "soa_footer_main.cookies": "עוגיות",
   "soa_footer_main.accessibility": "נגישות",
   "soa_footer_main.support": "תמיכה ועזרה",
-  "soa_footer_main.allRightReserved": "כל הזכויות שמורות"
+  "soa_footer_main.allRightReserved": "כל הזכויות שמורות",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

@@ -149,5 +149,6 @@
   "soa_footer_main.cookies": "Cookie-uri",
   "soa_footer_main.accessibility": "Accesibilitate",
   "soa_footer_main.support": "Suport și Ajutor",
-  "soa_footer_main.allRightReserved": ""
+  "soa_footer_main.allRightReserved": "",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

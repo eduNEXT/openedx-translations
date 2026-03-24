@@ -35,5 +35,6 @@
   "header.label.courseOutline": "Επιστροφή στο σχεδιάγραμμα μαθημάτων στο Στούντιο",
   "header.menu.soa.blog.label": "Ιστολόγιο",
   "header.menu.soa.whoWeAre.label": "Ποιοι είμαστε",
-  "header.menu.soa.search.label": "Αναζήτηση"
+  "header.menu.soa.search.label": "Αναζήτηση",
+  "header.menu.soa.myLearning.label": "Η μάθησή μου"
 }

@@ -35,5 +35,6 @@
   "header.label.courseOutline": "Visualizar resumo do curso no Studio",
   "header.menu.soa.blog.label": "Blog",
   "header.menu.soa.whoWeAre.label": "Quem somos",
-  "header.menu.soa.search.label": "Buscar"
+  "header.menu.soa.search.label": "Buscar",
+  "header.menu.soa.myLearning.label": "Meu aprendizado"
 }

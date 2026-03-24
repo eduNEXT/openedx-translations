@@ -35,5 +35,6 @@
   "header.label.courseOutline": "Вернуться к плану курса в Студии",
   "header.menu.soa.blog.label": "Блог",
   "header.menu.soa.whoWeAre.label": "Кто мы",
-  "header.menu.soa.search.label": "Поиск"
+  "header.menu.soa.search.label": "Поиск",
+  "header.menu.soa.myLearning.label": "Моё обучение"
 }

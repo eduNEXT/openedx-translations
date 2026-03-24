@@ -149,5 +149,6 @@
   "soa_footer_main.cookies": "Koekies",
   "soa_footer_main.accessibility": "Toeganklikheid",
   "soa_footer_main.support": "Ondersteuning en Hulp",
-  "soa_footer_main.allRightReserved": "Alle regte voorbehou"
+  "soa_footer_main.allRightReserved": "Alle regte voorbehou",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

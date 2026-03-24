@@ -1735,5 +1735,6 @@
   "problemEditor.settings.tolerance.answerrangewarning": "",
   "problemEditor.settings.tolerance.type.percent": "Faiz",
   "problemEditor.settings.tolerance.type.number": "Rəqəm",
-  "problemEditor.settings.tolerance.type.none": "Heç biri"
+  "problemEditor.settings.tolerance.type.none": "Heç biri",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

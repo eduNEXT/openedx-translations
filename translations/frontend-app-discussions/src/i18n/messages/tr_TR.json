@@ -223,5 +223,6 @@
   "soa_footer_main.cookies": "Çerezler",
   "soa_footer_main.accessibility": "Erişilebilirlik",
   "soa_footer_main.support": "Destek ve Yardım",
-  "soa_footer_main.allRightReserved": "Tüm hakları saklıdır"
+  "soa_footer_main.allRightReserved": "Tüm hakları saklıdır",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

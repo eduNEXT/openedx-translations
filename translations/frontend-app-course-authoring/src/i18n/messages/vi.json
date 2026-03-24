@@ -1742,5 +1742,6 @@
   "soa_footer_main.cookies": "Cookie",
   "soa_footer_main.accessibility": "Khả năng tiếp cận",
   "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
-  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền"
+  "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

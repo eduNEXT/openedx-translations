@@ -184,5 +184,6 @@
   "soa_footer_main.cookies": "కుకీలు",
   "soa_footer_main.accessibility": "అందుబాటు",
   "soa_footer_main.support": "మద్దతు మరియు సహాయం",
-  "soa_footer_main.allRightReserved": ""
+  "soa_footer_main.allRightReserved": "",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

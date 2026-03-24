@@ -1742,5 +1742,6 @@
   "soa_footer_main.cookies": "Sīkdatnes",
   "soa_footer_main.accessibility": "Pieejamība",
   "soa_footer_main.support": "Atbalsts un Palīdzība",
-  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas"
+  "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

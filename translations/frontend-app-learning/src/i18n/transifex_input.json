@@ -487,5 +487,6 @@
   "soa_footer_main.cookies": "Cookies",
   "soa_footer_main.accessibility": "Accessibility",
   "soa_footer_main.support": "Support and Help",
-  "soa_footer_main.allRightReserved": "All rights reserved"
+  "soa_footer_main.allRightReserved": "All rights reserved",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

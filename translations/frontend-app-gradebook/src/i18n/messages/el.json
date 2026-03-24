@@ -80,5 +80,6 @@
   "soa_footer_main.cookies": "Cookies",
   "soa_footer_main.accessibility": "Προσβασιμότητα",
   "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
-  "soa_footer_main.allRightReserved": ""
+  "soa_footer_main.allRightReserved": "",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

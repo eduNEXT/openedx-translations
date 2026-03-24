@@ -474,5 +474,6 @@
   "soa_footer_main.cookies": "คุกกี้",
   "soa_footer_main.accessibility": "การเข้าถึง",
   "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
-  "soa_footer_main.allRightReserved": ""
+  "soa_footer_main.allRightReserved": "",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

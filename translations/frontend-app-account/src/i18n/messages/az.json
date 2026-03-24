@@ -329,5 +329,6 @@
   "id.verification.requirements.card.device.text": "Kamera olan bir cihaz lazımdır. Brauzerinizdən kameranıza giriş üçün sorğu alsanız, {allow} düyməsini basdığınızdan əmin olun.",
   "id.verification.account.name.summary.alert": "Hesab parametrləriniz {managerTitle} tərəfindən idarə olunur. Əgər şəxsiyyət vəsiqənizdəki ad hesabınızdakı adla uyğun gəlmirsə, kömək üçün {profileDataManager} administratorunuzla və ya {support} ilə əlaqə saxlayın.",
   "idv.submission.alert.error": "ID təsdiqini təqdim etməyə çalışarkən texniki bir səhv baş verdi. Bu müvəqqəti bir problem ola bilər, ona görə də bir neçə dəqiqədən sonra yenidən cəhd edin. Problem davam edərsə, kömək üçün {support_link} keçidinə daxil olun.",
-  "id.verification.account.name.edit": "Redaktə edin {sr}"
+  "id.verification.account.name.edit": "Redaktə edin {sr}",
+  "header.menu.soa.myLearning.label": "My Learning"
 }
