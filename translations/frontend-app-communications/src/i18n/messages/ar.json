@@ -94,5 +94,6 @@
   "soa_footer_main.cookies": "ملفات تعريف الارتباط",
   "soa_footer_main.accessibility": "إمكانية الوصول",
   "soa_footer_main.support": "الدعم والمساعدة",
-  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة"
+  "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

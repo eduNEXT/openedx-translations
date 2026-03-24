@@ -149,5 +149,6 @@
   "soa_footer_main.cookies": "کوکی‌ها",
   "soa_footer_main.accessibility": "دسترس‌پذیری",
   "soa_footer_main.support": "پشتیبانی و کمک",
-  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است"
+  "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

@@ -37,5 +37,6 @@
   "header.label.search.nav": "Search content",
   "header.menu.soa.blog.label": "Blog",
   "header.menu.soa.whoWeAre.label": "Who we are",
-  "header.menu.soa.search.label": "Search"
+  "header.menu.soa.search.label": "Search",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

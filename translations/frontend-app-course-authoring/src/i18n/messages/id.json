@@ -1357,5 +1357,6 @@
   "soa_footer_main.cookies": "Cookies",
   "soa_footer_main.accessibility": "Aksesibilitas",
   "soa_footer_main.support": "Dukungan dan Bantuan",
-  "soa_footer_main.allRightReserved": "Seluruh hak cipta"
+  "soa_footer_main.allRightReserved": "Seluruh hak cipta",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

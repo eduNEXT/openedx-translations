@@ -159,5 +159,6 @@
   "soa_footer_main.cookies": "Cookies",
   "soa_footer_main.accessibility": "Tilgængelighed",
   "soa_footer_main.support": "Support og Hjælp",
-  "soa_footer_main.allRightReserved": "Eftertryk forbudt"
+  "soa_footer_main.allRightReserved": "Eftertryk forbudt",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

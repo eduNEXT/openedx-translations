@@ -1736,5 +1736,6 @@
   "problemEditor.settings.tolerance.type.percent": "",
   "problemEditor.settings.tolerance.type.number": "",
   "problemEditor.settings.tolerance.type.none": "",
-  "soa_footer_main.allRightReserved": ""
+  "soa_footer_main.allRightReserved": "",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

@@ -80,5 +80,6 @@
   "soa_footer_main.cookies": "Файли cookie",
   "soa_footer_main.accessibility": "Доступність",
   "soa_footer_main.support": "Підтримка та Допомога",
-  "soa_footer_main.allRightReserved": "Всі права захищено"
+  "soa_footer_main.allRightReserved": "Всі права захищено",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

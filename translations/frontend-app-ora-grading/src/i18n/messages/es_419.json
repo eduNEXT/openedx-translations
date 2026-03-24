@@ -107,5 +107,6 @@
   "soa_footer_main.cookies": "Cookies",
   "soa_footer_main.accessibility": "Accesibilidad",
   "soa_footer_main.support": "Soporte y Ayuda",
-  "soa_footer_main.allRightReserved": "Todos los derechos reservados."
+  "soa_footer_main.allRightReserved": "Todos los derechos reservados.",
+  "header.menu.soa.myLearning.label": "Mi aprendizaje"
 }

@@ -487,5 +487,6 @@
   "soa_footer_main.cookies": "Sütik",
   "soa_footer_main.accessibility": "Akadálymentesség",
   "soa_footer_main.support": "Támogatás és Segítség",
-  "soa_footer_main.allRightReserved": "Minden jog fenntartva"
+  "soa_footer_main.allRightReserved": "Minden jog fenntartva",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

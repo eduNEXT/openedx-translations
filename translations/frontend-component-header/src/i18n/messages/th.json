@@ -35,5 +35,6 @@
   "header.label.courseOutline": "กลับไปที่โครงร่างหลักสูตรใน Studio",
   "header.menu.soa.blog.label": "บล็อก",
   "header.menu.soa.whoWeAre.label": "เราเป็นใคร",
-  "header.menu.soa.search.label": "ค้นหา"
+  "header.menu.soa.search.label": "ค้นหา",
+  "header.menu.soa.myLearning.label": "การเรียนรู้ของฉัน"
 }

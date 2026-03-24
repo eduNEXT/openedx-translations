@@ -35,5 +35,6 @@
   "header.label.courseOutline": "Tilbage til kursusoversigt i Studio",
   "header.menu.soa.blog.label": "Blog",
   "header.menu.soa.whoWeAre.label": "Hvem er vi",
-  "header.menu.soa.search.label": "Søg"
+  "header.menu.soa.search.label": "Søg",
+  "header.menu.soa.myLearning.label": "Min læring"
 }

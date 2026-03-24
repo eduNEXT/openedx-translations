@@ -27549,3 +27549,7 @@ msgstr "Accesibilidad"
 #: lms/templates/footer.html:225
 msgid "Support and Help"
 msgstr "Soporte y Ayuda"
+
+#: lms/templates/header/header.html:140
+msgid "My Learning"
+msgstr "Mi aprendizaje"

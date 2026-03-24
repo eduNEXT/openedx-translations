@@ -184,5 +184,6 @@
   "soa_footer_main.cookies": "Куки",
   "soa_footer_main.accessibility": "Доступность",
   "soa_footer_main.support": "Поддержка и Помощь",
-  "soa_footer_main.allRightReserved": "Все права защищены"
+  "soa_footer_main.allRightReserved": "Все права защищены",
+  "header.menu.soa.myLearning.label": "My Learning"
 }

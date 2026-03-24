@@ -107,5 +107,6 @@
   "soa_footer_main.cookies": "Cookies",
   "soa_footer_main.accessibility": "Tillgänglighet",
   "soa_footer_main.support": "Support och Hjälp",
-  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna"
+  "soa_footer_main.allRightReserved": "Alla rättigheter förbehållna",
+  "header.menu.soa.myLearning.label": "My Learning"
 }
