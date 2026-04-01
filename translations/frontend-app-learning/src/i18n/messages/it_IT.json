@@ -65,7 +65,7 @@
   "learning.streakcelebration.factoida": "Utenti che apprendono {streak_length} giorni di seguito {bolded_section} rispetto a quelli che non lo fanno. ",
   "learning.streakcelebration.factoidb": "Utenti che apprendono {streak_length} giorni di seguito {bolded_section} rispetto a quelli che non lo fanno. ",
   "learning.streakCelebration.streakCelebrationCouponEndDateMessage": "Termina {date}.",
-  "progress.certificateStatus.unverifiedBody": "Per generare un certificato, è necessario completare la verifica dell'identità. {idVerificationSupportLink}.",
+  "progress.certificateStatus.unverifiedBody": "Per generare un certificato, è necessario completare la verifica dell'identità.",
   "progress.certificateStatus.downloadableBody": "",
   "progress.certificateStatus.notAvailable.endDate": "",
   "unit.bookmark.button.add.bookmark": "Aggiungi ai preferiti",

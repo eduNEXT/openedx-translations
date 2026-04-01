@@ -65,7 +65,7 @@
   "learning.streakcelebration.factoida": "连续学习 {streak_length} 天 {bolded_section} 的用户比不学习的学员要多。",
   "learning.streakcelebration.factoidb": "连续学习 {streak_length} 天 {bolded_section} 的用户与不学习的学员对比。",
   "learning.streakCelebration.streakCelebrationCouponEndDateMessage": "结束 {date}。",
-  "progress.certificateStatus.unverifiedBody": "为了生成证书，您必须完成身份验证。 {idVerificationSupportLink}。",
+  "progress.certificateStatus.unverifiedBody": "为了生成证书，您必须完成身份验证。",
   "progress.certificateStatus.downloadableBody": "",
   "progress.certificateStatus.notAvailable.endDate": "",
   "unit.bookmark.button.add.bookmark": "收藏此页",
