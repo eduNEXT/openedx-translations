@@ -475,5 +475,8 @@
   "soa_footer_main.accessibility": "Upatikanaji",
   "soa_footer_main.support": "Msaada na Usaidizi",
   "soa_footer_main.allRightReserved": "",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "Hitilafu imetokea wakati wa kuthibitisha DNI.",
+  "soa.certificate.dni.error.retry": "Jaribu tena",
+  "soa.certificate.dni.loading": "Inathibitisha DNI"
 }

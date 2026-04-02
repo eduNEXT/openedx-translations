@@ -27504,3 +27504,39 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:13
 msgid "Opens in a new tab"
 msgstr "Se abre en una nueva pestaña"
+
+#: lms/templates/certificates/valid.html
+msgid "Training certificate"
+msgstr "Certificado de formación"
+
+#: lms/templates/certificates/valid.html
+msgid "Santander Open Academy certifies that"
+msgstr "Santander Open Academy certifica que"
+
+#: lms/templates/certificates/valid.html
+msgid "Has successfully completed the course"
+msgstr "Ha completado con éxito el curso"
+
+#: lms/templates/certificates/valid.html
+msgid "Course Completed on"
+msgstr "Curso completado el"
+
+#: lms/templates/certificates/valid.html
+msgid "Hours"
+msgstr "Horas"
+
+#: lms/templates/certificates/valid.html
+msgid "Modules"
+msgstr "Módulos"
+
+#: lms/templates/certificates/valid.html
+msgid "Self-assessment"
+msgstr "Autoevaluación"
+
+#: lms/templates/certificates/valid.html
+msgid "Course content created by"
+msgstr "Contenido del curso creado por"
+
+#: lms/templates/certificates/valid.html
+msgid "Serial number"
+msgstr "Número de serie"

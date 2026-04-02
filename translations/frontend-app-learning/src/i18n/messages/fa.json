@@ -131,5 +131,8 @@
   "soa_footer_main.accessibility": "دسترس‌پذیری",
   "soa_footer_main.support": "پشتیبانی و کمک",
   "soa_footer_main.allRightReserved": "تمامی حقوق محفوظ است",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "خطایی در اعتبارسنجی DNI رخ داد.",
+  "soa.certificate.dni.error.retry": "تلاش مجدد",
+  "soa.certificate.dni.loading": "در حال اعتبارسنجی DNI"
 }

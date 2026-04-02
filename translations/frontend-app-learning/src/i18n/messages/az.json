@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "Əlçatanlıq",
   "soa_footer_main.support": "Dəstək və Yardım",
   "soa_footer_main.allRightReserved": "Bütün hüquqlar qorunur",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "DNI yoxlanışı zamanı xəta baş verdi.",
+  "soa.certificate.dni.error.retry": "Yenidən cəhd edin",
+  "soa.certificate.dni.loading": "DNI yoxlanılır"
 }

@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "Toeganklikheid",
   "soa_footer_main.support": "Ondersteuning en Hulp",
   "soa_footer_main.allRightReserved": "Alle regte voorbehou",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "'n Fout het voorgekom tydens die validering van die DNI.",
+  "soa.certificate.dni.error.retry": "Probeer weer",
+  "soa.certificate.dni.loading": "Besig om DNI te valideer"
 }

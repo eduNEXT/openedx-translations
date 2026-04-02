@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "Accesibilidad",
   "soa_footer_main.support": "Soporte y Ayuda",
   "soa_footer_main.allRightReserved": "Todos los derechos reservados.",
-  "header.menu.soa.myLearning.label": "Mi aprendizaje"
+  "header.menu.soa.myLearning.label": "Mi aprendizaje",
+  "soa.certificate.dni.error": "Ha ocurrido un error en la validación del DNI.",
+  "soa.certificate.dni.error.retry": "Reintentar validación",
+  "soa.certificate.dni.loading": "Validando DNI"
 }

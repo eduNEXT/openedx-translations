@@ -131,5 +131,8 @@
   "soa_footer_main.accessibility": "无障碍",
   "soa_footer_main.support": "支持与帮助",
   "soa_footer_main.allRightReserved": "保留所有权利",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "验证DNI时出错。",
+  "soa.certificate.dni.error.retry": "重试",
+  "soa.certificate.dni.loading": "正在验证DNI"
 }

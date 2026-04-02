@@ -475,5 +475,8 @@
   "soa_footer_main.accessibility": "అందుబాటు",
   "soa_footer_main.support": "మద్దతు మరియు సహాయం",
   "soa_footer_main.allRightReserved": "",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "DNI ధృవీకరణలో లోపం సంభవించింది.",
+  "soa.certificate.dni.error.retry": "మళ్ళీ ప్రయత్నించండి",
+  "soa.certificate.dni.loading": "DNI ధృవీకరిస్తోంది"
 }

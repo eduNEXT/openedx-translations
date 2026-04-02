@@ -131,5 +131,8 @@
   "soa_footer_main.accessibility": "Pieejamība",
   "soa_footer_main.support": "Atbalsts un Palīdzība",
   "soa_footer_main.allRightReserved": "Visas tiesības aizsargātas",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "DNI validācijas laikā radās kļūda.",
+  "soa.certificate.dni.error.retry": "Mēģināt vēlreiz",
+  "soa.certificate.dni.loading": "DNI validācija"
 }

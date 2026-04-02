@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "ལག་ལེན་འཐབ་ཐུབ་པ།",
   "soa_footer_main.support": "རོགས་རམ་དང་གདུང་སེམས།",
   "soa_footer_main.allRightReserved": "",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "DNI བདེན་དཔང་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།",
+  "soa.certificate.dni.error.retry": "བསྐྱར་དུ་ཚོད་ལྟ་བྱེད།",
+  "soa.certificate.dni.loading": "DNI བདེན་དཔང་བྱེད་བཞིན་པ།"
 }

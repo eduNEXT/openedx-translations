@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "Accesibilitate",
   "soa_footer_main.support": "Suport și Ajutor",
   "soa_footer_main.allRightReserved": "",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "A apărut o eroare la validarea DNI.",
+  "soa.certificate.dni.error.retry": "Reîncearcă",
+  "soa.certificate.dni.loading": "Se validează DNI"
 }
