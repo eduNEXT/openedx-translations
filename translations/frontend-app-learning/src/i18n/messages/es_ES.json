@@ -501,5 +501,8 @@
   "courseOutline.tray.title": "Esquema del curso",
   "courseOutline.completedUnit": "Unidad completada",
   "courseOutline.incompleteUnit": "Unidad incompleta",
-  "discussions.sidebar.open.button": "Mostrar bandeja de discusiones"
+  "discussions.sidebar.open.button": "Mostrar bandeja de discusiones",
+  "soa.certificate.dni.error": "Ha ocurrido un error en la validación del DNI.",
+  "soa.certificate.dni.error.retry": "Reintentar validación",
+  "soa.certificate.dni.loading": "Validando DNI"
 }

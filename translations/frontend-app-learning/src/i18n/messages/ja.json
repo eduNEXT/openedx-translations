@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "アクセシビリティ",
   "soa_footer_main.support": "サポートとヘルプ",
   "soa_footer_main.allRightReserved": "すべての権利を保有",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "DNIの検証中にエラーが発生しました。",
+  "soa.certificate.dni.error.retry": "再試行",
+  "soa.certificate.dni.loading": "DNIを検証中"
 }

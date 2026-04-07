@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "अभिगम्यता",
   "soa_footer_main.support": "सहायता और मदद",
   "soa_footer_main.allRightReserved": "सभी अधिकार सुरक्षित",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "DNI सत्यापन में त्रुटि हुई।",
+  "soa.certificate.dni.error.retry": "पुनः प्रयास करें",
+  "soa.certificate.dni.loading": "DNI सत्यापित हो रहा है"
 }

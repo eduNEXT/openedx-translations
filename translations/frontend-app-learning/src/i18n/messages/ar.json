@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "إمكانية الوصول",
   "soa_footer_main.support": "الدعم والمساعدة",
   "soa_footer_main.allRightReserved": "جميع الحقوق محفوظة",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "حدث خطأ أثناء التحقق من رقم الهوية.",
+  "soa.certificate.dni.error.retry": "إعادة المحاولة",
+  "soa.certificate.dni.loading": "جارٍ التحقق من رقم الهوية"
 }

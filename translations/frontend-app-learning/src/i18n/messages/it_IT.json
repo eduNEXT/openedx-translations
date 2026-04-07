@@ -131,5 +131,8 @@
   "soa_footer_main.accessibility": "Accessibilità",
   "soa_footer_main.support": "Supporto e Aiuto",
   "soa_footer_main.allRightReserved": "Tutti i diritti riservati",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "Si è verificato un errore durante la convalida del DNI.",
+  "soa.certificate.dni.error.retry": "Riprova",
+  "soa.certificate.dni.loading": "Convalida DNI in corso"
 }

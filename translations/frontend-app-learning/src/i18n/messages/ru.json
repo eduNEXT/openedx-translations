@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "Доступность",
   "soa_footer_main.support": "Поддержка и Помощь",
   "soa_footer_main.allRightReserved": "Все права защищены",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "Произошла ошибка при проверке DNI.",
+  "soa.certificate.dni.error.retry": "Повторить попытку",
+  "soa.certificate.dni.loading": "Проверка DNI"
 }

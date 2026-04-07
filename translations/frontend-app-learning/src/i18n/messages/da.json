@@ -475,5 +475,8 @@
   "soa_footer_main.accessibility": "Tilgængelighed",
   "soa_footer_main.support": "Support og Hjælp",
   "soa_footer_main.allRightReserved": "Eftertryk forbudt",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "Der opstod en fejl under validering af DNI.",
+  "soa.certificate.dni.error.retry": "Prøv igen",
+  "soa.certificate.dni.loading": "Validerer DNI"
 }

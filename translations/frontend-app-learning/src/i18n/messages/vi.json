@@ -131,5 +131,8 @@
   "soa_footer_main.accessibility": "Khả năng tiếp cận",
   "soa_footer_main.support": "Hỗ trợ và Trợ giúp",
   "soa_footer_main.allRightReserved": "Đã đăng ký Bản quyền",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "Đã xảy ra lỗi khi xác thực DNI.",
+  "soa.certificate.dni.error.retry": "Thử lại",
+  "soa.certificate.dni.loading": "Đang xác thực DNI"
 }

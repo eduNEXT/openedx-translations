@@ -13545,3 +13545,39 @@ msgstr "Acessibilidade"
 #: lms/templates/footer.html:225
 msgid "Support and Help"
 msgstr "Suporte e Ajuda"
+
+#: lms/templates/certificates/valid.html
+msgid "Training certificate"
+msgstr "Certificado de formação"
+
+#: lms/templates/certificates/valid.html
+msgid "Santander Open Academy certifies that"
+msgstr "Santander Open Academy certifica que"
+
+#: lms/templates/certificates/valid.html
+msgid "Has successfully completed the course"
+msgstr "Concluiu com sucesso o curso"
+
+#: lms/templates/certificates/valid.html
+msgid "Course Completed on"
+msgstr "Curso concluído em"
+
+#: lms/templates/certificates/valid.html
+msgid "Hours"
+msgstr "Horas"
+
+#: lms/templates/certificates/valid.html
+msgid "Modules"
+msgstr "Módulos"
+
+#: lms/templates/certificates/valid.html
+msgid "Self-assessment"
+msgstr "Autoavaliação"
+
+#: lms/templates/certificates/valid.html
+msgid "Course content created by"
+msgstr "Conteúdo do curso criado por"
+
+#: lms/templates/certificates/valid.html
+msgid "Serial number"
+msgstr "Número de série"

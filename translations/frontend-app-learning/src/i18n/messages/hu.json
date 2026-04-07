@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "Akadálymentesség",
   "soa_footer_main.support": "Támogatás és Segítség",
   "soa_footer_main.allRightReserved": "Minden jog fenntartva",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "Hiba történt a DNI érvényesítése során.",
+  "soa.certificate.dni.error.retry": "Újrapróbálás",
+  "soa.certificate.dni.loading": "DNI érvényesítése"
 }

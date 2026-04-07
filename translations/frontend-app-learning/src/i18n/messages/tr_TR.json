@@ -488,5 +488,8 @@
   "soa_footer_main.accessibility": "Erişilebilirlik",
   "soa_footer_main.support": "Destek ve Yardım",
   "soa_footer_main.allRightReserved": "Tüm hakları saklıdır",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "DNI doğrulaması sırasında bir hata oluştu.",
+  "soa.certificate.dni.error.retry": "Tekrar dene",
+  "soa.certificate.dni.loading": "DNI doğrulanıyor"
 }

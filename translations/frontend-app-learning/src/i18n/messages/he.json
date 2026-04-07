@@ -475,5 +475,8 @@
   "soa_footer_main.accessibility": "נגישות",
   "soa_footer_main.support": "תמיכה ועזרה",
   "soa_footer_main.allRightReserved": "כל הזכויות שמורות",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "אירעה שגיאה באימות ה-DNI.",
+  "soa.certificate.dni.error.retry": "נסה שוב",
+  "soa.certificate.dni.loading": "מאמת DNI"
 }

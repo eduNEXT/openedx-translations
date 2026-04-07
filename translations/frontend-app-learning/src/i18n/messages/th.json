@@ -475,5 +475,8 @@
   "soa_footer_main.accessibility": "การเข้าถึง",
   "soa_footer_main.support": "การสนับสนุนและความช่วยเหลือ",
   "soa_footer_main.allRightReserved": "",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "เกิดข้อผิดพลาดในการตรวจสอบ DNI",
+  "soa.certificate.dni.error.retry": "ลองอีกครั้ง",
+  "soa.certificate.dni.loading": "กำลังตรวจสอบ DNI"
 }

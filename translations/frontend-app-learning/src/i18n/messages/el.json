@@ -475,5 +475,8 @@
   "soa_footer_main.accessibility": "Προσβασιμότητα",
   "soa_footer_main.support": "Υποστήριξη και Βοήθεια",
   "soa_footer_main.allRightReserved": "",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "soa.certificate.dni.error": "Παρουσιάστηκε σφάλμα κατά την επαλήθευση του DNI.",
+  "soa.certificate.dni.error.retry": "Επανάληψη",
+  "soa.certificate.dni.loading": "Επαλήθευση DNI"
 }
