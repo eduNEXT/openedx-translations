@@ -535,6 +535,8 @@ msgid "Name"
 msgstr "Nome"
 
 #: cms/djangoapps/contentstore/video_storage_handlers.py:517
+#: lms/templates/course.html:63
+#: lms/templates/courseware/course_about.html:139
 msgid "Duration"
 msgstr "Duração"
 
@@ -699,6 +701,9 @@ msgstr "Problema em branco"
 
 #: cms/djangoapps/contentstore/views/component.py:384
 #: xmodule/video_block/video_block.py:152
+#: lms/templates/course.html:49
+#: lms/templates/course.html:60
+#: lms/templates/courseware/course_about.html:158
 msgid "Advanced"
 msgstr "Avançado"
 
@@ -15003,6 +15008,7 @@ msgstr "A sua pesquisa não encontrou nenhum resultado"
 #: lms/templates/navigation/navbar-authenticated.html:42
 #: lms/templates/static_templates/help.html:5
 #: lms/templates/static_templates/help.html:10
+#: lms/templates/footer.html:29
 msgid "Help"
 msgstr "Ajuda"
 
@@ -27040,6 +27046,7 @@ msgid "Back to top"
 msgstr "Voltar ao topo"
 
 #: lms/templates/footer.html:29
+#: lms/templates/static_templates/about.html:31
 msgid "What is Campus Agora?"
 msgstr "O que é o Campus Agora?"
 
@@ -27050,10 +27057,6 @@ msgstr "O que é a Metared?"
 #: lms/templates/footer.html:29
 msgid "What is Universia?"
 msgstr "O que é a Universia?"
-
-#: lms/templates/footer.html:29
-msgid "Help"
-msgstr "Ajuda"
 
 #: lms/templates/footer.html:40
 msgid "General terms"
@@ -27106,17 +27109,6 @@ msgstr "{number} semanas"
 msgid "Level"
 msgstr "Nível"
 
-#: lms/templates/course.html:63
-#: lms/templates/courseware/course_about.html:139
-msgid "Duration"
-msgstr "Duração"
-
-#: lms/templates/course.html:49
-#: lms/templates/course.html:60
-#: lms/templates/courseware/course_about.html:158
-msgid "Advanced"
-msgstr "Avançado"
-
 #: lms/templates/course.html:49
 #: lms/templates/course.html:60
 #: lms/templates/courseware/course_about.html:158
@@ -27138,10 +27130,6 @@ msgstr "Sobre nós"
 #: lms/templates/static_templates/about.html:26
 msgid "About Campus Agora"
 msgstr "Sobre o Campus Agora"
-
-#: lms/templates/static_templates/about.html:31
-msgid "What is Campus Agora?"
-msgstr "O que é o Campus Agora?"
 
 #: lms/templates/static_templates/about.html:32
 msgid "The open and free higher education platform."

@@ -42,6 +42,7 @@ msgid "Back to top"
 msgstr "Voltar ao topo"
 
 #: lms/templates/footer.html:29
+#: lms/templates/static_templates/about.html:31
 msgid "What is Campus Agora?"
 msgstr "O que é o Campus Agora?"
 
@@ -140,10 +141,6 @@ msgstr "Sobre nós"
 #: lms/templates/static_templates/about.html:26
 msgid "About Campus Agora"
 msgstr "Sobre o Campus Agora"
-
-#: lms/templates/static_templates/about.html:31
-msgid "What is Campus Agora?"
-msgstr "O que é o Campus Agora?"
 
 #: lms/templates/static_templates/about.html:32
 msgid "The open and free higher education platform."
