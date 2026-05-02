@@ -550,6 +550,8 @@ msgid "Name"
 msgstr ""
 
 #: cms/djangoapps/contentstore/video_storage_handlers.py:517
+#: lms/templates/course.html:63
+#: lms/templates/courseware/course_about.html:139
 msgid "Duration"
 msgstr ""
 
@@ -697,6 +699,9 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/views/component.py:447
 #: xmodule/video_block/video_block.py:152
+#: lms/templates/course.html:49
+#: lms/templates/course.html:60
+#: lms/templates/courseware/course_about.html:158
 msgid "Advanced"
 msgstr ""
 
@@ -13365,6 +13370,7 @@ msgstr ""
 
 #: wiki/plugins/help/wiki_plugin.py:13 cms/templates/widgets/header.html:350
 #: cms/templates/widgets/header.html:365
+#: lms/templates/footer.html:29
 #: lms/templates/header/navbar-authenticated.html:59
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:58
 #: lms/templates/navigation/navbar-authenticated.html:42
@@ -23749,6 +23755,7 @@ msgid "Back to top"
 msgstr ""
 
 #: lms/templates/footer.html:29
+#: lms/templates/static_templates/about.html:31
 msgid "What is Campus Agora?"
 msgstr ""
 
@@ -23758,10 +23765,6 @@ msgstr ""
 
 #: lms/templates/footer.html:29
 msgid "What is Universia?"
-msgstr ""
-
-#: lms/templates/footer.html:29
-msgid "Help"
 msgstr ""
 
 #: lms/templates/footer.html:40
@@ -23815,17 +23818,6 @@ msgstr ""
 msgid "Level"
 msgstr ""
 
-#: lms/templates/course.html:63
-#: lms/templates/courseware/course_about.html:139
-msgid "Duration"
-msgstr ""
-
-#: lms/templates/course.html:49
-#: lms/templates/course.html:60
-#: lms/templates/courseware/course_about.html:158
-msgid "Advanced"
-msgstr ""
-
 #: lms/templates/course.html:49
 #: lms/templates/course.html:60
 #: lms/templates/courseware/course_about.html:158
@@ -23846,10 +23838,6 @@ msgstr ""
 #: lms/templates/static_templates/about.html:24
 #: lms/templates/static_templates/about.html:26
 msgid "About Campus Agora"
-msgstr ""
-
-#: lms/templates/static_templates/about.html:31
-msgid "What is Campus Agora?"
 msgstr ""
 
 #: lms/templates/static_templates/about.html:32
