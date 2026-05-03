@@ -23984,3 +23984,38 @@ msgstr ""
 #: lms/templates/courseware/course_about.html:241
 msgid "Enrollment Dates"
 msgstr ""
+
+#: lms/templates/certificates/valid.html:305
+msgid "Save as PDF"
+msgstr ""
+
+#: lms/templates/certificates/valid.html:332
+msgid "has completed and passed the training activity"
+msgstr ""
+
+#: lms/templates/certificates/valid.html:335
+msgid "completed from {start_date} to {end_date}"
+msgstr ""
+
+#: lms/templates/certificates/valid.html:338
+msgid "with a dedication of {hours} hours."
+msgstr ""
+
+#: lms/templates/certificates/valid.html:345
+msgid "And for the appropriate purposes, this certificate is issued"
+msgstr ""
+
+#: lms/templates/certificates/valid.html:375
+#: lms/templates/certificates/valid.html:416
+#: lms/templates/certificates/valid.html:454
+msgid "CERTIFICATE ID:"
+msgstr ""
+
+#: lms/templates/certificates/valid.html:377
+#: lms/templates/certificates/valid.html:379
+#: lms/templates/certificates/valid.html:418
+#: lms/templates/certificates/valid.html:420
+#: lms/templates/certificates/valid.html:456
+#: lms/templates/certificates/valid.html:458
+msgid "Verified at:"
+msgstr ""

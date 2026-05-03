@@ -310,3 +310,38 @@ msgstr "Fechas del curso"
 #: lms/templates/courseware/course_about.html:241
 msgid "Enrollment Dates"
 msgstr "Fechas de inscripción"
+
+#: lms/templates/certificates/valid.html:305
+msgid "Save as PDF"
+msgstr "Guardar en PDF"
+
+#: lms/templates/certificates/valid.html:332
+msgid "has completed and passed the training activity"
+msgstr "ha llevado a cabo y superado la actividad formativa"
+
+#: lms/templates/certificates/valid.html:335
+msgid "completed from {start_date} to {end_date}"
+msgstr "realizada del {start_date} al {end_date}"
+
+#: lms/templates/certificates/valid.html:338
+msgid "with a dedication of {hours} hours."
+msgstr "con una dedicación de {hours} horas."
+
+#: lms/templates/certificates/valid.html:345
+msgid "And for the appropriate purposes, this certificate is issued"
+msgstr "Y para que conste a los efectos oportunos, se expide el presente certificado"
+
+#: lms/templates/certificates/valid.html:375
+#: lms/templates/certificates/valid.html:416
+#: lms/templates/certificates/valid.html:454
+msgid "CERTIFICATE ID:"
+msgstr "ID DEL CERTIFICADO:"
+
+#: lms/templates/certificates/valid.html:377
+#: lms/templates/certificates/valid.html:379
+#: lms/templates/certificates/valid.html:418
+#: lms/templates/certificates/valid.html:420
+#: lms/templates/certificates/valid.html:456
+#: lms/templates/certificates/valid.html:458
+msgid "Verified at:"
+msgstr "Verificado en:"
