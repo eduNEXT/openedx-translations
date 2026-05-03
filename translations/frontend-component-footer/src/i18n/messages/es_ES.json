@@ -39,5 +39,19 @@
   "authoring.footer.termsOfService.link.label": "Condiciones del servicio",
   "authoring.footer.privacyPolicy.link.label": "Política de privacidad",
   "authoring.footer.accessibilityRequest.link.label": "Solicitud de alojamiento de accesibilidad",
-  "authoring.footer.trademark.message": "edX y Open edX, y los logotipos de edX y Open edX son marcas comerciales registradas de"
+  "authoring.footer.trademark.message": "edX y Open edX, y los logotipos de edX y Open edX son marcas comerciales registradas de",
+  "footer.campusAgora.organizationLogo": "Logo de la organización",
+  "footer.campusAgora.copyright": "Campus Agora MetaRed © 2026",
+  "footer.campusAgora.collaboration": "En colaboración con Fundación Universia y Santander",
+  "footer.campusAgora.about": "Acerca de",
+  "footer.campusAgora.legal": "Legal",
+  "footer.campusAgora.backToTop": "Volver arriba",
+  "footer.campusAgora.link.aboutCampusAgora": "¿Qué es Campus Ágora?",
+  "footer.campusAgora.link.aboutMetared": "¿Qué es Metared?",
+  "footer.campusAgora.link.aboutUniversia": "¿Qué es Universia?",
+  "footer.campusAgora.link.aboutHelp": "Ayuda",
+  "footer.campusAgora.link.legalGeneralTerms": "Condiciones generales",
+  "footer.campusAgora.link.legalNotice": "Aviso legal",
+  "footer.campusAgora.link.legalCookies": "Política de cookies",
+  "footer.campusAgora.link.legalPrivacy": "Política de privacidad"
 }
