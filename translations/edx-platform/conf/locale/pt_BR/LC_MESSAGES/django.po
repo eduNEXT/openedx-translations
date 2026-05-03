@@ -13899,3 +13899,25 @@ msgstr "ID DO CERTIFICADO:"
 #: lms/templates/certificates/valid.html:458
 msgid "Verified at:"
 msgstr "Verificado em:"
+
+#: lms/templates/courses_list.html:22
+msgid "See more"
+msgstr "Ver mais"
+
+#: lms/templates/index.html:26
+msgid "Explore courses"
+msgstr "Explorar cursos"
+
+#: lms/templates/header/navbar-not-authenticated.html:53
+#: lms/templates/header/navbar-not-authenticated.html:57
+msgid "Sign in"
+msgstr "Entrar"
+
+#: lms/templates/header/navbar-not-authenticated.html:62
+#: lms/templates/header/navbar-not-authenticated.html:66
+msgid "Register for free"
+msgstr "Cadastre-se gratuitamente"
+
+#: lms/templates/courseware/course_about.html:148
+msgid "Effort"
+msgstr "Esforço"

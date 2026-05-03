@@ -4056,6 +4056,8 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html:67
 #: lms/templates/lti_provider/user-auth-error.html:30
 #: lms/templates/navigation/navbar-not-authenticated.html:49
+#: lms/templates/header/navbar-not-authenticated.html:53
+#: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Sign in"
 msgstr ""
 
@@ -17499,6 +17501,7 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html:42
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
+#: lms/templates/index.html:26
 msgid "Explore courses"
 msgstr ""
 
@@ -20058,6 +20061,7 @@ msgid "{weeks_to_complete} weeks per course"
 msgstr ""
 
 #: lms/templates/courseware/program_marketing.html:226
+#: lms/templates/courseware/course_about.html:148
 msgid "Effort"
 msgstr ""
 
@@ -21272,6 +21276,8 @@ msgstr ""
 
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
+#: lms/templates/header/navbar-not-authenticated.html:62
+#: lms/templates/header/navbar-not-authenticated.html:66
 msgid "Register for free"
 msgstr ""
 
@@ -24018,4 +24024,8 @@ msgstr ""
 #: lms/templates/certificates/valid.html:456
 #: lms/templates/certificates/valid.html:458
 msgid "Verified at:"
+msgstr ""
+
+#: lms/templates/courses_list.html:22
+msgid "See more"
 msgstr ""

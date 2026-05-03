@@ -4193,6 +4193,8 @@ msgstr "{sign_in_link} o {register_link}."
 #: lms/templates/header/navbar-not-authenticated.html:67
 #: lms/templates/lti_provider/user-auth-error.html:30
 #: lms/templates/navigation/navbar-not-authenticated.html:49
+#: lms/templates/header/navbar-not-authenticated.html:53
+#: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Sign in"
 msgstr "Acceso"
 
@@ -19101,6 +19103,7 @@ msgstr "No está inscrito en ningún curso aún."
 #: lms/templates/header/navbar-not-authenticated.html:42
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
+#: lms/templates/index.html:26
 msgid "Explore courses"
 msgstr "Explora cursos"
 
@@ -22009,6 +22012,7 @@ msgid "{weeks_to_complete} weeks per course"
 msgstr "{weeks_to_complete} semanas por curso"
 
 #: lms/templates/courseware/program_marketing.html:226
+#: lms/templates/courseware/course_about.html:148
 msgid "Effort"
 msgstr "Esfuerzo"
 
@@ -23448,6 +23452,8 @@ msgstr "Instituciones"
 
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
+#: lms/templates/header/navbar-not-authenticated.html:62
+#: lms/templates/header/navbar-not-authenticated.html:66
 msgid "Register for free"
 msgstr "Registrarse gratuitamente"
 
@@ -27858,3 +27864,7 @@ msgstr "ID DEL CERTIFICADO:"
 #: lms/templates/certificates/valid.html:458
 msgid "Verified at:"
 msgstr "Verificado en:"
+
+#: lms/templates/courses_list.html:22
+msgid "See more"
+msgstr "Ver más"
