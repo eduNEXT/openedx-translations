@@ -4196,7 +4196,7 @@ msgstr "{sign_in_link} o {register_link}."
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Sign in"
-msgstr "Acceso"
+msgstr "Inicia sesión"
 
 #: lms/djangoapps/courseware/views/views.py:590
 #, python-brace-format
@@ -23455,7 +23455,7 @@ msgstr "Instituciones"
 #: lms/templates/header/navbar-not-authenticated.html:62
 #: lms/templates/header/navbar-not-authenticated.html:66
 msgid "Register for free"
-msgstr "Registrarse gratuitamente"
+msgstr "Regístrate gratis"
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"

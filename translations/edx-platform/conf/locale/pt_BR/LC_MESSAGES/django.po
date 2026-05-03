@@ -13911,12 +13911,12 @@ msgstr "Explorar cursos"
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Sign in"
-msgstr "Entrar"
+msgstr "Faça login"
 
 #: lms/templates/header/navbar-not-authenticated.html:62
 #: lms/templates/header/navbar-not-authenticated.html:66
 msgid "Register for free"
-msgstr "Cadastre-se gratuitamente"
+msgstr "Cadastre-se grátis"
 
 #: lms/templates/courseware/course_about.html:148
 msgid "Effort"
