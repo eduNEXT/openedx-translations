@@ -535,6 +535,8 @@ msgid "Name"
 msgstr "Nome"
 
 #: cms/djangoapps/contentstore/video_storage_handlers.py:517
+#: lms/templates/course.html:63
+#: lms/templates/courseware/course_about.html:139
 msgid "Duration"
 msgstr "Duração"
 
@@ -699,6 +701,9 @@ msgstr "Problema em branco"
 
 #: cms/djangoapps/contentstore/views/component.py:384
 #: xmodule/video_block/video_block.py:152
+#: lms/templates/course.html:49
+#: lms/templates/course.html:60
+#: lms/templates/courseware/course_about.html:158
 msgid "Advanced"
 msgstr "Avançado"
 
@@ -4548,8 +4553,10 @@ msgstr "{sign_in_link} ou {register_link}."
 #: lms/templates/header/navbar-not-authenticated.html:67
 #: lms/templates/lti_provider/user-auth-error.html:30
 #: lms/templates/navigation/navbar-not-authenticated.html:49
+#: lms/templates/header/navbar-not-authenticated.html:53
+#: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Sign in"
-msgstr "Iniciar Sessão"
+msgstr "Inicia sessão"
 
 #: lms/djangoapps/courseware/views/views.py:571
 #, python-brace-format
@@ -15003,6 +15010,7 @@ msgstr "A sua pesquisa não encontrou nenhum resultado"
 #: lms/templates/navigation/navbar-authenticated.html:42
 #: lms/templates/static_templates/help.html:5
 #: lms/templates/static_templates/help.html:10
+#: lms/templates/footer.html:29
 msgid "Help"
 msgstr "Ajuda"
 
@@ -19813,6 +19821,7 @@ msgstr "Ainda não está inscrito em nenhum curso."
 #: lms/templates/header/navbar-not-authenticated.html:42
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
+#: lms/templates/index.html:26
 msgid "Explore courses"
 msgstr "Explorar cursos"
 
@@ -22820,6 +22829,7 @@ msgid "{weeks_to_complete} weeks per course"
 msgstr "{weeks_to_complete} semanas por curso"
 
 #: lms/templates/courseware/program_marketing.html:226
+#: lms/templates/courseware/course_about.html:148
 msgid "Effort"
 msgstr "Esforço"
 
@@ -24187,8 +24197,10 @@ msgstr "Escolas"
 
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
+#: lms/templates/header/navbar-not-authenticated.html:62
+#: lms/templates/header/navbar-not-authenticated.html:66
 msgid "Register for free"
-msgstr "Registre-se gratuitamente"
+msgstr "Regista-te grátis"
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
@@ -27010,3 +27022,325 @@ msgstr "Coloque aqui o seu Texto de Direitos de Autor!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de Código"
+
+#: lms/templates/index.html:23
+msgid "Learn skills for your professional career or personal growth"
+msgstr "Aprende competências para a tua carreira profissional ou crescimento pessoal"
+
+#: lms/templates/index.html:24
+msgid ""
+"With Campus Agora courses, taught by the best universities, you can develop "
+"skills to advance your career."
+msgstr ""
+"Com os cursos do Campus Agora, lecionados pelas melhores universidades, "
+"podes desenvolver competências para impulsionar a tua carreira."
+
+#: lms/templates/index.html:39
+msgid "Partners"
+msgstr "Parceiros"
+
+#: lms/templates/index.html:40
+msgid "Learn from those who generate knowledge"
+msgstr "Aprende com quem gera conhecimento"
+
+#: lms/templates/footer.html:22
+msgid "In collaboration with Fundacion Universia and Santander"
+msgstr "Em colaboração com a Fundación Universia e o Santander"
+
+#: lms/templates/footer.html:48
+msgid "Back to top"
+msgstr "Voltar ao topo"
+
+#: lms/templates/footer.html:29
+#: lms/templates/static_templates/about.html:31
+msgid "What is Campus Agora?"
+msgstr "O que é o Campus Agora?"
+
+#: lms/templates/footer.html:29
+msgid "What is Metared?"
+msgstr "O que é a Metared?"
+
+#: lms/templates/footer.html:29
+msgid "What is Universia?"
+msgstr "O que é a Universia?"
+
+#: lms/templates/footer.html:40
+msgid "General terms"
+msgstr "Condições gerais"
+
+#: lms/templates/footer.html:40
+msgid "Legal notice"
+msgstr "Aviso legal"
+
+#: lms/templates/footer.html:40
+msgid "Cookies policy"
+msgstr "Política de cookies"
+
+#: lms/templates/footer.html:40
+msgid "Privacy policy"
+msgstr "Política de privacidade"
+
+#: lms/templates/course.html:24
+#: lms/templates/courseware/course_about.html:123
+msgid "{number} year"
+msgstr "{number} ano"
+
+#: lms/templates/course.html:24
+#: lms/templates/courseware/course_about.html:123
+msgid "{number} years"
+msgstr "{number} anos"
+
+#: lms/templates/course.html:27
+#: lms/templates/courseware/course_about.html:126
+msgid "{number} month"
+msgstr "{number} mês"
+
+#: lms/templates/course.html:27
+#: lms/templates/courseware/course_about.html:126
+msgid "{number} months"
+msgstr "{number} meses"
+
+#: lms/templates/course.html:29
+#: lms/templates/courseware/course_about.html:128
+msgid "{number} week"
+msgstr "{number} semana"
+
+#: lms/templates/course.html:29
+#: lms/templates/courseware/course_about.html:128
+msgid "{number} weeks"
+msgstr "{number} semanas"
+
+#: lms/templates/course.html:60
+#: lms/templates/courseware/course_about.html:157
+msgid "Level"
+msgstr "Nível"
+
+#: lms/templates/course.html:49
+#: lms/templates/course.html:60
+#: lms/templates/courseware/course_about.html:158
+msgid "Intermediate"
+msgstr "Intermédio"
+
+#: lms/templates/course.html:49
+#: lms/templates/course.html:60
+#: lms/templates/courseware/course_about.html:158
+msgid "Introductory"
+msgstr "Introdutório"
+
+#: lms/templates/header/navbar-not-authenticated.html:33
+#: lms/templates/static_templates/about.html:17
+msgid "About Us"
+msgstr "Sobre nós"
+
+#: lms/templates/static_templates/about.html:24
+#: lms/templates/static_templates/about.html:26
+msgid "About Campus Agora"
+msgstr "Sobre o Campus Agora"
+
+#: lms/templates/static_templates/about.html:32
+msgid "The open and free higher education platform."
+msgstr "A plataforma de ensino superior aberta e gratuita."
+
+#: lms/templates/static_templates/about.html:38
+msgid "Quality university education to keep growing"
+msgstr "Ensino universitário de qualidade para continuar a crescer"
+
+#: lms/templates/static_templates/about.html:39
+msgid ""
+"Campus Agora is a collaborative initiative driven by a group of "
+"Ibero-American universities through the {metared_link} network, with the "
+"goal of facilitating open access to quality educational content, to help "
+"professional and personal growth."
+msgstr ""
+"O Campus Agora é uma iniciativa colaborativa impulsionada por um grupo de "
+"universidades ibero-americanas através da rede {metared_link}, com o "
+"objetivo de facilitar o acesso aberto a conteúdos educativos de qualidade, "
+"para apoiar o crescimento profissional e pessoal."
+
+#: lms/templates/static_templates/about.html:40
+msgid "Explore our courses"
+msgstr "Explora os nossos cursos"
+
+#: lms/templates/static_templates/about.html:44
+#: lms/templates/static_templates/about.html:46
+msgid "About image"
+msgstr "Imagem da secção «Sobre»"
+
+#: lms/templates/static_templates/about.html:57
+msgid "Want to publish your courses?"
+msgstr "Queres publicar os teus cursos?"
+
+#: lms/templates/static_templates/about.html:58
+msgid ""
+"Campus Agora is freely available for all Ibero-American Higher Education "
+"Institutions that wish to publish their open training courses of interest, "
+"aimed at students or other groups."
+msgstr ""
+"O Campus Agora está disponível gratuitamente para todas as Instituições de "
+"Ensino Superior ibero-americanas que pretendam publicar os seus cursos "
+"abertos de formação de interesse, dirigidos a estudantes ou outros grupos."
+
+#: lms/templates/static_templates/about.html:59
+msgid ""
+"The goal of Campus Agora is to become the largest Open Education Portal in "
+"Spanish and Portuguese."
+msgstr ""
+"O objetivo do Campus Agora é tornar-se o maior Portal de Educação Aberta em "
+"espanhol e português."
+
+#: lms/templates/static_templates/about.html:60
+msgid ""
+"If you are a University or Ibero-American Higher Education Institution and "
+"want to participate by including your courses, you can find all the "
+"information below:"
+msgstr ""
+"Se és uma Universidade ou Instituição de Ensino Superior ibero-americana e "
+"queres participar incluindo os teus cursos, podes encontrar toda a "
+"informação abaixo:"
+
+#: lms/templates/static_templates/about.html:61
+msgid "See information"
+msgstr "Ver informação"
+
+#: lms/templates/static_templates/about.html:65
+#: lms/templates/static_templates/about.html:67
+msgid "Publish courses"
+msgstr "Publicar cursos"
+
+#: lms/templates/partials/why_section.html:6
+msgid "Why Campus Agora"
+msgstr "Porquê o Campus Agora"
+
+#: lms/templates/partials/why_section.html:7
+msgid "Discover why learn at Campus Agora"
+msgstr "Descobre porque deves aprender no Campus Agora"
+
+#: lms/templates/partials/why_section.html:8
+msgid ""
+"Learn without barriers, backed by leading institutions and at your own pace."
+msgstr ""
+"Aprende sem barreiras, com o apoio de instituições de referência e ao teu "
+"próprio ritmo."
+
+#: lms/templates/partials/why_section.html:12
+msgid "University Rigor"
+msgstr "Rigor universitário"
+
+#: lms/templates/partials/why_section.html:13
+msgid ""
+"All our courses are created and taught by professors from prestigious "
+"universities, ensuring the highest quality academic content."
+msgstr ""
+"Todos os nossos cursos são criados e lecionados por professores de "
+"universidades de prestígio, garantindo conteúdos académicos da mais elevada "
+"qualidade."
+
+#: lms/templates/partials/why_section.html:17
+msgid "100% Open and Free"
+msgstr "100% Aberto e Gratuito"
+
+#: lms/templates/partials/why_section.html:18
+msgid ""
+"Access to all courses is completely free. Learn without financial barriers "
+"and access the knowledge you need to grow."
+msgstr ""
+"O acesso a todos os cursos é totalmente gratuito. Aprende sem barreiras "
+"económicas e acede ao conhecimento de que precisas para crescer."
+
+#: lms/templates/partials/why_section.html:22
+msgid "At Your Own Pace"
+msgstr "Ao teu próprio ritmo"
+
+#: lms/templates/partials/why_section.html:23
+msgid ""
+"Study whenever and wherever you want. Courses are available 24/7 so you can "
+"learn according to your availability and needs."
+msgstr ""
+"Estuda quando e onde quiseres. Os cursos estão disponíveis 24/7 para que "
+"possas aprender de acordo com a tua disponibilidade e necessidades."
+
+#: lms/templates/partials/why_section.html:27
+msgid "Certificate"
+msgstr "Certificado"
+
+#: lms/templates/partials/why_section.html:28
+msgid ""
+"Upon completing each program, you will receive a certificate co-issued by "
+"Campus Agora and the university that teaches it, certifying the completion "
+"of the course and the competencies you have acquired."
+msgstr ""
+"Ao concluíres cada programa, receberás um certificado coemitido pelo "
+"Campus Agora e pela universidade que o leciona, atestando a conclusão do "
+"curso e as competências que adquiriste."
+
+#: lms/templates/header/navbar-not-authenticated.html:29
+msgid "Explore"
+msgstr "Explora"
+
+#: lms/templates/header/navbar-not-authenticated.html:42
+#: lms/templates/header/navbar-not-authenticated.html:43
+msgid "What do you want to learn today?"
+msgstr "O que queres aprender hoje?"
+
+#: lms/templates/courseware/course_about.html:106
+msgid "Enroll here"
+msgstr "Inscreve-te aqui"
+
+#: lms/templates/courseware/course_about.html:133
+msgid "Self-paced"
+msgstr "MOOC-Autoguiado"
+
+#: lms/templates/courseware/course_about.html:149
+msgid "hours per week"
+msgstr "horas por semana"
+
+#: lms/templates/courseware/course_about.html:165
+msgid "Course Type"
+msgstr "Tipo de curso"
+
+#: lms/templates/courseware/course_about.html:200
+msgid "Course Dates"
+msgstr "Datas do curso"
+
+#: lms/templates/courseware/course_about.html:241
+msgid "Enrollment Dates"
+msgstr "Datas de inscrição"
+
+#: lms/templates/certificates/valid.html:305
+msgid "Save as PDF"
+msgstr "Guardar em PDF"
+
+#: lms/templates/certificates/valid.html:332
+msgid "has completed and passed the training activity"
+msgstr "realizou e concluiu com aproveitamento a atividade formativa"
+
+#: lms/templates/certificates/valid.html:335
+msgid "completed from {start_date} to {end_date}"
+msgstr "realizada de {start_date} a {end_date}"
+
+#: lms/templates/certificates/valid.html:338
+msgid "with a dedication of {hours} hours."
+msgstr "com uma dedicação de {hours} horas."
+
+#: lms/templates/certificates/valid.html:345
+msgid "And for the appropriate purposes, this certificate is issued"
+msgstr "E para que conste para os devidos efeitos, é emitido o presente certificado"
+
+#: lms/templates/certificates/valid.html:375
+#: lms/templates/certificates/valid.html:416
+#: lms/templates/certificates/valid.html:454
+msgid "CERTIFICATE ID:"
+msgstr "ID DO CERTIFICADO:"
+
+#: lms/templates/certificates/valid.html:377
+#: lms/templates/certificates/valid.html:379
+#: lms/templates/certificates/valid.html:418
+#: lms/templates/certificates/valid.html:420
+#: lms/templates/certificates/valid.html:456
+#: lms/templates/certificates/valid.html:458
+msgid "Verified at:"
+msgstr "Verificado em:"
+
+#: lms/templates/courses_list.html:22
+msgid "See more"
+msgstr "Ver mais"
