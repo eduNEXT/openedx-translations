@@ -6182,6 +6182,14 @@ msgstr "Ver, criar e reemitir direitos do estudante"
 msgid "Feature Based Enrollments"
 msgstr "Matricula baseada em características"
 
+#: lms/templates/courses_list.html
+msgid "Featured Courses"
+msgstr "Cursos em destaque"
+
+#: lms/templates/courseware/course_about.html
+msgid "Instructor-led"
+msgstr "Com instrutor"
+
 #: lms/djangoapps/support/views/index.py:36
 msgid "View feature based enrollment settings"
 msgstr "Ver definições de matrículas baseadas em características"
@@ -27228,12 +27236,12 @@ msgstr "Rigor universitário"
 
 #: lms/templates/partials/why_section.html:13
 msgid ""
-"All our courses are created and taught by professors from prestigious "
-"universities, ensuring the highest quality academic content."
+"Content created and supported by the best universities and higher education "
+"institutions, ensuring training with the highest standards of academic rigor."
 msgstr ""
-"Todos os nossos cursos são criados e lecionados por professores de "
-"universidades de prestígio, garantindo conteúdos académicos da mais elevada "
-"qualidade."
+"Conteúdos criados e apoiados pelas melhores universidades e instituições de "
+"ensino superior, garantindo uma formação com os mais elevados padrões de "
+"rigor académico."
 
 #: lms/templates/partials/why_section.html:17
 msgid "100% Open and Free"

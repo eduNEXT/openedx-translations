@@ -23923,8 +23923,8 @@ msgstr ""
 
 #: lms/templates/partials/why_section.html:13
 msgid ""
-"All our courses are created and taught by professors from prestigious "
-"universities, ensuring the highest quality academic content."
+"Content created and supported by the best universities and higher education "
+"institutions, ensuring training with the highest standards of academic rigor."
 msgstr ""
 
 #: lms/templates/partials/why_section.html:17
