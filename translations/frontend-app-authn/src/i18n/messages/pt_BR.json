@@ -123,7 +123,7 @@
   "registration.username.label": "Nome de Usuário Público",
   "registration.password.label": "Senha",
   "registration.country.label": "País/Região",
-  "registration.opt.in.label": "Eu concordo que {siteName} pode me enviar mensagens de marketing.",
+  "registration.opt.in.label": "Autorizo a Fundación Universia a me remeter, por qualquer meio, comunicações comerciais e/ou de caráter acadêmico, próprias e de terceiros, de forma personalizada e que possam resultar do meu interesse, pela minha condição de usuário da plataforma.",
   "help.text.name": "Esse nome será usado por todos os certificados que você ganhar.",
   "help.text.username.1": "O nome que o identificará em seus cursos.",
   "help.text.username.2": "Isso não poderá ser alterado mais tarde.",
@@ -177,5 +177,8 @@
   "complete.your.profile.2": "seu perfil",
   "register.page.terms.of.service.and.honor.code": "por criando um Conta , você concorda to o {tosAndHonorCode} e reconhece que {platformName} e cada Member processam seu dados b pessoal in de acordo com {privacyPolicy} .",
   "register.page.honor.code": "Eu concordo to o {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Eu concordo to o {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Li e aceito a {privacyPolicy}, os {generalTermsOfUse} e a {cookiePolicy}.",
+  "registration.accept.all.label": "Aceitar tudo:",
+  "general.terms.of.use": "Termos Gerais de Uso",
+  "cookie.policy": "Política de Cookies"
 }
