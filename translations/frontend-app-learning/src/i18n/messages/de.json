@@ -199,6 +199,7 @@
   "progress.weight": "Gewicht",
   "progress.weightedGrade": "Gewichtete Note",
   "progress.weightedGradeSummary": "Your current weighted grade summary",
+  "progress.weightedGradeSummaryTooltip": "Your current weighted grade summary",
   "progress.header": "Dein Fortschritt",
   "progress.header.targetUser": "Kurs Fortschritt von {username}",
   "progress.link.studio": "View grading in Studio",

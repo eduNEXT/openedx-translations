@@ -301,6 +301,7 @@
   "progress.weight": "Peso",
   "progress.weightedGrade": "nota ponderada",
   "progress.weightedGradeSummary": "Seu resumo de nota ponderada atual",
+  "progress.weightedGradeSummaryTooltip": "Seu resumo de nota ponderada bruta é {rawGrade} e arredondado para {roundedGrade}.",
   "progress.relatedLinks.datesCard.description": "Uma visualização da programação das datas de vencimento do seu curso e das próximas atribuições.",
   "progress.relatedLinks.datesCard.link": "Datas",
   "progress.relatedLinks.outlineCard.description": "Uma visão panorâmica do conteúdo do seu curso.",
