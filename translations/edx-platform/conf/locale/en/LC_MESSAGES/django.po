@@ -23999,3 +23999,6 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+msgid "About us"
+msgstr ""

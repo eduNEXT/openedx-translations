@@ -26072,3 +26072,6 @@ msgstr "Introduce tu texto de Copyright aquí"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de Código"
+
+msgid "About us"
+msgstr "Quiénes somos"

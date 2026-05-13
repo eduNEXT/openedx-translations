@@ -26858,3 +26858,6 @@ msgstr "Placer votre texte de droits d'auteur ici!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Éditeur de code"
+
+msgid "About us"
+msgstr "À propos de nous"
