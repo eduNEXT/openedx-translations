@@ -13929,3 +13929,7 @@ msgstr "Cadastre-se grátis"
 #: lms/templates/courseware/course_about.html:148
 msgid "Effort"
 msgstr "Esforço"
+
+#: themes/metared/lms/templates/courseware/course_about.html:368
+msgid "Related Courses"
+msgstr "Cursos relacionados"
