@@ -21873,6 +21873,10 @@ msgstr "Refina tu búsqueda"
 msgid "courses found"
 msgstr "cursos encontrados"
 
+#: lms/envs/production.py
+msgid "Institution"
+msgstr "Institución"
+
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:307
 msgid "Course Utilities"

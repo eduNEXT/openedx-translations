@@ -19923,6 +19923,10 @@ msgstr ""
 msgid "courses found"
 msgstr ""
 
+#: lms/envs/production.py
+msgid "Institution"
+msgstr ""
+
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:308
 msgid "Course Utilities"
