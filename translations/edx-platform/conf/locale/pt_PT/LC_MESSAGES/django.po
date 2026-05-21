@@ -27268,8 +27268,8 @@ msgstr ""
 "possas aprender de acordo com a tua disponibilidade e necessidades."
 
 #: lms/templates/partials/why_section.html:27
-msgid "Certificate"
-msgstr "Certificado"
+msgid "Certification"
+msgstr "Certificação"
 
 #: lms/templates/partials/why_section.html:28
 msgid ""

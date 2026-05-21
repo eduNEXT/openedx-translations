@@ -23948,7 +23948,7 @@ msgid ""
 msgstr ""
 
 #: lms/templates/partials/why_section.html:27
-msgid "Certificate"
+msgid "Certification"
 msgstr ""
 
 #: lms/templates/partials/why_section.html:28
