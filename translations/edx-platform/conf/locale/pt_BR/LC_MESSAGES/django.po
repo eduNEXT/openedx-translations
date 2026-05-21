@@ -11194,6 +11194,10 @@ msgstr "Lista de Cursos"
 msgid "Refine Your Search"
 msgstr "Pesquisa avançada"
 
+#: lms/templates/courseware/courses.html:89
+msgid "courses found"
+msgstr "cursos encontrados"
+
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:307
 msgid "Course Utilities"
@@ -13869,9 +13873,21 @@ msgstr "Tipo de curso"
 msgid "Course Dates"
 msgstr "Datas do curso"
 
+#: lms/templates/courseware/course_about.html:228
+msgid "End Date"
+msgstr "Data de término"
+
 #: lms/templates/courseware/course_about.html:241
 msgid "Enrollment Dates"
 msgstr "Datas de inscrição"
+
+#: lms/templates/courseware/course_about.html:253
+msgid "Enrollment Start"
+msgstr "Início da inscrição"
+
+#: lms/templates/courseware/course_about.html:269
+msgid "Enrollment End"
+msgstr "Fim da inscrição"
 
 #: lms/templates/certificates/valid.html:305
 msgid "Save as PDF"

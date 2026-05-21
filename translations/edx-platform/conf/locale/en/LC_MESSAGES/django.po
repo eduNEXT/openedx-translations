@@ -19919,6 +19919,10 @@ msgstr ""
 msgid "Refine Your Search"
 msgstr ""
 
+#: lms/templates/courseware/courses.html:89
+msgid "courses found"
+msgstr ""
+
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:308
 msgid "Course Utilities"
@@ -23987,8 +23991,20 @@ msgstr ""
 msgid "Course Dates"
 msgstr ""
 
+#: lms/templates/courseware/course_about.html:228
+msgid "End Date"
+msgstr ""
+
 #: lms/templates/courseware/course_about.html:241
 msgid "Enrollment Dates"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:253
+msgid "Enrollment Start"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:269
+msgid "Enrollment End"
 msgstr ""
 
 #: lms/templates/certificates/valid.html:305
