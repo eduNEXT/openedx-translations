@@ -123,7 +123,7 @@
   "registration.username.label": "Nombre de usuario público",
   "registration.password.label": "Contraseña",
   "registration.country.label": "País/Región",
-  "registration.opt.in.label": "Acepto que {siteName} pueda enviarme mensajes de publicidad.",
+  "registration.opt.in.label": "Autorizo a Fundación Universia a remitirme, por cualquier medio, comunicaciones comerciales y/o de carácter académico, propias y de terceros, de forma personalizada y que puedan resultar de mi interés, por mi condición de usuario de la plataforma.",
   "help.text.name": "Este nombre se utilizará en los certificados que consigas.",
   "help.text.username.1": "El nombre que te identificará en tus cursos.",
   "help.text.username.2": "No puede modificarse posteriormente.",
@@ -177,7 +177,6 @@
   "complete.your.profile.2": "tu perfil ",
   "register.page.terms.of.service.and.honor.code": "Al crear una cuenta, acepta {tosAndHonorCode} y reconoce que {platformName} y cada Miembro procesan sus datos personales de acuerdo con {privacyPolicy} .",
   "register.page.honor.code": "Acepto las {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Acepto las {platformName} {termsOfService}",
   "soa_footer_main.generalConditions": "Condiciones Generales",
   "soa_footer_main.legalNotice": "Aviso Legal",
   "soa_footer_main.privacy": "Privacidad",
@@ -185,5 +184,9 @@
   "soa_footer_main.accessibility": "Accesibilidad",
   "soa_footer_main.support": "Soporte y Ayuda",
   "soa_footer_main.allRightReserved": "Todos los derechos están reservados",
-  "header.menu.soa.myLearning.label": "Mi aprendizaje"
+  "header.menu.soa.myLearning.label": "Mi aprendizaje",
+  "register.page.terms.of.service": "He leído y acepto la {privacyPolicy}, {generalTermsOfUse} y {cookiePolicy}.",
+  "registration.accept.all.label": "Aceptar todo:",
+  "general.terms.of.use": "Condiciones generales de uso",
+  "cookie.policy": "Política de Cookies"
 }

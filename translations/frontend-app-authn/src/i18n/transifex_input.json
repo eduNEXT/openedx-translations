@@ -177,7 +177,6 @@
   "complete.your.profile.2": "your profile",
   "register.page.terms.of.service.and.honor.code": "By creating an account, you agree to the {tosAndHonorCode} and you acknowledge that {platformName} and each Member process your personal data in accordance with the {privacyPolicy}.",
   "register.page.honor.code": "I agree to the {platformName}&nbsp;{tosAndHonorCode}",
-  "register.page.terms.of.service": "I agree to the {platformName}&nbsp;{termsOfService}",
   "soa_footer_main.generalConditions": "General Conditions",
   "soa_footer_main.legalNotice": "Legal Notice",
   "soa_footer_main.privacy": "Privacy",
@@ -185,5 +184,9 @@
   "soa_footer_main.accessibility": "Accessibility",
   "soa_footer_main.support": "Support and Help",
   "soa_footer_main.allRightReserved": "All rights reserved",
-  "header.menu.soa.myLearning.label": "My Learning"
+  "header.menu.soa.myLearning.label": "My Learning",
+  "register.page.terms.of.service": "I have read and accept the {privacyPolicy}, {generalTermsOfUse} and {cookiePolicy}.",
+  "registration.accept.all.label": "Accept all:",
+  "general.terms.of.use": "General Terms of Use",
+  "cookie.policy": "Cookie Policy"
 }
