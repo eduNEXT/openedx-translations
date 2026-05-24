@@ -11202,6 +11202,11 @@ msgstr "cursos encontrados"
 msgid "Institution"
 msgstr "Instituição"
 
+#: prod/local/env/apps/openedx/settings/lms/development.py
+#: prod/local/env/apps/openedx/settings/lms/production.py
+msgid "Topic"
+msgstr "Tópico"
+
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:307
 msgid "Course Utilities"
