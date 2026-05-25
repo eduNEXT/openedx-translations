@@ -24047,7 +24047,7 @@ msgstr ""
 
 #: lms/templates/footer.html:225
 msgid "Support and Help"
-msgid ""
+msgstr ""
 
 #: lms/templates/index.html:23
 msgid "Learn skills for your professional career or personal growth"
