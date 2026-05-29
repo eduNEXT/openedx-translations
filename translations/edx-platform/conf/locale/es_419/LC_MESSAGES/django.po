@@ -27553,3 +27553,7 @@ msgstr "Soporte y Ayuda"
 #: lms/templates/header/header.html:140
 msgid "My Learning"
 msgstr "Mi aprendizaje"
+
+#: themes/metared/lms/templates/courseware/course_about.html:122
+msgid "Course Information"
+msgstr "Información del curso"
