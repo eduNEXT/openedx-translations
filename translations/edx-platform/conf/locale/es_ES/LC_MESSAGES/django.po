@@ -27900,3 +27900,7 @@ msgstr "Ver más"
 #: themes/metared/lms/templates/courseware/course_about.html:368
 msgid "Related Courses"
 msgstr "Cursos relacionados"
+
+#: themes/metared/lms/templates/courseware/course_about.html:122
+msgid "Course Information"
+msgstr "Información del curso"

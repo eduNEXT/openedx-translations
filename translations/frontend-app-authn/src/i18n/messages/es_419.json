@@ -185,5 +185,7 @@
   "soa_footer_main.accessibility": "Accesibilidad",
   "soa_footer_main.support": "Soporte y Ayuda",
   "soa_footer_main.allRightReserved": "Todos los derechos reservados.",
-  "header.menu.soa.myLearning.label": "Mi aprendizaje"
+  "header.menu.soa.myLearning.label": "Mi aprendizaje",
+  "registration.announcement.title": "Muy pronto podrás formarte con los mejores cursos.",
+  "registration.announcement.message": "El registro <b>se abrirá el {date, date, long}</b> y será totalmente gratuito."
 }
