@@ -188,5 +188,7 @@
   "register.page.terms.of.service": "Li e aceito a {privacyPolicy}, os {generalTermsOfUse} e a {cookiePolicy}.",
   "registration.accept.all.label": "Aceitar tudo:",
   "general.terms.of.use": "Termos Gerais de Utilização",
-  "cookie.policy": "Política de Cookies"
+  "cookie.policy": "Política de Cookies",
+   "registration.announcement.title": "Muito em breve, poderá aprender com os melhores cursos.",
+   "registration.announcement.message": "O registo <b>abrirá em {date, date, long}</b> e será completamente gratuito."
 }
