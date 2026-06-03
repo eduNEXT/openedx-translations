@@ -10805,7 +10805,7 @@ msgstr "Crear una cuenta"
 #: lms/templates/student_account/hinted_login.underscore:4
 #: lms/templates/student_account/login.underscore:56
 msgid "Sign in"
-msgstr "Acceso"
+msgstr "Iniciar sesión"
 
 #: lms/templates/student_account/hinted_login.underscore:8
 #, python-format
@@ -10893,7 +10893,7 @@ msgstr ""
 
 #: lms/templates/student_account/login.underscore:27
 msgid "Sign In"
-msgstr "Acceso"
+msgstr "Iniciar sesión"
 
 #: lms/templates/student_account/login.underscore:34
 msgid ""
