@@ -66,7 +66,7 @@ msgstr "El curso no se puede cambiar para una ejecución de curso existente"
 
 #: apps/api/serializers.py:1155
 msgid "Minimum effort cannot be greater than Maximum effort"
-msgstr "Esfuerza mínima no puede ser menor que Esfuerza máxima"
+msgstr "Esfuerzo mínimo no puede ser mayor que Esfuerzo máximo"
 
 #: apps/api/serializers.py:1157
 msgid "Minimum effort and Maximum effort cannot be the same"

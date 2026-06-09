@@ -2882,7 +2882,7 @@ msgstr "Nivel"
 
 #: enterprise/views.py:1610 enterprise/views.py:2110
 msgid "Effort"
-msgstr "Esfuerza"
+msgstr "Esfuerzo"
 
 #: enterprise/views.py:1611
 msgid "Duration"
