@@ -13,3 +13,39 @@ msgstr ""
 
 msgid "Upload your assignment"
 msgstr "Subir tarea"
+
+msgid "Upload a different file"
+msgstr "Subir un archivo diferente"
+
+msgid "Staff Graded Assignment"
+msgstr "Tarea calificada por el profesor"
+
+msgid "File uploaded"
+msgstr "Archivo subido"
+
+msgid "This assignment has not yet been graded."
+msgstr "Esta tarea aún no ha sido calificada."
+
+msgid "Submit"
+msgstr "Entregar tarea"
+
+msgid "Submit"
+msgstr "Entregar tarea"
+
+msgid "Submit"
+msgstr "Entregar tarea"
+
+msgid "Grade Submissions"
+msgstr "Calificar entregas"
+
+msgid "Enter Grade"
+msgstr "Introducir calificación"
+
+msgid "Grade:"
+msgstr "Calificación:"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Remove grade"
+msgstr "Eliminar calificación"
