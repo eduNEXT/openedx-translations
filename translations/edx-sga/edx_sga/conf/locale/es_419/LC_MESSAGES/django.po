@@ -29,12 +29,6 @@ msgstr "Esta tarea aún no ha sido calificada."
 msgid "Submit"
 msgstr "Entregar tarea"
 
-msgid "Submit"
-msgstr "Entregar tarea"
-
-msgid "Submit"
-msgstr "Entregar tarea"
-
 msgid "Grade Submissions"
 msgstr "Calificar entregas"
 
