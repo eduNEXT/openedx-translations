@@ -35,11 +35,98 @@ msgstr "Calificar entregas"
 msgid "Enter Grade"
 msgstr "Introducir calificación"
 
+msgid "Enter grade"
+msgstr "Introducir calificación"
+
 msgid "Grade:"
 msgstr "Calificación:"
+
+msgid "Grade"
+msgstr "Calificación"
 
 msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Remove grade"
 msgstr "Eliminar calificación"
+
+msgid "Upload annotated file"
+msgstr "Subir archivo con anotaciones"
+
+msgid "Grade for"
+msgstr "Calificación de"
+
+msgid "Grade for %(student_name)s"
+msgstr "Calificación de %(student_name)s"
+
+msgid "Comment:"
+msgstr "Comentario:"
+
+msgid "Instructor comment"
+msgstr "Comentario del profesor"
+
+msgid "Instructor's comments"
+msgstr "Comentarios del instructor"
+
+msgid "Your score is"
+msgstr "Tu puntuación es"
+
+msgid "Your score is <%= graded.score %> / <%= max_score %>"
+msgstr "Tu puntuación es <%= graded.score %> / <%= max_score %>"
+
+msgid "Download All Submissions"
+msgstr "Descargar todas las entregas"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Filename"
+msgstr "Nombre de archivo"
+
+msgid "Uploaded"
+msgstr "Subido"
+
+msgid "Submitted"
+msgstr "Entregado"
+
+msgid "Annotated"
+msgstr "Anotado"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Approve grade"
+msgstr "Aprobar calificación"
+
+msgid "Annotated file from instructor"
+msgstr "Archivo anotado por el instructor"
+
+msgid "Awaiting instructor approval"
+msgstr "Pendiente de aprobación del instructor"
+
+msgid "Loading..."
+msgstr "Cargando"
+
+msgid "Staff Debug"
+msgstr "Depuración de personal"
+
+msgid "is_released"
+msgstr "is_released"
+
+msgid "location"
+msgstr "ubicación"
+
+msgid "Module Fields"
+msgstr "Campos del módulo"
+
+msgid "category"
+msgstr "categoría"
