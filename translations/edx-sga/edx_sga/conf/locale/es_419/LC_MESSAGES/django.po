@@ -56,9 +56,6 @@ msgstr "Subir archivo con anotaciones"
 msgid "Grade for"
 msgstr "Calificación de"
 
-msgid "Grade for %(student_name)s"
-msgstr "Calificación de %(student_name)s"
-
 msgid "Comment:"
 msgstr "Comentario:"
 
@@ -70,9 +67,6 @@ msgstr "Comentarios del instructor"
 
 msgid "Your score is"
 msgstr "Tu puntuación es"
-
-msgid "Your score is <%= graded.score %> / <%= max_score %>"
-msgstr "Tu puntuación es <%= graded.score %> / <%= max_score %>"
 
 msgid "Download All Submissions"
 msgstr "Descargar todas las entregas"
