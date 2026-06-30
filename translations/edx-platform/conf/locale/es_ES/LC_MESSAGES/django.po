@@ -2407,12 +2407,10 @@ msgstr "Disfrute aprendiendo con %(platform_name)s."
 #, python-format, python-brace-format
 msgid ""
 "If you need help, please use our web form at "
-"{start_anchor_web}%(support_url)s{end_anchor} or email "
-"{start_anchor_email}%(support_email)s{end_anchor}."
+"{start_anchor_web}%(support_url)s{end_anchor}."
 msgstr ""
 "Si necesita ayuda, utilice nuestro formulario web en "
-"{start_anchor_web}%(support_url)s{end_anchor} o envíe un correo electrónico "
-"a {start_anchor_email}%(support_email)s{end_anchor}."
+"{start_anchor_web}%(support_url)s{end_anchor}."
 
 #: common/templates/student/edx_ace/accountactivation/email/body.html:64
 #: common/templates/student/edx_ace/accountactivation/email/body.txt:10
@@ -2440,12 +2438,8 @@ msgstr ""
 
 #: common/templates/student/edx_ace/accountactivation/email/body.txt:8
 #, python-format
-msgid ""
-"If you need help, please use our web form at %(support_url)s or email "
-"%(support_email)s."
-msgstr ""
-"Si necesita ayuda, utilice nuestro formulario web en %(support_url)s o envíe"
-" un correo electrónico %(support_email)s."
+msgid "If you need help, please use our web form at %(support_url)s."
+msgstr "Si necesita ayuda, utilice nuestro formulario web en %(support_url)s."
 
 #: common/templates/student/edx_ace/accountactivation/email/subject.txt:3
 #, python-format
@@ -7330,9 +7324,9 @@ msgstr "Descargar la aplicación para iOS desde el Apple Store"
 msgid "Download the Android app on the Google Play Store"
 msgstr "Descarga la aplicación de Android desde el Google Play Store"
 
-#: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:233
-msgid "Our mailing address is:"
-msgstr "Nuestra dirección de correo es:"
+#: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:235
+msgid "Our help and contact web form is:"
+msgstr "Nuestro formulario web de ayuda y contacto es:"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:240
 msgid "Unsubscribe from these emails."
