@@ -53,8 +53,8 @@ msgstr "Eliminar calificación"
 msgid "Upload annotated file"
 msgstr "Subir archivo con anotaciones"
 
-msgid "Grade for"
-msgstr "Calificación de"
+msgid "Grade for %(student_name)s"
+msgstr "Calificación de %(student_name)s"
 
 msgid "Comment:"
 msgstr "Comentario:"
@@ -65,8 +65,8 @@ msgstr "Comentario del profesor"
 msgid "Instructor's comments"
 msgstr "Comentarios del instructor"
 
-msgid "Your score is"
-msgstr "Tu puntuación es"
+msgid "Your score is %(score)s / %(max_score)s"
+msgstr "Tu puntuación es %(score)s / %(max_score)s"
 
 msgid "Download All Submissions"
 msgstr "Descargar todas las entregas"
