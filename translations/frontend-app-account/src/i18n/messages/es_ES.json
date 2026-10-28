@@ -280,7 +280,7 @@
   "account.settings.cannot.delete.account.text": "",
   "account.settings.delete.account.header": "Borrar mi cuenta",
   "account.settings.delete.account.subheader": "Sentimos que te vayas.",
-  "account.settings.delete.account.text.1": "Cuidado: la eliminación de tu cuenta y datos personales es una acción permanente e irreversible. {platformName} no podrá recuperar ni tu cuenta ni los datos eliminados.",
+  "account.settings.delete.account.text.1": "Cuidado: la eliminación de tu cuenta y datos personales es una acción permanente e irreversible. {siteName} no podrá recuperar ni tu cuenta ni los datos eliminados.",
   "account.settings.delete.account.text.2": "Cuando tu cuenta haya sido eliminada, no podrás usarla para realizar cursos en {siteName}.",
   "account.settings.delete.account.text.2.edX": "Cuando tu cuenta haya sido eliminada, no podrás usarla para realizar cursos en la aplicación edX, edx.org o cualquier otro sitio alojado por edX. Esto incluye el acceso a edx.org desde el sistema de tu empleador o universidad y el acceso a sitios privados ofrecidos por MIT Open Learning, Wharton Executive Education y Harvard Medical School.",
   "account.settings.delete.account.text.3.link": "Sigue estas instrucciones para imprimir o descargar un certificado",
