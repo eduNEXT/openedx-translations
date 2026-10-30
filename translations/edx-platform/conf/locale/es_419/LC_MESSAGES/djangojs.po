@@ -7996,7 +7996,7 @@ msgstr "Administrar etiquetas"
 
 #: cms/templates/js/course-outline.underscore:220
 msgid "Copy to Clipboard"
-msgstr "Eliminar"
+msgstr "Copiar al portapapeles"
 
 #: cms/templates/js/course-outline.underscore:225
 #: cms/templates/js/course-outline.underscore:248
@@ -10326,7 +10326,7 @@ msgstr "Mostrar menos"
 
 #: lms/templates/discovery/course_card.underscore:6
 msgid "LEARN MORE"
-msgstr "APRENDER MAS"
+msgstr "APRENDE MÁS"
 
 #: lms/templates/discovery/course_card.underscore:17
 #, python-format
