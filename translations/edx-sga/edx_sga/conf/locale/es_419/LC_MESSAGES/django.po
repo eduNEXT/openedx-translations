@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: edx-sga\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-17 00:00+0000\n"
-"PO-Revision-Date: 2026-06-17 00:00+0000\n"
+"PO-Revision-Date: 2026-10-30 00:00+0000\n"
 "Last-Translator: eduNEXT\n"
 "Language-Team: Spanish (Latin America)\n"
 "Language: es_419\n"
@@ -124,3 +124,85 @@ msgstr "Campos del módulo"
 
 msgid "category"
 msgstr "categoría"
+
+msgid "This name appears in the horizontal navigation at the top of the page."
+msgstr "Este nombre aparece en la navegación horizontal en la parte superior de la página."
+
+msgid "Problem Weight"
+msgstr "Valor del problema"
+
+msgid ""
+"Defines the number of points each problem is worth. If the value is not set, "
+"the problem is worth the sum of the option point values."
+msgstr ""
+"Define el número de puntos que vale cada problema. Si no se establece el "
+"valor, el problema vale la suma de los valores de los puntos de opción."
+
+msgid "Maximum score"
+msgstr "Puntuación máxima"
+
+msgid "Maximum grade score given to assignment by staff."
+msgstr "Puntuación máxima que el personal puede asignar a la tarea."
+
+msgid "Hide score from learners in this component"
+msgstr "Ocultar la puntuación a los estudiantes en este componente"
+
+msgid ""
+"When enabled, learners see 'Your submission has been graded.' instead of "
+"their numeric score inside this SGA component after grading. Staff can "
+"continue to view and manage the score. Other Open edX views may still "
+"display it."
+msgstr ""
+"Cuando esta opción está habilitada, los estudiantes ven «Tu entrega ha sido "
+"calificada.» en lugar de su puntuación numérica dentro de este componente "
+"SGA después de la calificación. El personal puede seguir viendo y "
+"administrando la puntuación. Es posible que otras vistas de Open edX aún la "
+"muestren."
+
+msgid "Score assigned by non-instructor staff"
+msgstr "Puntuación asignada por personal que no es instructor"
+
+msgid "Score will need to be approved by instructor before being published."
+msgstr "La puntuación deberá ser aprobada por un instructor antes de publicarse."
+
+msgid "Feedback given to student by instructor."
+msgstr "Comentarios proporcionados al estudiante por el instructor."
+
+msgid "Annotated SHA1"
+msgstr "SHA1 del archivo anotado"
+
+msgid "sha1 of the annotated file uploaded by the instructor for this assignment."
+msgstr "SHA1 del archivo anotado que el instructor subió para esta tarea."
+
+msgid "Annotated file name"
+msgstr "Nombre del archivo anotado"
+
+msgid "The name of the annotated file uploaded for this assignment."
+msgstr "El nombre del archivo anotado que se subió para esta tarea."
+
+msgid "Mime type of annotated file"
+msgstr "Tipo MIME del archivo anotado"
+
+msgid "The mimetype of the annotated file uploaded for this assignment."
+msgstr "El tipo MIME del archivo anotado que se subió para esta tarea."
+
+msgid "Timestamp"
+msgstr "Marca de tiempo"
+
+msgid "When the annotated file was uploaded"
+msgstr "Fecha y hora en que se subió el archivo anotado"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "No file has been uploaded."
+msgstr "No se ha subido ningún archivo."
+
+msgid "Your submission has been graded."
+msgstr "Tu entrega ha sido calificada."
+
+msgid "Select a file"
+msgstr "Seleccionar un archivo"
+
+msgid "Staff Debug Info"
+msgstr "Información de depuración para el personal"
