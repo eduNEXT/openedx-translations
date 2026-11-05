@@ -27245,3 +27245,15 @@ msgstr "Conteúdo do curso criado por"
 #: lms/templates/certificates/valid.html
 msgid "Serial number"
 msgstr "Número de série"
+
+#: lms/templates/certificates/valid.html
+msgid "Back to your course"
+msgstr "Voltar ao seu curso"
+
+#: lms/templates/certificates/valid.html
+msgid "Hide certificate options"
+msgstr "Ocultar opções do certificado"
+
+#: lms/templates/certificates/valid.html
+msgid "Show certificate options"
+msgstr "Mostrar opções do certificado"
