@@ -10284,3 +10284,24 @@ msgstr "¿Qué significa esto?"
 #: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:17
 msgid "Learners are added to this cohort automatically."
 msgstr "Los estudiantes son agregados automáticamente a esta cohorte."
+
+#: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:5
+msgid "You are currently sharing a limited profile."
+msgstr "Actualmente está compartiendo un perfil limitado."
+
+#: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:7
+msgid "This learner is currently sharing a limited profile."
+msgstr "Este usuario está compartiendo un perfil limitado."
+
+#: lms/templates/preview_menu.html:59
+msgid "View this course as:"
+msgstr "Ver este curso como:"
+
+#: lms/templates/preview_menu.html:63
+msgid "Specific learner"
+msgstr "Estudiante específico"
+
+#: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:120
+msgid "View Course in Studio"
+msgstr "Ver Curso en Studio"
+
