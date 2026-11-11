@@ -479,5 +479,9 @@
   "header.menu.soa.myLearning.label": "My Learning",
   "soa.certificate.dni.error": "Ocorreu um erro na validação do DNI.",
   "soa.certificate.dni.error.retry": "Tentar novamente",
-  "soa.certificate.dni.loading": "Validando DNI"
+  "soa.certificate.dni.loading": "Validando DNI",
+  "soa.progress.certificateStatus.almostReadyHeader": "Seu certificado está quase pronto",
+  "soa.progress.certificateStatus.almostReadyBody": "Conclua pelo menos {required}% do conteúdo do curso para obter seu certificado. Atualmente, você está em {current}%.",
+  "soa.progress.certificateStatus.almostReadyButton": "Retomar curso",
+  "soa.outline.certificateStatus.viewProgressButton": "Ver progresso"
 }
