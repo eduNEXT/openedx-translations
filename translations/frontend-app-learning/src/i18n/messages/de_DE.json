@@ -492,5 +492,9 @@
   "header.menu.soa.myLearning.label": "My Learning",
   "soa.certificate.dni.error": "Bei der Validierung der DNI ist ein Fehler aufgetreten.",
   "soa.certificate.dni.error.retry": "Erneut versuchen",
-  "soa.certificate.dni.loading": "DNI wird validiert"
+  "soa.certificate.dni.loading": "DNI wird validiert",
+  "soa.progress.certificateStatus.almostReadyHeader": "Ihr Zertifikat ist fast fertig",
+  "soa.progress.certificateStatus.almostReadyBody": "Schließen Sie mindestens {required} % der Kursinhalte ab, um Ihr Zertifikat zu erhalten. Derzeit liegen Sie bei {current} %.",
+  "soa.progress.certificateStatus.almostReadyButton": "Kurs fortsetzen",
+  "soa.outline.certificateStatus.viewProgressButton": "Fortschritt anzeigen"
 }
